@@ -2,6 +2,7 @@
   "name": "part-time-tech-jobs",
   "version": "0.1.0",
   "private": true,
+  "packageManager": "pnpm@11.7.0",
   "engines": {
     "node": ">=22"
   },
