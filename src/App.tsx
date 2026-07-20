@@ -13,6 +13,59 @@ const benefitOptions: Array<{ label: string; value: "Any" | BenefitType | "None"
   { label: "Benefits not disclosed", value: "Unknown" },
 ];
 
+const sortOptions = [
+  { value: "posted-desc", label: "Posted: newest first" },
+  { value: "posted-asc", label: "Posted: oldest first" },
+  { value: "verified-desc", label: "Last checked: newest first" },
+  { value: "pay-desc", label: "Hourly pay: high to low" },
+  { value: "pay-asc", label: "Hourly pay: low to high" },
+  { value: "hours-asc", label: "Weekly hours: low to high" },
+  { value: "company-asc", label: "Company: A to Z" },
+] as const;
+
+type SortValue = (typeof sortOptions)[number]["value"];
+
+const dateFormatter = new Intl.DateTimeFormat("en-US", {
+  month: "short",
+  day: "numeric",
+  year: "numeric",
+  timeZone: "UTC",
+});
+
+function formatDate(value: string) {
+  return dateFormatter.format(new Date(`${value}T12:00:00Z`));
+}
+
+function hourlyMidpoint(job: Job) {
+  if (job.hourlyPayMin === null || job.hourlyPayMax === null) return null;
+  return (job.hourlyPayMin + job.hourlyPayMax) / 2;
+}
+
+function compareNullable(a: number | null, b: number | null, direction: "asc" | "desc") {
+  if (a === null && b === null) return 0;
+  if (a === null) return 1;
+  if (b === null) return -1;
+  return direction === "asc" ? a - b : b - a;
+}
+
+function compareJobs(a: Job, b: Job, sort: SortValue) {
+  if (sort === "posted-asc") return a.postedDate.localeCompare(b.postedDate) || a.company.localeCompare(b.company);
+  if (sort === "verified-desc") {
+    return b.lastVerifiedDate.localeCompare(a.lastVerifiedDate) || b.postedDate.localeCompare(a.postedDate);
+  }
+  if (sort === "pay-desc") {
+    return compareNullable(hourlyMidpoint(a), hourlyMidpoint(b), "desc") || b.postedDate.localeCompare(a.postedDate);
+  }
+  if (sort === "pay-asc") {
+    return compareNullable(hourlyMidpoint(a), hourlyMidpoint(b), "asc") || b.postedDate.localeCompare(a.postedDate);
+  }
+  if (sort === "hours-asc") {
+    return compareNullable(a.hoursMin, b.hoursMin, "asc") || b.postedDate.localeCompare(a.postedDate);
+  }
+  if (sort === "company-asc") return a.company.localeCompare(b.company) || a.role.localeCompare(b.role);
+  return b.postedDate.localeCompare(a.postedDate) || a.company.localeCompare(b.company);
+}
+
 function matchesHours(job: Job, value: string) {
   if (value === "any") return true;
   if (job.hoursMin === null || job.hoursMax === null) return false;
@@ -36,6 +89,7 @@ export default function App() {
   const [workType, setWorkType] = useState<(typeof workTypes)[number]>("Any");
   const [seniority, setSeniority] = useState("Any");
   const [benefit, setBenefit] = useState<(typeof benefitOptions)[number]["value"]>("Any");
+  const [sort, setSort] = useState<SortValue>("posted-desc");
   const [email, setEmail] = useState("");
   const [subscribed, setSubscribed] = useState(false);
 
@@ -47,6 +101,7 @@ export default function App() {
     setWorkType((initial.get("type") as (typeof workTypes)[number]) ?? "Any");
     setSeniority(initial.get("seniority") ?? "Any");
     setBenefit((initial.get("benefit") as (typeof benefitOptions)[number]["value"]) ?? "Any");
+    setSort((initial.get("sort") as SortValue) ?? "posted-desc");
   }, []);
 
   useEffect(() => {
@@ -57,9 +112,10 @@ export default function App() {
     if (workType !== "Any") params.set("type", workType);
     if (seniority !== "Any") params.set("seniority", seniority);
     if (benefit !== "Any") params.set("benefit", benefit);
+    if (sort !== "posted-desc") params.set("sort", sort);
     const query = params.toString();
     window.history.replaceState(null, "", query ? `?${query}` : window.location.pathname);
-  }, [role, location, hours, workType, seniority, benefit]);
+  }, [role, location, hours, workType, seniority, benefit, sort]);
 
   const filteredJobs = useMemo(() => {
     const roleQuery = role.trim().toLowerCase();
@@ -88,8 +144,8 @@ export default function App() {
         (seniority === "Any" || job.seniority === seniority) &&
         benefitMatch
       );
-    });
-  }, [role, location, hours, workType, seniority, benefit]);
+    }).sort((a, b) => compareJobs(a, b, sort));
+  }, [role, location, hours, workType, seniority, benefit, sort]);
 
   function resetFilters() {
     setRole("");
@@ -98,6 +154,7 @@ export default function App() {
     setWorkType("Any");
     setSeniority("Any");
     setBenefit("Any");
+    setSort("posted-desc");
   }
 
   function handleSubscribe(event: FormEvent<HTMLFormElement>) {
@@ -122,7 +179,7 @@ export default function App() {
       </header>
 
       <section className="hero" id="top">
-        <div className="hero-kicker"><span className="pulse-dot" /> Real openings, checked July 19, 2026</div>
+        <div className="hero-kicker"><span className="pulse-dot" /> 31 source-linked openings · checked July 19, 2026</div>
         <h1>Real work.<br /><span>A week that fits.</span></h1>
         <p className="hero-copy">
           Meaningful, accountable tech roles for people whose health, caregiving,
@@ -173,6 +230,7 @@ export default function App() {
             <span>Seniority</span>
             <select value={seniority} onChange={(event) => setSeniority(event.target.value)}>
               <option>Any</option>
+              <option>Entry-level</option>
               <option>Mid-level</option>
               <option>Senior</option>
               <option>Not specified</option>
@@ -193,9 +251,17 @@ export default function App() {
             <p className="eyebrow">Current public listings</p>
             <h2 id="jobs-heading"><span aria-live="polite">{filteredJobs.length}</span> roles match</h2>
           </div>
-          <div className="crawl-status">
-            <strong>Manual crawl · July 19, 2026</strong>
-            <span>Always verify details on the original listing.</span>
+          <div className="results-tools">
+            <label className="sort-control">
+              <span>Sort results</span>
+              <select value={sort} onChange={(event) => setSort(event.target.value as SortValue)}>
+                {sortOptions.map((option) => <option key={option.value} value={option.value}>{option.label}</option>)}
+              </select>
+            </label>
+            <div className="crawl-status">
+              <strong>31-role crawl · July 19, 2026</strong>
+              <span>Pay sorting uses range midpoints; undisclosed pay appears last.</span>
+            </div>
           </div>
         </div>
 
@@ -209,7 +275,16 @@ export default function App() {
                     <p className="company-name">{job.company} <span className="verified">Source checked</span></p>
                     <h3>{job.role}</h3>
                   </div>
-                  <div className="pay">{job.compensation}</div>
+                  <div className="pay">
+                    {job.compensation}
+                    <span className={job.hourlyPayIsEstimate ? "estimated-pay" : undefined}>
+                      {job.hourlyPayIsEstimate
+                        ? "Calculated hourly estimate"
+                        : job.hourlyPayMin === null
+                          ? "Not included in pay sorting"
+                          : "Published hourly pay"}
+                    </span>
+                  </div>
                 </div>
 
                 <div className="job-facts">
@@ -227,7 +302,10 @@ export default function App() {
                 <div className="job-bottom">
                   <div>
                     <div className="tag-list" aria-label="Skills">{job.tags.map((tag) => <span key={tag}>{tag}</span>)}</div>
-                    <p className="source-line">{job.posted} · Checked {job.crawledAt} via {job.sourceName}</p>
+                    <p className="source-line">
+                      {job.postedDateIsEstimate ? "Approx. posted" : "Posted"} {formatDate(job.postedDate)}
+                      {" · "}Checked {formatDate(job.lastVerifiedDate)} via {job.sourceName}
+                    </p>
                   </div>
                   <div className="job-actions">
                     <a className="view-role" href={job.sourceUrl} target="_blank" rel="noreferrer">View original listing ↗</a>
@@ -241,6 +319,7 @@ export default function App() {
                       <h4>How the role is scoped</h4>
                       <p>{job.summary}</p>
                       <p className="overlap-note">Working terms: {job.collaboration}</p>
+                      <p className="pay-method"><strong>Pay normalization:</strong> {job.hourlyPayNote}</p>
                     </div>
                     <div>
                       <h4>Stated responsibilities</h4>
