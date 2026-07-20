@@ -130,7 +130,9 @@ nav a:not(.nav-cta):hover { text-decoration: underline; text-underline-offset: 4
 .jobs-section, .how-section { margin: 0 auto; max-width: 1240px; padding: 100px 32px; }
 .results-bar { margin-bottom: 28px; }
 .results-bar h2 { font-size: 38px; }
-.prototype-badge { background: #e5dfd3; border: 1px solid var(--line); border-radius: 999px; color: #6d6b64; font-size: 11px; font-weight: 800; letter-spacing: 0.06em; padding: 8px 12px; text-transform: uppercase; }
+.crawl-status { align-items: flex-end; display: flex; flex-direction: column; gap: 4px; text-align: right; }
+.crawl-status strong { font-size: 12px; letter-spacing: 0.04em; text-transform: uppercase; }
+.crawl-status span { color: var(--muted); font-size: 11px; }
 .job-list { display: grid; gap: 14px; }
 .job-card { background: var(--white); border: 1px solid var(--line); border-radius: 18px; display: grid; gap: 22px; grid-template-columns: auto minmax(0, 1fr); padding: 26px; transition: border-color 160ms ease, transform 160ms ease; }
 .job-card:hover { border-color: var(--ink); transform: translateY(-2px); }
@@ -139,18 +141,26 @@ nav a:not(.nav-cta):hover { text-decoration: underline; text-underline-offset: 4
 .company-name { color: var(--muted); font-size: 13px; font-weight: 700; margin: 1px 0 7px; }
 .verified { background: #e8e2d6; border-radius: 999px; color: #59574f; font-size: 9px; letter-spacing: 0.05em; margin-left: 5px; padding: 4px 7px; text-transform: uppercase; }
 .job-card h3 { font-size: 24px; letter-spacing: -0.035em; margin: 0; }
-.pay { font-size: 18px; font-weight: 900; letter-spacing: -0.03em; white-space: nowrap; }
+.pay { font-size: 18px; font-weight: 900; letter-spacing: -0.03em; max-width: 310px; text-align: right; }
 .pay span { color: var(--muted); display: block; font-size: 11px; font-weight: 600; letter-spacing: 0; margin-top: 3px; text-align: right; }
 .job-facts { display: flex; flex-wrap: wrap; gap: 7px; margin: 20px 0 13px; }
 .job-facts span, .tag-list span { background: #efebe2; border-radius: 7px; font-size: 12px; font-weight: 700; padding: 7px 9px; }
 .job-facts span:nth-child(2) { background: var(--lime); }
+.job-facts .undisclosed-fact { background: #f8d8cf; color: #732d20; }
 .benefit-preview { align-items: baseline; background: #edf7de; border: 1px solid #d4e8b4; border-radius: 10px; display: flex; flex-wrap: wrap; gap: 5px 12px; margin-bottom: 18px; padding: 10px 12px; }
 .benefit-preview strong { color: #3e6a17; font-size: 12px; }
 .benefit-preview span { color: #4e5845; font-size: 12px; }
+.benefit-preview.none { background: #f8d8cf; border-color: #efb8aa; }
+.benefit-preview.none strong { color: #732d20; }
+.benefit-preview.none span { color: #694a42; }
+.benefit-preview.not-disclosed { background: #eee9df; border-color: #d7d0c4; }
+.benefit-preview.not-disclosed strong { color: #57544d; }
+.benefit-preview.not-disclosed span { color: #666159; }
 .job-bottom { align-items: flex-end; border-top: 1px solid #e4dfd4; padding-top: 18px; }
+.job-bottom > div:first-child { min-width: 0; }
 .tag-list, .job-actions { align-items: center; display: flex; flex-wrap: wrap; gap: 8px; }
 .tag-list span { background: transparent; border: 1px solid var(--line); color: var(--muted); padding: 6px 8px; }
-.posted { color: var(--muted); font-size: 11px; font-weight: 700; }
+.source-line { color: var(--muted); font-size: 11px; font-weight: 700; margin: 10px 0 0; }
 .view-role { border-radius: 10px; font-size: 12px; padding: 11px 15px; }
 details { border-top: 1px dashed var(--line); margin-top: 18px; padding-top: 14px; }
 summary { cursor: pointer; font-size: 12px; font-weight: 900; list-style-position: inside; }
@@ -216,6 +226,7 @@ footer p { color: var(--muted); font-size: 12px; }
   .filters .wide-field { grid-column: span 1; }
   .jobs-section, .how-section { padding-bottom: 76px; padding-top: 76px; }
   .results-bar { align-items: flex-start; flex-direction: column; gap: 16px; }
+  .crawl-status { align-items: flex-start; text-align: left; }
   .job-card { gap: 14px; grid-template-columns: 1fr; padding: 20px; }
   .company-logo { height: 44px; width: 44px; }
   .job-title-row, .job-bottom { align-items: flex-start; flex-direction: column; }
