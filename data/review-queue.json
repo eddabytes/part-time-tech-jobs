@@ -1,0 +1,67 @@
+[
+  {
+    "id": "lever:jobgether:c8fcd83a-1180-4e78-834a-6931b927acc8",
+    "company": "Confidential via Jobgether",
+    "role": "Data Manager — Treasury",
+    "location": "Remote · Brazil",
+    "sourceUrl": "https://jobs.lever.co/jobgether/c8fcd83a-1180-4e78-834a-6931b927acc8",
+    "sourceKind": "lever",
+    "sourceTenant": "jobgether",
+    "sourceJobId": "c8fcd83a-1180-4e78-834a-6931b927acc8",
+    "reason": "Part-time language is present but may only describe benefits or a different employment option",
+    "firstReviewedAt": "2026-07-26",
+    "lastReviewedAt": "2026-07-26"
+  },
+  {
+    "id": "ashby:empirical:de21c1b5-e7ae-443b-af50-e9d5a9a99685",
+    "company": "Empirical",
+    "role": "LMZ - Senior QA Automation Engineer",
+    "location": "LATAM",
+    "sourceUrl": "https://jobs.ashbyhq.com/empirical/de21c1b5-e7ae-443b-af50-e9d5a9a99685",
+    "sourceKind": "ashby",
+    "sourceTenant": "empirical",
+    "sourceJobId": "de21c1b5-e7ae-443b-af50-e9d5a9a99685",
+    "reason": "Part-time language is present but may only describe benefits or a different employment option",
+    "firstReviewedAt": "2026-07-26",
+    "lastReviewedAt": "2026-07-26"
+  },
+  {
+    "id": "ashby:empirical:82dad602-c625-404c-84bd-db2470ca3d95",
+    "company": "Empirical",
+    "role": "LMZ - Sr Full Stack Engineer - Backend Oriented",
+    "location": "LATAM",
+    "sourceUrl": "https://jobs.ashbyhq.com/empirical/82dad602-c625-404c-84bd-db2470ca3d95",
+    "sourceKind": "ashby",
+    "sourceTenant": "empirical",
+    "sourceJobId": "82dad602-c625-404c-84bd-db2470ca3d95",
+    "reason": "Part-time language is present but may only describe benefits or a different employment option",
+    "firstReviewedAt": "2026-07-26",
+    "lastReviewedAt": "2026-07-26"
+  },
+  {
+    "id": "ashby:empirical:6c9587d2-cd3c-416b-a598-5325b25cec9d",
+    "company": "Empirical",
+    "role": "SRX - Sr. Backend Engineer",
+    "location": "LATAM",
+    "sourceUrl": "https://jobs.ashbyhq.com/empirical/6c9587d2-cd3c-416b-a598-5325b25cec9d",
+    "sourceKind": "ashby",
+    "sourceTenant": "empirical",
+    "sourceJobId": "6c9587d2-cd3c-416b-a598-5325b25cec9d",
+    "reason": "Part-time language is present but may only describe benefits or a different employment option",
+    "firstReviewedAt": "2026-07-26",
+    "lastReviewedAt": "2026-07-26"
+  },
+  {
+    "id": "ashby:empirical:d5ef26d9-7bac-464c-b454-89adae6c3466",
+    "company": "Empirical",
+    "role": "SRX - Sr. Full Stack Engineer",
+    "location": "LATAM",
+    "sourceUrl": "https://jobs.ashbyhq.com/empirical/d5ef26d9-7bac-464c-b454-89adae6c3466",
+    "sourceKind": "ashby",
+    "sourceTenant": "empirical",
+    "sourceJobId": "d5ef26d9-7bac-464c-b454-89adae6c3466",
+    "reason": "Part-time language is present but may only describe benefits or a different employment option",
+    "firstReviewedAt": "2026-07-26",
+    "lastReviewedAt": "2026-07-26"
+  }
+]

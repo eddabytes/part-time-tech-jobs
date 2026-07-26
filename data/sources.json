@@ -1,0 +1,28 @@
+[
+  { "id": "greenhouse:implicit", "kind": "greenhouse", "tenant": "implicit", "company": "Implicit", "tier": "primary", "enabled": true },
+  { "id": "greenhouse:aiedu", "kind": "greenhouse", "tenant": "aiedu", "company": "The AI Education Project", "tier": "primary", "enabled": true },
+  { "id": "greenhouse:carrotfertility", "kind": "greenhouse", "tenant": "carrotfertility", "company": "Carrot", "tier": "primary", "enabled": true },
+  { "id": "greenhouse:nadiacare", "kind": "greenhouse", "tenant": "nadiacare", "company": "Nadia Care", "tier": "primary", "enabled": true },
+  { "id": "greenhouse:parsleyhealth", "kind": "greenhouse", "tenant": "parsleyhealth", "company": "Parsley Health", "tier": "primary", "enabled": true },
+  { "id": "greenhouse:upstatementrecruiting", "kind": "greenhouse", "tenant": "upstatementrecruiting", "company": "Upstatement", "tier": "primary", "enabled": true },
+  { "id": "greenhouse:xai", "kind": "greenhouse", "tenant": "xai", "company": "xAI", "tier": "primary", "enabled": true },
+
+  { "id": "ashby:Blacksmith Agency", "kind": "ashby", "tenant": "Blacksmith Agency", "company": "Blacksmith Agency", "tier": "primary", "enabled": true },
+  { "id": "ashby:bitnomial", "kind": "ashby", "tenant": "bitnomial", "company": "Bitnomial", "tier": "primary", "enabled": true },
+  { "id": "ashby:brainco", "kind": "ashby", "tenant": "brainco", "company": "Brain Co.", "tier": "primary", "enabled": true },
+  { "id": "ashby:empirical", "kind": "ashby", "tenant": "empirical", "company": "Empirical", "tier": "primary", "enabled": true },
+  { "id": "ashby:foundry-for-good", "kind": "ashby", "tenant": "foundry-for-good", "company": "Foundry for Good", "tier": "primary", "enabled": true },
+  { "id": "ashby:maneuver-marketing", "kind": "ashby", "tenant": "maneuver-marketing", "company": "Maneuver Marketing", "tier": "primary", "enabled": true },
+  { "id": "ashby:matterworks", "kind": "ashby", "tenant": "matterworks", "company": "Matterworks", "tier": "primary", "enabled": true },
+  { "id": "ashby:neurons-lab.com", "kind": "ashby", "tenant": "neurons-lab.com", "company": "Neurons Lab", "tier": "primary", "enabled": true },
+  { "id": "ashby:preql", "kind": "ashby", "tenant": "preql", "company": "Preql", "tier": "primary", "enabled": true },
+  { "id": "ashby:sentient", "kind": "ashby", "tenant": "sentient", "company": "Sentient", "tier": "primary", "enabled": true },
+  { "id": "ashby:swaprail", "kind": "ashby", "tenant": "swaprail", "company": "SwapRail", "tier": "primary", "enabled": true },
+  { "id": "ashby:vitvio", "kind": "ashby", "tenant": "vitvio", "company": "VitVio", "tier": "primary", "enabled": true },
+  { "id": "ashby:widgetfactory", "kind": "ashby", "tenant": "widgetfactory", "company": "Widget Factory", "tier": "primary", "enabled": true },
+  { "id": "ashby:zentrixx", "kind": "ashby", "tenant": "zentrixx", "company": "Zentrix LLC", "tier": "primary", "enabled": false, "note": "Board returned 404 on 2026-07-26; retained for future re-checks." },
+
+  { "id": "lever:3pillarglobal", "kind": "lever", "tenant": "3pillarglobal", "company": "3Pillar", "tier": "primary", "enabled": true },
+  { "id": "lever:cgsfederal", "kind": "lever", "tenant": "cgsfederal", "company": "Contact Government Services", "tier": "primary", "enabled": true },
+  { "id": "lever:jobgether", "kind": "lever", "tenant": "jobgether", "company": "Confidential via Jobgether", "tier": "aggregator", "enabled": true }
+]

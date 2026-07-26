@@ -16,6 +16,7 @@ const benefitOptions: Array<{ label: string; value: "Any" | BenefitType | "None"
 const sortOptions = [
   { value: "posted-desc", label: "Posted: newest first" },
   { value: "posted-asc", label: "Posted: oldest first" },
+  { value: "updated-desc", label: "Last updated: newest first" },
   { value: "verified-desc", label: "Last checked: newest first" },
   { value: "pay-desc", label: "Hourly pay: high to low" },
   { value: "pay-asc", label: "Hourly pay: low to high" },
@@ -37,8 +38,13 @@ function formatDate(value: string) {
 }
 
 function hourlyMidpoint(job: Job) {
+  if (job.hourlyPayComparable === false) return null;
   if (job.hourlyPayMin === null || job.hourlyPayMax === null) return null;
   return (job.hourlyPayMin + job.hourlyPayMax) / 2;
+}
+
+function recordUpdatedDate(job: Job) {
+  return job.sourceUpdatedDate || job.lastChangedAt;
 }
 
 function compareNullable(a: number | null, b: number | null, direction: "asc" | "desc") {
@@ -50,6 +56,9 @@ function compareNullable(a: number | null, b: number | null, direction: "asc" | 
 
 function compareJobs(a: Job, b: Job, sort: SortValue) {
   if (sort === "posted-asc") return a.postedDate.localeCompare(b.postedDate) || a.company.localeCompare(b.company);
+  if (sort === "updated-desc") {
+    return recordUpdatedDate(b).localeCompare(recordUpdatedDate(a)) || b.postedDate.localeCompare(a.postedDate);
+  }
   if (sort === "verified-desc") {
     return b.lastVerifiedDate.localeCompare(a.lastVerifiedDate) || b.postedDate.localeCompare(a.postedDate);
   }
@@ -68,11 +77,13 @@ function compareJobs(a: Job, b: Job, sort: SortValue) {
 
 function matchesHours(job: Job, value: string) {
   if (value === "any") return true;
-  if (job.hoursMin === null || job.hoursMax === null) return false;
-  if (value === "under-10") return job.hoursMin < 10;
-  if (value === "10-15") return job.hoursMin <= 15 && job.hoursMax >= 10;
-  if (value === "16-20") return job.hoursMin <= 20 && job.hoursMax >= 16;
-  if (value === "21-30") return job.hoursMax >= 21;
+  if (job.hoursMin === null && job.hoursMax === null) return false;
+  const min = job.hoursMin ?? 0;
+  const max = job.hoursMax ?? 30;
+  if (value === "under-10") return min < 10;
+  if (value === "10-15") return min <= 15 && max >= 10;
+  if (value === "16-20") return min <= 20 && max >= 16;
+  if (value === "21-30") return max >= 21;
   return true;
 }
 
@@ -92,6 +103,10 @@ export default function App() {
   const [sort, setSort] = useState<SortValue>("posted-desc");
   const [email, setEmail] = useState("");
   const [subscribed, setSubscribed] = useState(false);
+  const latestCheckDate = jobs.reduce(
+    (latest, job) => (job.lastVerifiedDate > latest ? job.lastVerifiedDate : latest),
+    jobs[0]?.lastVerifiedDate ?? new Date().toISOString().slice(0, 10),
+  );
 
   useEffect(() => {
     const initial = new URLSearchParams(window.location.search);
@@ -179,7 +194,9 @@ export default function App() {
       </header>
 
       <section className="hero" id="top">
-        <div className="hero-kicker"><span className="pulse-dot" /> 31 source-linked openings · checked July 19, 2026</div>
+        <div className="hero-kicker">
+          <span className="pulse-dot" /> {jobs.length} source-linked openings · checked {formatDate(latestCheckDate)}
+        </div>
         <h1>Real work.<br /><span>A week that fits.</span></h1>
         <p className="hero-copy">
           Meaningful, accountable tech roles for people whose health, caregiving,
@@ -259,7 +276,7 @@ export default function App() {
               </select>
             </label>
             <div className="crawl-status">
-              <strong>31-role crawl · July 19, 2026</strong>
+              <strong>{jobs.length}-role crawl · {formatDate(latestCheckDate)}</strong>
               <span>Pay sorting uses range midpoints; undisclosed pay appears last.</span>
             </div>
           </div>
@@ -272,7 +289,7 @@ export default function App() {
               <div className="job-main">
                 <div className="job-title-row">
                   <div>
-                    <p className="company-name">{job.company} <span className="verified">Source checked</span></p>
+                    <p className="company-name">{job.company} <span className="verified">{job.curated ? "Curated + checked" : "Daily crawl"}</span></p>
                     <h3>{job.role}</h3>
                   </div>
                   <div className="pay">
@@ -304,6 +321,7 @@ export default function App() {
                     <div className="tag-list" aria-label="Skills">{job.tags.map((tag) => <span key={tag}>{tag}</span>)}</div>
                     <p className="source-line">
                       {job.postedDateIsEstimate ? "Approx. posted" : "Posted"} {formatDate(job.postedDate)}
+                      {" · "}Updated {formatDate(recordUpdatedDate(job))}
                       {" · "}Checked {formatDate(job.lastVerifiedDate)} via {job.sourceName}
                     </p>
                   </div>
@@ -391,7 +409,7 @@ export default function App() {
       <footer>
         <a className="brand footer-brand" href="#top"><span className="brand-mark" aria-hidden="true">20</span><span>Part-Time Tech</span></a>
         <p>Good work should fit a real life.</p>
-        <p>Open-source prototype · Sources checked July 19, 2026</p>
+        <p>Open-source directory · Sources checked {formatDate(latestCheckDate)}</p>
       </footer>
     </main>
   );

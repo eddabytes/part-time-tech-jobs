@@ -1,0 +1,137 @@
+{
+  "status": "success",
+  "startedAt": "2026-07-26T20:45:57.250Z",
+  "completedAt": "2026-07-26T20:46:02.482Z",
+  "sources": {
+    "configured": 23,
+    "succeeded": 23,
+    "failed": 0,
+    "details": [
+      {
+        "id": "greenhouse:implicit",
+        "rawJobs": 3,
+        "status": "success"
+      },
+      {
+        "id": "greenhouse:aiedu",
+        "rawJobs": 4,
+        "status": "success"
+      },
+      {
+        "id": "greenhouse:carrotfertility",
+        "rawJobs": 12,
+        "status": "success"
+      },
+      {
+        "id": "greenhouse:nadiacare",
+        "rawJobs": 5,
+        "status": "success"
+      },
+      {
+        "id": "greenhouse:parsleyhealth",
+        "rawJobs": 8,
+        "status": "success"
+      },
+      {
+        "id": "greenhouse:upstatementrecruiting",
+        "rawJobs": 0,
+        "status": "success"
+      },
+      {
+        "id": "greenhouse:xai",
+        "rawJobs": 223,
+        "status": "success"
+      },
+      {
+        "id": "ashby:Blacksmith Agency",
+        "rawJobs": 12,
+        "status": "success"
+      },
+      {
+        "id": "ashby:bitnomial",
+        "rawJobs": 3,
+        "status": "success"
+      },
+      {
+        "id": "ashby:brainco",
+        "rawJobs": 35,
+        "status": "success"
+      },
+      {
+        "id": "ashby:empirical",
+        "rawJobs": 13,
+        "status": "success"
+      },
+      {
+        "id": "ashby:foundry-for-good",
+        "rawJobs": 28,
+        "status": "success"
+      },
+      {
+        "id": "ashby:maneuver-marketing",
+        "rawJobs": 8,
+        "status": "success"
+      },
+      {
+        "id": "ashby:matterworks",
+        "rawJobs": 2,
+        "status": "success"
+      },
+      {
+        "id": "ashby:neurons-lab.com",
+        "rawJobs": 8,
+        "status": "success"
+      },
+      {
+        "id": "ashby:preql",
+        "rawJobs": 3,
+        "status": "success"
+      },
+      {
+        "id": "ashby:sentient",
+        "rawJobs": 2,
+        "status": "success"
+      },
+      {
+        "id": "ashby:swaprail",
+        "rawJobs": 6,
+        "status": "success"
+      },
+      {
+        "id": "ashby:vitvio",
+        "rawJobs": 2,
+        "status": "success"
+      },
+      {
+        "id": "ashby:widgetfactory",
+        "rawJobs": 2,
+        "status": "success"
+      },
+      {
+        "id": "lever:3pillarglobal",
+        "rawJobs": 92,
+        "status": "success"
+      },
+      {
+        "id": "lever:cgsfederal",
+        "rawJobs": 1419,
+        "status": "success"
+      },
+      {
+        "id": "lever:jobgether",
+        "rawJobs": 3475,
+        "status": "success"
+      }
+    ]
+  },
+  "counts": {
+    "rawJobs": 5365,
+    "candidates": 36,
+    "published": 47,
+    "added": 0,
+    "updated": 0,
+    "closed": 0,
+    "review": 5
+  },
+  "failures": []
+}
