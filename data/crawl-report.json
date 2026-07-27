@@ -1,7 +1,7 @@
 {
   "status": "success",
-  "startedAt": "2026-07-26T20:45:57.250Z",
-  "completedAt": "2026-07-26T20:46:02.482Z",
+  "startedAt": "2026-07-27T13:26:20.146Z",
+  "completedAt": "2026-07-27T13:26:26.740Z",
   "sources": {
     "configured": 23,
     "succeeded": 23,
@@ -39,7 +39,7 @@
       },
       {
         "id": "greenhouse:xai",
-        "rawJobs": 223,
+        "rawJobs": 222,
         "status": "success"
       },
       {
@@ -79,7 +79,7 @@
       },
       {
         "id": "ashby:neurons-lab.com",
-        "rawJobs": 8,
+        "rawJobs": 9,
         "status": "success"
       },
       {
@@ -119,16 +119,16 @@
       },
       {
         "id": "lever:jobgether",
-        "rawJobs": 3475,
+        "rawJobs": 4156,
         "status": "success"
       }
     ]
   },
   "counts": {
-    "rawJobs": 5365,
-    "candidates": 36,
-    "published": 47,
-    "added": 0,
+    "rawJobs": 6046,
+    "candidates": 38,
+    "published": 49,
+    "added": 2,
     "updated": 0,
     "closed": 0,
     "review": 5
