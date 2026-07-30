@@ -1,5 +1,57 @@
 [
   {
+    "id": "lever:jobgether:07d3ffaf-5402-46c2-a4ea-0cee7ac5104c",
+    "company": "Confidential via Jobgether",
+    "role": "D365 F&O Developer",
+    "location": "Remote · Canada",
+    "sourceUrl": "https://jobs.lever.co/jobgether/07d3ffaf-5402-46c2-a4ea-0cee7ac5104c",
+    "sourceKind": "lever",
+    "sourceTenant": "jobgether",
+    "sourceJobId": "07d3ffaf-5402-46c2-a4ea-0cee7ac5104c",
+    "reason": "Part-time language is present but may only describe benefits or a different employment option",
+    "firstReviewedAt": "2026-07-30",
+    "lastReviewedAt": "2026-07-30"
+  },
+  {
+    "id": "lever:jobgether:0c0f4b0a-ea59-4bc2-8b6f-279c809c3fb1",
+    "company": "Confidential via Jobgether",
+    "role": "D365 F&O Developer",
+    "location": "Remote · India",
+    "sourceUrl": "https://jobs.lever.co/jobgether/0c0f4b0a-ea59-4bc2-8b6f-279c809c3fb1",
+    "sourceKind": "lever",
+    "sourceTenant": "jobgether",
+    "sourceJobId": "0c0f4b0a-ea59-4bc2-8b6f-279c809c3fb1",
+    "reason": "Part-time language is present but may only describe benefits or a different employment option",
+    "firstReviewedAt": "2026-07-30",
+    "lastReviewedAt": "2026-07-30"
+  },
+  {
+    "id": "lever:jobgether:e644ffa9-7c9f-40d4-a480-8de472f024ce",
+    "company": "Confidential via Jobgether",
+    "role": "D365 F&O Developer",
+    "location": "Remote · Brazil",
+    "sourceUrl": "https://jobs.lever.co/jobgether/e644ffa9-7c9f-40d4-a480-8de472f024ce",
+    "sourceKind": "lever",
+    "sourceTenant": "jobgether",
+    "sourceJobId": "e644ffa9-7c9f-40d4-a480-8de472f024ce",
+    "reason": "Part-time language is present but may only describe benefits or a different employment option",
+    "firstReviewedAt": "2026-07-30",
+    "lastReviewedAt": "2026-07-30"
+  },
+  {
+    "id": "lever:jobgether:e966e17c-1950-40a6-b0de-1f09ee40664b",
+    "company": "Confidential via Jobgether",
+    "role": "Software Developer – Cloud Solutions",
+    "location": "Remote · Canada",
+    "sourceUrl": "https://jobs.lever.co/jobgether/e966e17c-1950-40a6-b0de-1f09ee40664b",
+    "sourceKind": "lever",
+    "sourceTenant": "jobgether",
+    "sourceJobId": "e966e17c-1950-40a6-b0de-1f09ee40664b",
+    "reason": "Part-time language is present but may only describe benefits or a different employment option",
+    "firstReviewedAt": "2026-07-30",
+    "lastReviewedAt": "2026-07-30"
+  },
+  {
     "id": "ashby:empirical:de21c1b5-e7ae-443b-af50-e9d5a9a99685",
     "company": "Empirical",
     "role": "LMZ - Senior QA Automation Engineer",
@@ -10,7 +62,7 @@
     "sourceJobId": "de21c1b5-e7ae-443b-af50-e9d5a9a99685",
     "reason": "Part-time language is present but may only describe benefits or a different employment option",
     "firstReviewedAt": "2026-07-26",
-    "lastReviewedAt": "2026-07-29"
+    "lastReviewedAt": "2026-07-30"
   },
   {
     "id": "ashby:empirical:82dad602-c625-404c-84bd-db2470ca3d95",
@@ -23,7 +75,7 @@
     "sourceJobId": "82dad602-c625-404c-84bd-db2470ca3d95",
     "reason": "Part-time language is present but may only describe benefits or a different employment option",
     "firstReviewedAt": "2026-07-26",
-    "lastReviewedAt": "2026-07-29"
+    "lastReviewedAt": "2026-07-30"
   },
   {
     "id": "ashby:empirical:6c9587d2-cd3c-416b-a598-5325b25cec9d",
@@ -36,7 +88,7 @@
     "sourceJobId": "6c9587d2-cd3c-416b-a598-5325b25cec9d",
     "reason": "Part-time language is present but may only describe benefits or a different employment option",
     "firstReviewedAt": "2026-07-26",
-    "lastReviewedAt": "2026-07-29"
+    "lastReviewedAt": "2026-07-30"
   },
   {
     "id": "ashby:empirical:d5ef26d9-7bac-464c-b454-89adae6c3466",
@@ -49,6 +101,6 @@
     "sourceJobId": "d5ef26d9-7bac-464c-b454-89adae6c3466",
     "reason": "Part-time language is present but may only describe benefits or a different employment option",
     "firstReviewedAt": "2026-07-26",
-    "lastReviewedAt": "2026-07-29"
+    "lastReviewedAt": "2026-07-30"
   }
 ]
