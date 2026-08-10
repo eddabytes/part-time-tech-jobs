@@ -1,7 +1,7 @@
 {
   "status": "success",
-  "startedAt": "2026-08-09T11:04:10.391Z",
-  "completedAt": "2026-08-09T11:04:16.184Z",
+  "startedAt": "2026-08-10T11:31:37.690Z",
+  "completedAt": "2026-08-10T11:32:00.553Z",
   "sources": {
     "configured": 23,
     "succeeded": 23,
@@ -39,7 +39,7 @@
       },
       {
         "id": "greenhouse:xai",
-        "rawJobs": 218,
+        "rawJobs": 217,
         "status": "success"
       },
       {
@@ -109,7 +109,7 @@
       },
       {
         "id": "lever:3pillarglobal",
-        "rawJobs": 70,
+        "rawJobs": 69,
         "status": "success"
       },
       {
@@ -119,18 +119,18 @@
       },
       {
         "id": "lever:jobgether",
-        "rawJobs": 2994,
+        "rawJobs": 3504,
         "status": "success"
       }
     ]
   },
   "counts": {
-    "rawJobs": 4872,
+    "rawJobs": 5380,
     "candidates": 48,
     "published": 59,
     "added": 0,
     "updated": 0,
-    "closed": 1,
+    "closed": 0,
     "review": 37
   },
   "failures": []
