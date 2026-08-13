@@ -10,7 +10,7 @@
     "sourceJobId": "90548986-bb73-4e86-85a9-ee6507cc59d5",
     "reason": "Part-time language is present but may only describe benefits or a different employment option",
     "firstReviewedAt": "2026-08-12",
-    "lastReviewedAt": "2026-08-12"
+    "lastReviewedAt": "2026-08-13"
   },
   {
     "id": "lever:jobgether:7a35c124-073e-4f11-adf2-ad30c837658d",
@@ -23,7 +23,7 @@
     "sourceJobId": "7a35c124-073e-4f11-adf2-ad30c837658d",
     "reason": "Part-time language is present but may only describe benefits or a different employment option",
     "firstReviewedAt": "2026-08-12",
-    "lastReviewedAt": "2026-08-12"
+    "lastReviewedAt": "2026-08-13"
   },
   {
     "id": "lever:jobgether:b1abef6b-a033-40da-a79d-b173311ed90a",
@@ -36,85 +36,7 @@
     "sourceJobId": "b1abef6b-a033-40da-a79d-b173311ed90a",
     "reason": "Part-time language is present but may only describe benefits or a different employment option",
     "firstReviewedAt": "2026-08-12",
-    "lastReviewedAt": "2026-08-12"
-  },
-  {
-    "id": "lever:jobgether:0faac3fb-5dbc-466d-b5b5-1a90f7aa8c5e",
-    "company": "Confidential via Jobgether",
-    "role": "Paid Remote Data Collection – Multilingual Video Recording Project",
-    "location": "Remote · US",
-    "sourceUrl": "https://jobs.lever.co/jobgether/0faac3fb-5dbc-466d-b5b5-1a90f7aa8c5e",
-    "sourceKind": "lever",
-    "sourceTenant": "jobgether",
-    "sourceJobId": "0faac3fb-5dbc-466d-b5b5-1a90f7aa8c5e",
-    "reason": "Part-time language is present but may only describe benefits or a different employment option",
-    "firstReviewedAt": "2026-08-05",
-    "lastReviewedAt": "2026-08-12"
-  },
-  {
-    "id": "lever:jobgether:292c640e-7c6b-458b-972e-09a37ad2ff21",
-    "company": "Confidential via Jobgether",
-    "role": "Paid Remote Data Collection – Multilingual Video Recording Project",
-    "location": "Remote · Romania",
-    "sourceUrl": "https://jobs.lever.co/jobgether/292c640e-7c6b-458b-972e-09a37ad2ff21",
-    "sourceKind": "lever",
-    "sourceTenant": "jobgether",
-    "sourceJobId": "292c640e-7c6b-458b-972e-09a37ad2ff21",
-    "reason": "Part-time language is present but may only describe benefits or a different employment option",
-    "firstReviewedAt": "2026-08-05",
-    "lastReviewedAt": "2026-08-12"
-  },
-  {
-    "id": "lever:jobgether:2d045dcb-d1ad-439d-9129-1bca9c430854",
-    "company": "Confidential via Jobgether",
-    "role": "Paid Remote Data Collection – Multilingual Video Recording Project",
-    "location": "Remote · Saudi Arabia",
-    "sourceUrl": "https://jobs.lever.co/jobgether/2d045dcb-d1ad-439d-9129-1bca9c430854",
-    "sourceKind": "lever",
-    "sourceTenant": "jobgether",
-    "sourceJobId": "2d045dcb-d1ad-439d-9129-1bca9c430854",
-    "reason": "Part-time language is present but may only describe benefits or a different employment option",
-    "firstReviewedAt": "2026-08-05",
-    "lastReviewedAt": "2026-08-12"
-  },
-  {
-    "id": "lever:jobgether:9a1a0955-1997-4fe9-9c16-96c213ea5cbe",
-    "company": "Confidential via Jobgether",
-    "role": "Paid Remote Data Collection – Multilingual Video Recording Project",
-    "location": "Remote · India",
-    "sourceUrl": "https://jobs.lever.co/jobgether/9a1a0955-1997-4fe9-9c16-96c213ea5cbe",
-    "sourceKind": "lever",
-    "sourceTenant": "jobgether",
-    "sourceJobId": "9a1a0955-1997-4fe9-9c16-96c213ea5cbe",
-    "reason": "Part-time language is present but may only describe benefits or a different employment option",
-    "firstReviewedAt": "2026-08-05",
-    "lastReviewedAt": "2026-08-12"
-  },
-  {
-    "id": "lever:jobgether:a117e56b-e035-4443-8d24-714fceede8e6",
-    "company": "Confidential via Jobgether",
-    "role": "Paid Remote Data Collection – Multilingual Video Recording Project",
-    "location": "Remote · South Africa",
-    "sourceUrl": "https://jobs.lever.co/jobgether/a117e56b-e035-4443-8d24-714fceede8e6",
-    "sourceKind": "lever",
-    "sourceTenant": "jobgether",
-    "sourceJobId": "a117e56b-e035-4443-8d24-714fceede8e6",
-    "reason": "Part-time language is present but may only describe benefits or a different employment option",
-    "firstReviewedAt": "2026-08-05",
-    "lastReviewedAt": "2026-08-12"
-  },
-  {
-    "id": "lever:jobgether:c5192103-075a-45ef-838f-8e950e3b1ca1",
-    "company": "Confidential via Jobgether",
-    "role": "Paid Remote Data Collection – Multilingual Video Recording Project",
-    "location": "Remote · Turkey",
-    "sourceUrl": "https://jobs.lever.co/jobgether/c5192103-075a-45ef-838f-8e950e3b1ca1",
-    "sourceKind": "lever",
-    "sourceTenant": "jobgether",
-    "sourceJobId": "c5192103-075a-45ef-838f-8e950e3b1ca1",
-    "reason": "Part-time language is present but may only describe benefits or a different employment option",
-    "firstReviewedAt": "2026-08-05",
-    "lastReviewedAt": "2026-08-12"
+    "lastReviewedAt": "2026-08-13"
   },
   {
     "id": "lever:jobgether:c0719b1a-2a94-4c80-b3e9-52976a156430",
@@ -127,7 +49,7 @@
     "sourceJobId": "c0719b1a-2a94-4c80-b3e9-52976a156430",
     "reason": "Part-time language is present but may only describe benefits or a different employment option",
     "firstReviewedAt": "2026-08-12",
-    "lastReviewedAt": "2026-08-12"
+    "lastReviewedAt": "2026-08-13"
   },
   {
     "id": "lever:jobgether:44c10c41-ab8b-44aa-9031-4d4c4770abf4",
@@ -140,7 +62,7 @@
     "sourceJobId": "44c10c41-ab8b-44aa-9031-4d4c4770abf4",
     "reason": "Part-time language is present but may only describe benefits or a different employment option",
     "firstReviewedAt": "2026-08-06",
-    "lastReviewedAt": "2026-08-12"
+    "lastReviewedAt": "2026-08-13"
   },
   {
     "id": "lever:jobgether:4944b2fe-51c4-44fc-9096-4aac9d174899",
@@ -153,7 +75,7 @@
     "sourceJobId": "4944b2fe-51c4-44fc-9096-4aac9d174899",
     "reason": "Part-time language is present but may only describe benefits or a different employment option",
     "firstReviewedAt": "2026-08-06",
-    "lastReviewedAt": "2026-08-12"
+    "lastReviewedAt": "2026-08-13"
   },
   {
     "id": "lever:jobgether:7ffb75a8-82e1-43df-b57f-97dc10d51595",
@@ -166,7 +88,7 @@
     "sourceJobId": "7ffb75a8-82e1-43df-b57f-97dc10d51595",
     "reason": "Part-time language is present but may only describe benefits or a different employment option",
     "firstReviewedAt": "2026-08-06",
-    "lastReviewedAt": "2026-08-12"
+    "lastReviewedAt": "2026-08-13"
   },
   {
     "id": "lever:jobgether:8bdcd076-3e87-47c1-9ca3-f58bcc05de6e",
@@ -179,7 +101,7 @@
     "sourceJobId": "8bdcd076-3e87-47c1-9ca3-f58bcc05de6e",
     "reason": "Part-time language is present but may only describe benefits or a different employment option",
     "firstReviewedAt": "2026-08-06",
-    "lastReviewedAt": "2026-08-12"
+    "lastReviewedAt": "2026-08-13"
   },
   {
     "id": "lever:jobgether:439383b5-e286-444d-bd43-e304e1243e9e",
@@ -192,7 +114,7 @@
     "sourceJobId": "439383b5-e286-444d-bd43-e304e1243e9e",
     "reason": "Part-time language is present but may only describe benefits or a different employment option",
     "firstReviewedAt": "2026-08-06",
-    "lastReviewedAt": "2026-08-12"
+    "lastReviewedAt": "2026-08-13"
   },
   {
     "id": "ashby:empirical:de21c1b5-e7ae-443b-af50-e9d5a9a99685",
@@ -205,7 +127,7 @@
     "sourceJobId": "de21c1b5-e7ae-443b-af50-e9d5a9a99685",
     "reason": "Part-time language is present but may only describe benefits or a different employment option",
     "firstReviewedAt": "2026-07-26",
-    "lastReviewedAt": "2026-08-12"
+    "lastReviewedAt": "2026-08-13"
   },
   {
     "id": "ashby:empirical:82dad602-c625-404c-84bd-db2470ca3d95",
@@ -218,7 +140,7 @@
     "sourceJobId": "82dad602-c625-404c-84bd-db2470ca3d95",
     "reason": "Part-time language is present but may only describe benefits or a different employment option",
     "firstReviewedAt": "2026-07-26",
-    "lastReviewedAt": "2026-08-12"
+    "lastReviewedAt": "2026-08-13"
   },
   {
     "id": "ashby:empirical:0fbd1dff-f10c-450f-964f-1052ba69accd",
@@ -231,7 +153,7 @@
     "sourceJobId": "0fbd1dff-f10c-450f-964f-1052ba69accd",
     "reason": "Part-time language is present but may only describe benefits or a different employment option",
     "firstReviewedAt": "2026-08-07",
-    "lastReviewedAt": "2026-08-12"
+    "lastReviewedAt": "2026-08-13"
   },
   {
     "id": "ashby:empirical:d5ef26d9-7bac-464c-b454-89adae6c3466",
@@ -244,6 +166,6 @@
     "sourceJobId": "d5ef26d9-7bac-464c-b454-89adae6c3466",
     "reason": "Part-time language is present but may only describe benefits or a different employment option",
     "firstReviewedAt": "2026-07-26",
-    "lastReviewedAt": "2026-08-12"
+    "lastReviewedAt": "2026-08-13"
   }
 ]
