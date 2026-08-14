@@ -1,7 +1,7 @@
 {
   "status": "success",
-  "startedAt": "2026-08-13T11:23:41.206Z",
-  "completedAt": "2026-08-13T11:24:04.777Z",
+  "startedAt": "2026-08-14T11:21:48.191Z",
+  "completedAt": "2026-08-14T11:22:10.548Z",
   "sources": {
     "configured": 23,
     "succeeded": 23,
@@ -24,7 +24,7 @@
       },
       {
         "id": "greenhouse:nadiacare",
-        "rawJobs": 7,
+        "rawJobs": 8,
         "status": "success"
       },
       {
@@ -109,7 +109,7 @@
       },
       {
         "id": "lever:3pillarglobal",
-        "rawJobs": 61,
+        "rawJobs": 62,
         "status": "success"
       },
       {
@@ -119,19 +119,19 @@
       },
       {
         "id": "lever:jobgether",
-        "rawJobs": 4538,
+        "rawJobs": 4578,
         "status": "success"
       }
     ]
   },
   "counts": {
-    "rawJobs": 6409,
-    "candidates": 65,
-    "published": 80,
-    "added": 13,
-    "updated": 0,
-    "closed": 2,
-    "review": 13
+    "rawJobs": 6451,
+    "candidates": 60,
+    "published": 77,
+    "added": 2,
+    "updated": 1,
+    "closed": 5,
+    "review": 8
   },
   "failures": []
 }
