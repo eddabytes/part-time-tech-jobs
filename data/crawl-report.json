@@ -1,7 +1,7 @@
 {
   "status": "success",
-  "startedAt": "2026-08-14T11:21:48.191Z",
-  "completedAt": "2026-08-14T11:22:10.548Z",
+  "startedAt": "2026-08-15T10:51:10.393Z",
+  "completedAt": "2026-08-15T10:51:18.715Z",
   "sources": {
     "configured": 23,
     "succeeded": 23,
@@ -19,7 +19,7 @@
       },
       {
         "id": "greenhouse:carrotfertility",
-        "rawJobs": 16,
+        "rawJobs": 17,
         "status": "success"
       },
       {
@@ -39,7 +39,7 @@
       },
       {
         "id": "greenhouse:xai",
-        "rawJobs": 215,
+        "rawJobs": 226,
         "status": "success"
       },
       {
@@ -109,7 +109,7 @@
       },
       {
         "id": "lever:3pillarglobal",
-        "rawJobs": 62,
+        "rawJobs": 58,
         "status": "success"
       },
       {
@@ -119,18 +119,18 @@
       },
       {
         "id": "lever:jobgether",
-        "rawJobs": 4578,
+        "rawJobs": 4210,
         "status": "success"
       }
     ]
   },
   "counts": {
-    "rawJobs": 6451,
-    "candidates": 60,
-    "published": 77,
-    "added": 2,
-    "updated": 1,
-    "closed": 5,
+    "rawJobs": 6091,
+    "candidates": 57,
+    "published": 70,
+    "added": 0,
+    "updated": 0,
+    "closed": 7,
     "review": 8
   },
   "failures": []
