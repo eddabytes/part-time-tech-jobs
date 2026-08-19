@@ -1,42 +1,16 @@
 [
   {
-    "id": "lever:jobgether:90548986-bb73-4e86-85a9-ee6507cc59d5",
+    "id": "lever:jobgether:fda65a33-9084-443c-9e9c-1c6717c024e7",
     "company": "Confidential via Jobgether",
-    "role": ".Net Backend Developer",
-    "location": "Remote · India",
-    "sourceUrl": "https://jobs.lever.co/jobgether/90548986-bb73-4e86-85a9-ee6507cc59d5",
+    "role": "Product Manager, Clearing Systems",
+    "location": "Remote · US",
+    "sourceUrl": "https://jobs.lever.co/jobgether/fda65a33-9084-443c-9e9c-1c6717c024e7",
     "sourceKind": "lever",
     "sourceTenant": "jobgether",
-    "sourceJobId": "90548986-bb73-4e86-85a9-ee6507cc59d5",
+    "sourceJobId": "fda65a33-9084-443c-9e9c-1c6717c024e7",
     "reason": "Part-time language is present but may only describe benefits or a different employment option",
-    "firstReviewedAt": "2026-08-12",
-    "lastReviewedAt": "2026-08-18"
-  },
-  {
-    "id": "lever:jobgether:7a35c124-073e-4f11-adf2-ad30c837658d",
-    "company": "Confidential via Jobgether",
-    "role": "Backend Developer - .NET (C#, SQL Server, REST APIs, WPF, AWS)",
-    "location": "Remote · India",
-    "sourceUrl": "https://jobs.lever.co/jobgether/7a35c124-073e-4f11-adf2-ad30c837658d",
-    "sourceKind": "lever",
-    "sourceTenant": "jobgether",
-    "sourceJobId": "7a35c124-073e-4f11-adf2-ad30c837658d",
-    "reason": "Part-time language is present but may only describe benefits or a different employment option",
-    "firstReviewedAt": "2026-08-12",
-    "lastReviewedAt": "2026-08-18"
-  },
-  {
-    "id": "lever:jobgether:b1abef6b-a033-40da-a79d-b173311ed90a",
-    "company": "Confidential via Jobgether",
-    "role": "Front end Engineer (React)",
-    "location": "Remote · India",
-    "sourceUrl": "https://jobs.lever.co/jobgether/b1abef6b-a033-40da-a79d-b173311ed90a",
-    "sourceKind": "lever",
-    "sourceTenant": "jobgether",
-    "sourceJobId": "b1abef6b-a033-40da-a79d-b173311ed90a",
-    "reason": "Part-time language is present but may only describe benefits or a different employment option",
-    "firstReviewedAt": "2026-08-12",
-    "lastReviewedAt": "2026-08-18"
+    "firstReviewedAt": "2026-08-19",
+    "lastReviewedAt": "2026-08-19"
   },
   {
     "id": "lever:jobgether:c0719b1a-2a94-4c80-b3e9-52976a156430",
@@ -49,7 +23,7 @@
     "sourceJobId": "c0719b1a-2a94-4c80-b3e9-52976a156430",
     "reason": "Part-time language is present but may only describe benefits or a different employment option",
     "firstReviewedAt": "2026-08-12",
-    "lastReviewedAt": "2026-08-18"
+    "lastReviewedAt": "2026-08-19"
   },
   {
     "id": "lever:jobgether:23b0546e-26ee-4cc6-be7f-1a3f3b8efe0e",
@@ -62,7 +36,7 @@
     "sourceJobId": "23b0546e-26ee-4cc6-be7f-1a3f3b8efe0e",
     "reason": "Part-time language is present but may only describe benefits or a different employment option",
     "firstReviewedAt": "2026-08-18",
-    "lastReviewedAt": "2026-08-18"
+    "lastReviewedAt": "2026-08-19"
   },
   {
     "id": "ashby:empirical:de21c1b5-e7ae-443b-af50-e9d5a9a99685",
@@ -75,7 +49,7 @@
     "sourceJobId": "de21c1b5-e7ae-443b-af50-e9d5a9a99685",
     "reason": "Part-time language is present but may only describe benefits or a different employment option",
     "firstReviewedAt": "2026-07-26",
-    "lastReviewedAt": "2026-08-18"
+    "lastReviewedAt": "2026-08-19"
   },
   {
     "id": "ashby:empirical:82dad602-c625-404c-84bd-db2470ca3d95",
@@ -88,7 +62,7 @@
     "sourceJobId": "82dad602-c625-404c-84bd-db2470ca3d95",
     "reason": "Part-time language is present but may only describe benefits or a different employment option",
     "firstReviewedAt": "2026-07-26",
-    "lastReviewedAt": "2026-08-18"
+    "lastReviewedAt": "2026-08-19"
   },
   {
     "id": "ashby:empirical:0fbd1dff-f10c-450f-964f-1052ba69accd",
@@ -101,7 +75,7 @@
     "sourceJobId": "0fbd1dff-f10c-450f-964f-1052ba69accd",
     "reason": "Part-time language is present but may only describe benefits or a different employment option",
     "firstReviewedAt": "2026-08-07",
-    "lastReviewedAt": "2026-08-18"
+    "lastReviewedAt": "2026-08-19"
   },
   {
     "id": "ashby:empirical:d5ef26d9-7bac-464c-b454-89adae6c3466",
@@ -114,6 +88,6 @@
     "sourceJobId": "d5ef26d9-7bac-464c-b454-89adae6c3466",
     "reason": "Part-time language is present but may only describe benefits or a different employment option",
     "firstReviewedAt": "2026-07-26",
-    "lastReviewedAt": "2026-08-18"
+    "lastReviewedAt": "2026-08-19"
   }
 ]

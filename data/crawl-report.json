@@ -1,7 +1,7 @@
 {
   "status": "success",
-  "startedAt": "2026-08-18T10:58:31.015Z",
-  "completedAt": "2026-08-18T10:58:55.462Z",
+  "startedAt": "2026-08-19T10:57:18.579Z",
+  "completedAt": "2026-08-19T10:57:26.134Z",
   "sources": {
     "configured": 23,
     "succeeded": 23,
@@ -24,7 +24,7 @@
       },
       {
         "id": "greenhouse:nadiacare",
-        "rawJobs": 8,
+        "rawJobs": 9,
         "status": "success"
       },
       {
@@ -39,7 +39,7 @@
       },
       {
         "id": "greenhouse:xai",
-        "rawJobs": 232,
+        "rawJobs": 249,
         "status": "success"
       },
       {
@@ -54,7 +54,7 @@
       },
       {
         "id": "ashby:brainco",
-        "rawJobs": 37,
+        "rawJobs": 35,
         "status": "success"
       },
       {
@@ -119,19 +119,19 @@
       },
       {
         "id": "lever:jobgether",
-        "rawJobs": 4481,
+        "rawJobs": 4320,
         "status": "success"
       }
     ]
   },
   "counts": {
-    "rawJobs": 6363,
-    "candidates": 43,
-    "published": 57,
+    "rawJobs": 6218,
+    "candidates": 31,
+    "published": 52,
     "added": 0,
     "updated": 0,
-    "closed": 0,
-    "review": 9
+    "closed": 5,
+    "review": 7
   },
   "failures": []
 }
