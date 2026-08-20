@@ -1,7 +1,7 @@
 {
   "status": "success",
-  "startedAt": "2026-08-19T10:57:18.579Z",
-  "completedAt": "2026-08-19T10:57:26.134Z",
+  "startedAt": "2026-08-20T11:00:09.087Z",
+  "completedAt": "2026-08-20T11:00:21.164Z",
   "sources": {
     "configured": 23,
     "succeeded": 23,
@@ -19,12 +19,12 @@
       },
       {
         "id": "greenhouse:carrotfertility",
-        "rawJobs": 17,
+        "rawJobs": 18,
         "status": "success"
       },
       {
         "id": "greenhouse:nadiacare",
-        "rawJobs": 9,
+        "rawJobs": 8,
         "status": "success"
       },
       {
@@ -39,12 +39,12 @@
       },
       {
         "id": "greenhouse:xai",
-        "rawJobs": 249,
+        "rawJobs": 255,
         "status": "success"
       },
       {
         "id": "ashby:Blacksmith Agency",
-        "rawJobs": 12,
+        "rawJobs": 11,
         "status": "success"
       },
       {
@@ -54,7 +54,7 @@
       },
       {
         "id": "ashby:brainco",
-        "rawJobs": 35,
+        "rawJobs": 34,
         "status": "success"
       },
       {
@@ -119,19 +119,19 @@
       },
       {
         "id": "lever:jobgether",
-        "rawJobs": 4320,
+        "rawJobs": 4278,
         "status": "success"
       }
     ]
   },
   "counts": {
-    "rawJobs": 6218,
-    "candidates": 31,
-    "published": 52,
+    "rawJobs": 6180,
+    "candidates": 29,
+    "published": 40,
     "added": 0,
     "updated": 0,
-    "closed": 5,
-    "review": 7
+    "closed": 12,
+    "review": 10
   },
   "failures": []
 }
