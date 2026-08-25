@@ -1,7 +1,7 @@
 {
   "status": "partial",
-  "startedAt": "2026-08-24T11:03:49.060Z",
-  "completedAt": "2026-08-24T11:04:02.062Z",
+  "startedAt": "2026-08-25T11:02:14.088Z",
+  "completedAt": "2026-08-25T11:02:45.369Z",
   "sources": {
     "configured": 23,
     "succeeded": 22,
@@ -19,7 +19,7 @@
       },
       {
         "id": "greenhouse:carrotfertility",
-        "rawJobs": 19,
+        "rawJobs": 20,
         "status": "success"
       },
       {
@@ -39,7 +39,7 @@
       },
       {
         "id": "greenhouse:xai",
-        "rawJobs": 261,
+        "rawJobs": 262,
         "status": "success"
       },
       {
@@ -64,7 +64,7 @@
       },
       {
         "id": "ashby:foundry-for-good",
-        "rawJobs": 28,
+        "rawJobs": 29,
         "status": "success"
       },
       {
@@ -89,7 +89,7 @@
       },
       {
         "id": "ashby:sentient",
-        "rawJobs": 2,
+        "rawJobs": 0,
         "status": "success"
       },
       {
@@ -109,24 +109,24 @@
       },
       {
         "id": "lever:cgsfederal",
-        "rawJobs": 1426,
+        "rawJobs": 1427,
         "status": "success"
       },
       {
         "id": "lever:jobgether",
-        "rawJobs": 4475,
+        "rawJobs": 4451,
         "status": "success"
       }
     ]
   },
   "counts": {
-    "rawJobs": 6376,
-    "candidates": 30,
-    "published": 44,
-    "added": 3,
+    "rawJobs": 6354,
+    "candidates": 36,
+    "published": 51,
+    "added": 7,
     "updated": 0,
     "closed": 0,
-    "review": 9
+    "review": 5
   },
   "failures": [
     {
