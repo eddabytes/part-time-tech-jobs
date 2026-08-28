@@ -10,7 +10,46 @@
     "sourceJobId": "af682f39-9b7d-400b-a33c-130dcb0d5d36",
     "reason": "Part-time language is present but may only describe benefits or a different employment option",
     "firstReviewedAt": "2026-08-24",
-    "lastReviewedAt": "2026-08-27"
+    "lastReviewedAt": "2026-08-28"
+  },
+  {
+    "id": "lever:jobgether:957beb67-921d-4262-a634-3464add68c98",
+    "company": "Confidential via Jobgether",
+    "role": "Sr. Staff Electrical Engineer - BlueSky",
+    "location": "Remote · US",
+    "sourceUrl": "https://jobs.lever.co/jobgether/957beb67-921d-4262-a634-3464add68c98",
+    "sourceKind": "lever",
+    "sourceTenant": "jobgether",
+    "sourceJobId": "957beb67-921d-4262-a634-3464add68c98",
+    "reason": "Part-time language is present but may only describe benefits or a different employment option",
+    "firstReviewedAt": "2026-08-28",
+    "lastReviewedAt": "2026-08-28"
+  },
+  {
+    "id": "lever:jobgether:25c5ca40-cb40-4121-ae0c-2a4a22f76889",
+    "company": "Confidential via Jobgether",
+    "role": "Telephony Engineer",
+    "location": "Remote · India",
+    "sourceUrl": "https://jobs.lever.co/jobgether/25c5ca40-cb40-4121-ae0c-2a4a22f76889",
+    "sourceKind": "lever",
+    "sourceTenant": "jobgether",
+    "sourceJobId": "25c5ca40-cb40-4121-ae0c-2a4a22f76889",
+    "reason": "Part-time language is present but may only describe benefits or a different employment option",
+    "firstReviewedAt": "2026-08-28",
+    "lastReviewedAt": "2026-08-28"
+  },
+  {
+    "id": "lever:jobgether:9fa80f7f-b3f2-4b24-bad2-4a93a6fefc88",
+    "company": "Confidential via Jobgether",
+    "role": "Telephony Engineer",
+    "location": "Remote · Brazil",
+    "sourceUrl": "https://jobs.lever.co/jobgether/9fa80f7f-b3f2-4b24-bad2-4a93a6fefc88",
+    "sourceKind": "lever",
+    "sourceTenant": "jobgether",
+    "sourceJobId": "9fa80f7f-b3f2-4b24-bad2-4a93a6fefc88",
+    "reason": "Part-time language is present but may only describe benefits or a different employment option",
+    "firstReviewedAt": "2026-08-28",
+    "lastReviewedAt": "2026-08-28"
   },
   {
     "id": "ashby:empirical:de21c1b5-e7ae-443b-af50-e9d5a9a99685",
@@ -23,7 +62,7 @@
     "sourceJobId": "de21c1b5-e7ae-443b-af50-e9d5a9a99685",
     "reason": "Part-time language is present but may only describe benefits or a different employment option",
     "firstReviewedAt": "2026-07-26",
-    "lastReviewedAt": "2026-08-27"
+    "lastReviewedAt": "2026-08-28"
   },
   {
     "id": "ashby:empirical:82dad602-c625-404c-84bd-db2470ca3d95",
@@ -36,7 +75,7 @@
     "sourceJobId": "82dad602-c625-404c-84bd-db2470ca3d95",
     "reason": "Part-time language is present but may only describe benefits or a different employment option",
     "firstReviewedAt": "2026-07-26",
-    "lastReviewedAt": "2026-08-27"
+    "lastReviewedAt": "2026-08-28"
   },
   {
     "id": "ashby:empirical:0fbd1dff-f10c-450f-964f-1052ba69accd",
@@ -49,6 +88,6 @@
     "sourceJobId": "0fbd1dff-f10c-450f-964f-1052ba69accd",
     "reason": "Part-time language is present but may only describe benefits or a different employment option",
     "firstReviewedAt": "2026-08-07",
-    "lastReviewedAt": "2026-08-27"
+    "lastReviewedAt": "2026-08-28"
   }
 ]
