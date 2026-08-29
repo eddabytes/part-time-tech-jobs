@@ -1,7 +1,7 @@
 {
   "status": "partial",
-  "startedAt": "2026-08-28T21:13:07.603Z",
-  "completedAt": "2026-08-28T21:13:17.215Z",
+  "startedAt": "2026-08-29T15:16:32.942Z",
+  "completedAt": "2026-08-29T15:16:41.711Z",
   "sources": {
     "configured": 23,
     "succeeded": 22,
@@ -24,7 +24,7 @@
       },
       {
         "id": "greenhouse:nadiacare",
-        "rawJobs": 16,
+        "rawJobs": 17,
         "status": "success"
       },
       {
@@ -120,12 +120,12 @@
     ]
   },
   "counts": {
-    "rawJobs": 6105,
+    "rawJobs": 6106,
     "candidates": 44,
     "published": 58,
-    "added": 11,
+    "added": 0,
     "updated": 0,
-    "closed": 6,
+    "closed": 0,
     "review": 7
   },
   "failures": [
