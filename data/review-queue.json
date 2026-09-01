@@ -1,16 +1,94 @@
 [
   {
-    "id": "lever:jobgether:af682f39-9b7d-400b-a33c-130dcb0d5d36",
+    "id": "lever:jobgether:0f15161d-5909-4c2f-b329-4243ed04d434",
     "company": "Confidential via Jobgether",
-    "role": "Digital Forensics & Cyber Investigation, Department of Cybersecurity - Adjunct Faculty",
-    "location": "Remote · US",
-    "sourceUrl": "https://jobs.lever.co/jobgether/af682f39-9b7d-400b-a33c-130dcb0d5d36",
+    "role": "Independent Contractor - Mentor role for Software Architect track",
+    "location": "Remote · France",
+    "sourceUrl": "https://jobs.lever.co/jobgether/0f15161d-5909-4c2f-b329-4243ed04d434",
     "sourceKind": "lever",
     "sourceTenant": "jobgether",
-    "sourceJobId": "af682f39-9b7d-400b-a33c-130dcb0d5d36",
+    "sourceJobId": "0f15161d-5909-4c2f-b329-4243ed04d434",
     "reason": "Part-time language is present but may only describe benefits or a different employment option",
-    "firstReviewedAt": "2026-08-24",
-    "lastReviewedAt": "2026-08-31"
+    "firstReviewedAt": "2026-09-01",
+    "lastReviewedAt": "2026-09-01"
+  },
+  {
+    "id": "lever:jobgether:4b77d884-08a6-4fcb-b80c-93b7360335da",
+    "company": "Confidential via Jobgether",
+    "role": "Independent Contractor - Mentor role for Software Architect track",
+    "location": "Remote · Switzerland",
+    "sourceUrl": "https://jobs.lever.co/jobgether/4b77d884-08a6-4fcb-b80c-93b7360335da",
+    "sourceKind": "lever",
+    "sourceTenant": "jobgether",
+    "sourceJobId": "4b77d884-08a6-4fcb-b80c-93b7360335da",
+    "reason": "Part-time language is present but may only describe benefits or a different employment option",
+    "firstReviewedAt": "2026-09-01",
+    "lastReviewedAt": "2026-09-01"
+  },
+  {
+    "id": "lever:jobgether:53c6d75e-4b2d-47e1-bdb2-7f1d351f88fe",
+    "company": "Confidential via Jobgether",
+    "role": "Independent Contractor - Mentor role for Software Architect track",
+    "location": "Remote · Germany",
+    "sourceUrl": "https://jobs.lever.co/jobgether/53c6d75e-4b2d-47e1-bdb2-7f1d351f88fe",
+    "sourceKind": "lever",
+    "sourceTenant": "jobgether",
+    "sourceJobId": "53c6d75e-4b2d-47e1-bdb2-7f1d351f88fe",
+    "reason": "Part-time language is present but may only describe benefits or a different employment option",
+    "firstReviewedAt": "2026-09-01",
+    "lastReviewedAt": "2026-09-01"
+  },
+  {
+    "id": "lever:jobgether:59ace5e4-fc2c-4f35-b228-477303286a6f",
+    "company": "Confidential via Jobgether",
+    "role": "Independent Contractor - Mentor role for Software Architect track",
+    "location": "Remote · Spain",
+    "sourceUrl": "https://jobs.lever.co/jobgether/59ace5e4-fc2c-4f35-b228-477303286a6f",
+    "sourceKind": "lever",
+    "sourceTenant": "jobgether",
+    "sourceJobId": "59ace5e4-fc2c-4f35-b228-477303286a6f",
+    "reason": "Part-time language is present but may only describe benefits or a different employment option",
+    "firstReviewedAt": "2026-09-01",
+    "lastReviewedAt": "2026-09-01"
+  },
+  {
+    "id": "lever:jobgether:79db09f6-23d2-4432-8f96-b70453e201f0",
+    "company": "Confidential via Jobgether",
+    "role": "Independent Contractor - Mentor role for Software Architect track",
+    "location": "Remote · UK",
+    "sourceUrl": "https://jobs.lever.co/jobgether/79db09f6-23d2-4432-8f96-b70453e201f0",
+    "sourceKind": "lever",
+    "sourceTenant": "jobgether",
+    "sourceJobId": "79db09f6-23d2-4432-8f96-b70453e201f0",
+    "reason": "Part-time language is present but may only describe benefits or a different employment option",
+    "firstReviewedAt": "2026-09-01",
+    "lastReviewedAt": "2026-09-01"
+  },
+  {
+    "id": "lever:jobgether:88986494-c859-4ff8-a092-600157313f14",
+    "company": "Confidential via Jobgether",
+    "role": "Independent Contractor - Mentor role for Software Architect track",
+    "location": "Remote · Ireland",
+    "sourceUrl": "https://jobs.lever.co/jobgether/88986494-c859-4ff8-a092-600157313f14",
+    "sourceKind": "lever",
+    "sourceTenant": "jobgether",
+    "sourceJobId": "88986494-c859-4ff8-a092-600157313f14",
+    "reason": "Part-time language is present but may only describe benefits or a different employment option",
+    "firstReviewedAt": "2026-09-01",
+    "lastReviewedAt": "2026-09-01"
+  },
+  {
+    "id": "lever:jobgether:b56cf8a8-f6c3-4983-be91-e51a9788f94f",
+    "company": "Confidential via Jobgether",
+    "role": "Independent Contractor - Mentor role for Software Architect track",
+    "location": "Remote · Netherlands",
+    "sourceUrl": "https://jobs.lever.co/jobgether/b56cf8a8-f6c3-4983-be91-e51a9788f94f",
+    "sourceKind": "lever",
+    "sourceTenant": "jobgether",
+    "sourceJobId": "b56cf8a8-f6c3-4983-be91-e51a9788f94f",
+    "reason": "Part-time language is present but may only describe benefits or a different employment option",
+    "firstReviewedAt": "2026-09-01",
+    "lastReviewedAt": "2026-09-01"
   },
   {
     "id": "lever:jobgether:957beb67-921d-4262-a634-3464add68c98",
@@ -23,7 +101,7 @@
     "sourceJobId": "957beb67-921d-4262-a634-3464add68c98",
     "reason": "Part-time language is present but may only describe benefits or a different employment option",
     "firstReviewedAt": "2026-08-28",
-    "lastReviewedAt": "2026-08-31"
+    "lastReviewedAt": "2026-09-01"
   },
   {
     "id": "lever:jobgether:25c5ca40-cb40-4121-ae0c-2a4a22f76889",
@@ -36,7 +114,7 @@
     "sourceJobId": "25c5ca40-cb40-4121-ae0c-2a4a22f76889",
     "reason": "Part-time language is present but may only describe benefits or a different employment option",
     "firstReviewedAt": "2026-08-28",
-    "lastReviewedAt": "2026-08-31"
+    "lastReviewedAt": "2026-09-01"
   },
   {
     "id": "lever:jobgether:9fa80f7f-b3f2-4b24-bad2-4a93a6fefc88",
@@ -49,7 +127,7 @@
     "sourceJobId": "9fa80f7f-b3f2-4b24-bad2-4a93a6fefc88",
     "reason": "Part-time language is present but may only describe benefits or a different employment option",
     "firstReviewedAt": "2026-08-28",
-    "lastReviewedAt": "2026-08-31"
+    "lastReviewedAt": "2026-09-01"
   },
   {
     "id": "ashby:empirical:de21c1b5-e7ae-443b-af50-e9d5a9a99685",
@@ -62,7 +140,7 @@
     "sourceJobId": "de21c1b5-e7ae-443b-af50-e9d5a9a99685",
     "reason": "Part-time language is present but may only describe benefits or a different employment option",
     "firstReviewedAt": "2026-07-26",
-    "lastReviewedAt": "2026-08-31"
+    "lastReviewedAt": "2026-09-01"
   },
   {
     "id": "ashby:empirical:82dad602-c625-404c-84bd-db2470ca3d95",
@@ -75,7 +153,7 @@
     "sourceJobId": "82dad602-c625-404c-84bd-db2470ca3d95",
     "reason": "Part-time language is present but may only describe benefits or a different employment option",
     "firstReviewedAt": "2026-07-26",
-    "lastReviewedAt": "2026-08-31"
+    "lastReviewedAt": "2026-09-01"
   },
   {
     "id": "ashby:empirical:0fbd1dff-f10c-450f-964f-1052ba69accd",
@@ -88,6 +166,6 @@
     "sourceJobId": "0fbd1dff-f10c-450f-964f-1052ba69accd",
     "reason": "Part-time language is present but may only describe benefits or a different employment option",
     "firstReviewedAt": "2026-08-07",
-    "lastReviewedAt": "2026-08-31"
+    "lastReviewedAt": "2026-09-01"
   }
 ]
