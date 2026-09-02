@@ -10,7 +10,7 @@
     "sourceJobId": "0f15161d-5909-4c2f-b329-4243ed04d434",
     "reason": "Part-time language is present but may only describe benefits or a different employment option",
     "firstReviewedAt": "2026-09-01",
-    "lastReviewedAt": "2026-09-01"
+    "lastReviewedAt": "2026-09-02"
   },
   {
     "id": "lever:jobgether:4b77d884-08a6-4fcb-b80c-93b7360335da",
@@ -23,7 +23,7 @@
     "sourceJobId": "4b77d884-08a6-4fcb-b80c-93b7360335da",
     "reason": "Part-time language is present but may only describe benefits or a different employment option",
     "firstReviewedAt": "2026-09-01",
-    "lastReviewedAt": "2026-09-01"
+    "lastReviewedAt": "2026-09-02"
   },
   {
     "id": "lever:jobgether:53c6d75e-4b2d-47e1-bdb2-7f1d351f88fe",
@@ -36,7 +36,7 @@
     "sourceJobId": "53c6d75e-4b2d-47e1-bdb2-7f1d351f88fe",
     "reason": "Part-time language is present but may only describe benefits or a different employment option",
     "firstReviewedAt": "2026-09-01",
-    "lastReviewedAt": "2026-09-01"
+    "lastReviewedAt": "2026-09-02"
   },
   {
     "id": "lever:jobgether:59ace5e4-fc2c-4f35-b228-477303286a6f",
@@ -49,7 +49,7 @@
     "sourceJobId": "59ace5e4-fc2c-4f35-b228-477303286a6f",
     "reason": "Part-time language is present but may only describe benefits or a different employment option",
     "firstReviewedAt": "2026-09-01",
-    "lastReviewedAt": "2026-09-01"
+    "lastReviewedAt": "2026-09-02"
   },
   {
     "id": "lever:jobgether:79db09f6-23d2-4432-8f96-b70453e201f0",
@@ -62,7 +62,7 @@
     "sourceJobId": "79db09f6-23d2-4432-8f96-b70453e201f0",
     "reason": "Part-time language is present but may only describe benefits or a different employment option",
     "firstReviewedAt": "2026-09-01",
-    "lastReviewedAt": "2026-09-01"
+    "lastReviewedAt": "2026-09-02"
   },
   {
     "id": "lever:jobgether:88986494-c859-4ff8-a092-600157313f14",
@@ -75,7 +75,7 @@
     "sourceJobId": "88986494-c859-4ff8-a092-600157313f14",
     "reason": "Part-time language is present but may only describe benefits or a different employment option",
     "firstReviewedAt": "2026-09-01",
-    "lastReviewedAt": "2026-09-01"
+    "lastReviewedAt": "2026-09-02"
   },
   {
     "id": "lever:jobgether:b56cf8a8-f6c3-4983-be91-e51a9788f94f",
@@ -88,7 +88,319 @@
     "sourceJobId": "b56cf8a8-f6c3-4983-be91-e51a9788f94f",
     "reason": "Part-time language is present but may only describe benefits or a different employment option",
     "firstReviewedAt": "2026-09-01",
-    "lastReviewedAt": "2026-09-01"
+    "lastReviewedAt": "2026-09-02"
+  },
+  {
+    "id": "lever:jobgether:0b358e4a-e819-4d0a-b94f-ad8c814ad783",
+    "company": "Confidential via Jobgether",
+    "role": "Senior Maximo SME Technical Functional Application Developer",
+    "location": "Remote · Portugal",
+    "sourceUrl": "https://jobs.lever.co/jobgether/0b358e4a-e819-4d0a-b94f-ad8c814ad783",
+    "sourceKind": "lever",
+    "sourceTenant": "jobgether",
+    "sourceJobId": "0b358e4a-e819-4d0a-b94f-ad8c814ad783",
+    "reason": "Part-time language is present but may only describe benefits or a different employment option",
+    "firstReviewedAt": "2026-09-02",
+    "lastReviewedAt": "2026-09-02"
+  },
+  {
+    "id": "lever:jobgether:1c92614d-b77b-495f-9abf-0dc590349ed5",
+    "company": "Confidential via Jobgether",
+    "role": "Senior Maximo SME Technical Functional Application Developer",
+    "location": "Remote · India",
+    "sourceUrl": "https://jobs.lever.co/jobgether/1c92614d-b77b-495f-9abf-0dc590349ed5",
+    "sourceKind": "lever",
+    "sourceTenant": "jobgether",
+    "sourceJobId": "1c92614d-b77b-495f-9abf-0dc590349ed5",
+    "reason": "Part-time language is present but may only describe benefits or a different employment option",
+    "firstReviewedAt": "2026-09-02",
+    "lastReviewedAt": "2026-09-02"
+  },
+  {
+    "id": "lever:jobgether:2a7cf6eb-679e-4f67-bc98-6d4f9b8fa47f",
+    "company": "Confidential via Jobgether",
+    "role": "Senior Maximo SME Technical Functional Application Developer",
+    "location": "Remote · United Arab Emirates",
+    "sourceUrl": "https://jobs.lever.co/jobgether/2a7cf6eb-679e-4f67-bc98-6d4f9b8fa47f",
+    "sourceKind": "lever",
+    "sourceTenant": "jobgether",
+    "sourceJobId": "2a7cf6eb-679e-4f67-bc98-6d4f9b8fa47f",
+    "reason": "Part-time language is present but may only describe benefits or a different employment option",
+    "firstReviewedAt": "2026-09-02",
+    "lastReviewedAt": "2026-09-02"
+  },
+  {
+    "id": "lever:jobgether:2e0465c0-92bb-4a21-83e2-6744813ec49f",
+    "company": "Confidential via Jobgether",
+    "role": "Senior Maximo SME Technical Functional Application Developer",
+    "location": "Remote · US",
+    "sourceUrl": "https://jobs.lever.co/jobgether/2e0465c0-92bb-4a21-83e2-6744813ec49f",
+    "sourceKind": "lever",
+    "sourceTenant": "jobgether",
+    "sourceJobId": "2e0465c0-92bb-4a21-83e2-6744813ec49f",
+    "reason": "Part-time language is present but may only describe benefits or a different employment option",
+    "firstReviewedAt": "2026-09-02",
+    "lastReviewedAt": "2026-09-02"
+  },
+  {
+    "id": "lever:jobgether:3b37167f-a07e-4a36-9429-89b6f61fbc09",
+    "company": "Confidential via Jobgether",
+    "role": "Senior Maximo SME Technical Functional Application Developer",
+    "location": "Remote · Switzerland",
+    "sourceUrl": "https://jobs.lever.co/jobgether/3b37167f-a07e-4a36-9429-89b6f61fbc09",
+    "sourceKind": "lever",
+    "sourceTenant": "jobgether",
+    "sourceJobId": "3b37167f-a07e-4a36-9429-89b6f61fbc09",
+    "reason": "Part-time language is present but may only describe benefits or a different employment option",
+    "firstReviewedAt": "2026-09-02",
+    "lastReviewedAt": "2026-09-02"
+  },
+  {
+    "id": "lever:jobgether:4129ec1a-2036-4667-a717-4679d8ee961c",
+    "company": "Confidential via Jobgether",
+    "role": "Senior Maximo SME Technical Functional Application Developer",
+    "location": "Remote · Belgium",
+    "sourceUrl": "https://jobs.lever.co/jobgether/4129ec1a-2036-4667-a717-4679d8ee961c",
+    "sourceKind": "lever",
+    "sourceTenant": "jobgether",
+    "sourceJobId": "4129ec1a-2036-4667-a717-4679d8ee961c",
+    "reason": "Part-time language is present but may only describe benefits or a different employment option",
+    "firstReviewedAt": "2026-09-02",
+    "lastReviewedAt": "2026-09-02"
+  },
+  {
+    "id": "lever:jobgether:49d9150b-c962-4be1-9b18-64e472660fb6",
+    "company": "Confidential via Jobgether",
+    "role": "Senior Maximo SME Technical Functional Application Developer",
+    "location": "Remote · Spain",
+    "sourceUrl": "https://jobs.lever.co/jobgether/49d9150b-c962-4be1-9b18-64e472660fb6",
+    "sourceKind": "lever",
+    "sourceTenant": "jobgether",
+    "sourceJobId": "49d9150b-c962-4be1-9b18-64e472660fb6",
+    "reason": "Part-time language is present but may only describe benefits or a different employment option",
+    "firstReviewedAt": "2026-09-02",
+    "lastReviewedAt": "2026-09-02"
+  },
+  {
+    "id": "lever:jobgether:506ab721-3292-4052-96a4-1eb16bec516e",
+    "company": "Confidential via Jobgether",
+    "role": "Senior Maximo SME Technical Functional Application Developer",
+    "location": "Remote · Mexico",
+    "sourceUrl": "https://jobs.lever.co/jobgether/506ab721-3292-4052-96a4-1eb16bec516e",
+    "sourceKind": "lever",
+    "sourceTenant": "jobgether",
+    "sourceJobId": "506ab721-3292-4052-96a4-1eb16bec516e",
+    "reason": "Part-time language is present but may only describe benefits or a different employment option",
+    "firstReviewedAt": "2026-09-02",
+    "lastReviewedAt": "2026-09-02"
+  },
+  {
+    "id": "lever:jobgether:56fdb895-e724-4284-b9a5-fdf64e9d1940",
+    "company": "Confidential via Jobgether",
+    "role": "Senior Maximo SME Technical Functional Application Developer",
+    "location": "Remote · Poland",
+    "sourceUrl": "https://jobs.lever.co/jobgether/56fdb895-e724-4284-b9a5-fdf64e9d1940",
+    "sourceKind": "lever",
+    "sourceTenant": "jobgether",
+    "sourceJobId": "56fdb895-e724-4284-b9a5-fdf64e9d1940",
+    "reason": "Part-time language is present but may only describe benefits or a different employment option",
+    "firstReviewedAt": "2026-09-02",
+    "lastReviewedAt": "2026-09-02"
+  },
+  {
+    "id": "lever:jobgether:64a020fc-4b5a-4034-98f4-a07d0300b989",
+    "company": "Confidential via Jobgether",
+    "role": "Senior Maximo SME Technical Functional Application Developer",
+    "location": "Remote · Italy",
+    "sourceUrl": "https://jobs.lever.co/jobgether/64a020fc-4b5a-4034-98f4-a07d0300b989",
+    "sourceKind": "lever",
+    "sourceTenant": "jobgether",
+    "sourceJobId": "64a020fc-4b5a-4034-98f4-a07d0300b989",
+    "reason": "Part-time language is present but may only describe benefits or a different employment option",
+    "firstReviewedAt": "2026-09-02",
+    "lastReviewedAt": "2026-09-02"
+  },
+  {
+    "id": "lever:jobgether:6da567f2-beb4-47ab-97b8-bfd4925038ff",
+    "company": "Confidential via Jobgether",
+    "role": "Senior Maximo SME Technical Functional Application Developer",
+    "location": "Remote · Germany",
+    "sourceUrl": "https://jobs.lever.co/jobgether/6da567f2-beb4-47ab-97b8-bfd4925038ff",
+    "sourceKind": "lever",
+    "sourceTenant": "jobgether",
+    "sourceJobId": "6da567f2-beb4-47ab-97b8-bfd4925038ff",
+    "reason": "Part-time language is present but may only describe benefits or a different employment option",
+    "firstReviewedAt": "2026-09-02",
+    "lastReviewedAt": "2026-09-02"
+  },
+  {
+    "id": "lever:jobgether:8f3a202c-4597-4454-9182-7b8f6b4b767d",
+    "company": "Confidential via Jobgether",
+    "role": "Senior Maximo SME Technical Functional Application Developer",
+    "location": "Remote · UK",
+    "sourceUrl": "https://jobs.lever.co/jobgether/8f3a202c-4597-4454-9182-7b8f6b4b767d",
+    "sourceKind": "lever",
+    "sourceTenant": "jobgether",
+    "sourceJobId": "8f3a202c-4597-4454-9182-7b8f6b4b767d",
+    "reason": "Part-time language is present but may only describe benefits or a different employment option",
+    "firstReviewedAt": "2026-09-02",
+    "lastReviewedAt": "2026-09-02"
+  },
+  {
+    "id": "lever:jobgether:9758a14d-fbc1-4b47-b89b-c8d7d5d12397",
+    "company": "Confidential via Jobgether",
+    "role": "Senior Maximo SME Technical Functional Application Developer",
+    "location": "Remote · Ireland",
+    "sourceUrl": "https://jobs.lever.co/jobgether/9758a14d-fbc1-4b47-b89b-c8d7d5d12397",
+    "sourceKind": "lever",
+    "sourceTenant": "jobgether",
+    "sourceJobId": "9758a14d-fbc1-4b47-b89b-c8d7d5d12397",
+    "reason": "Part-time language is present but may only describe benefits or a different employment option",
+    "firstReviewedAt": "2026-09-02",
+    "lastReviewedAt": "2026-09-02"
+  },
+  {
+    "id": "lever:jobgether:9f943298-5a08-4cbe-8abd-d16a9eca5469",
+    "company": "Confidential via Jobgether",
+    "role": "Senior Maximo SME Technical Functional Application Developer",
+    "location": "Remote · Austria",
+    "sourceUrl": "https://jobs.lever.co/jobgether/9f943298-5a08-4cbe-8abd-d16a9eca5469",
+    "sourceKind": "lever",
+    "sourceTenant": "jobgether",
+    "sourceJobId": "9f943298-5a08-4cbe-8abd-d16a9eca5469",
+    "reason": "Part-time language is present but may only describe benefits or a different employment option",
+    "firstReviewedAt": "2026-09-02",
+    "lastReviewedAt": "2026-09-02"
+  },
+  {
+    "id": "lever:jobgether:ae593240-d61d-48b0-b656-9083925797a5",
+    "company": "Confidential via Jobgether",
+    "role": "Senior Maximo SME Technical Functional Application Developer",
+    "location": "Remote · South Africa",
+    "sourceUrl": "https://jobs.lever.co/jobgether/ae593240-d61d-48b0-b656-9083925797a5",
+    "sourceKind": "lever",
+    "sourceTenant": "jobgether",
+    "sourceJobId": "ae593240-d61d-48b0-b656-9083925797a5",
+    "reason": "Part-time language is present but may only describe benefits or a different employment option",
+    "firstReviewedAt": "2026-09-02",
+    "lastReviewedAt": "2026-09-02"
+  },
+  {
+    "id": "lever:jobgether:ce0c6f11-9940-4720-9cf4-f2afbf130adf",
+    "company": "Confidential via Jobgether",
+    "role": "Senior Maximo SME Technical Functional Application Developer",
+    "location": "Remote · Romania",
+    "sourceUrl": "https://jobs.lever.co/jobgether/ce0c6f11-9940-4720-9cf4-f2afbf130adf",
+    "sourceKind": "lever",
+    "sourceTenant": "jobgether",
+    "sourceJobId": "ce0c6f11-9940-4720-9cf4-f2afbf130adf",
+    "reason": "Part-time language is present but may only describe benefits or a different employment option",
+    "firstReviewedAt": "2026-09-02",
+    "lastReviewedAt": "2026-09-02"
+  },
+  {
+    "id": "lever:jobgether:d76170b8-25be-4db1-97dd-3129156f6520",
+    "company": "Confidential via Jobgether",
+    "role": "Senior Maximo SME Technical Functional Application Developer",
+    "location": "Remote · Australia",
+    "sourceUrl": "https://jobs.lever.co/jobgether/d76170b8-25be-4db1-97dd-3129156f6520",
+    "sourceKind": "lever",
+    "sourceTenant": "jobgether",
+    "sourceJobId": "d76170b8-25be-4db1-97dd-3129156f6520",
+    "reason": "Part-time language is present but may only describe benefits or a different employment option",
+    "firstReviewedAt": "2026-09-02",
+    "lastReviewedAt": "2026-09-02"
+  },
+  {
+    "id": "lever:jobgether:d76d4b92-802a-4571-bb23-2fe5d93c6995",
+    "company": "Confidential via Jobgether",
+    "role": "Senior Maximo SME Technical Functional Application Developer",
+    "location": "Remote · Sweden",
+    "sourceUrl": "https://jobs.lever.co/jobgether/d76d4b92-802a-4571-bb23-2fe5d93c6995",
+    "sourceKind": "lever",
+    "sourceTenant": "jobgether",
+    "sourceJobId": "d76d4b92-802a-4571-bb23-2fe5d93c6995",
+    "reason": "Part-time language is present but may only describe benefits or a different employment option",
+    "firstReviewedAt": "2026-09-02",
+    "lastReviewedAt": "2026-09-02"
+  },
+  {
+    "id": "lever:jobgether:e0923b10-77ae-4dad-a0c7-499ab67ba3f3",
+    "company": "Confidential via Jobgether",
+    "role": "Senior Maximo SME Technical Functional Application Developer",
+    "location": "Remote · Turkey",
+    "sourceUrl": "https://jobs.lever.co/jobgether/e0923b10-77ae-4dad-a0c7-499ab67ba3f3",
+    "sourceKind": "lever",
+    "sourceTenant": "jobgether",
+    "sourceJobId": "e0923b10-77ae-4dad-a0c7-499ab67ba3f3",
+    "reason": "Part-time language is present but may only describe benefits or a different employment option",
+    "firstReviewedAt": "2026-09-02",
+    "lastReviewedAt": "2026-09-02"
+  },
+  {
+    "id": "lever:jobgether:e3c9928a-1ffb-4b9b-822e-6dec30e8f6e8",
+    "company": "Confidential via Jobgether",
+    "role": "Senior Maximo SME Technical Functional Application Developer",
+    "location": "Remote · France",
+    "sourceUrl": "https://jobs.lever.co/jobgether/e3c9928a-1ffb-4b9b-822e-6dec30e8f6e8",
+    "sourceKind": "lever",
+    "sourceTenant": "jobgether",
+    "sourceJobId": "e3c9928a-1ffb-4b9b-822e-6dec30e8f6e8",
+    "reason": "Part-time language is present but may only describe benefits or a different employment option",
+    "firstReviewedAt": "2026-09-02",
+    "lastReviewedAt": "2026-09-02"
+  },
+  {
+    "id": "lever:jobgether:e988e7c8-85b4-4bc9-819a-8a102d8fae4b",
+    "company": "Confidential via Jobgether",
+    "role": "Senior Maximo SME Technical Functional Application Developer",
+    "location": "Remote · Netherlands",
+    "sourceUrl": "https://jobs.lever.co/jobgether/e988e7c8-85b4-4bc9-819a-8a102d8fae4b",
+    "sourceKind": "lever",
+    "sourceTenant": "jobgether",
+    "sourceJobId": "e988e7c8-85b4-4bc9-819a-8a102d8fae4b",
+    "reason": "Part-time language is present but may only describe benefits or a different employment option",
+    "firstReviewedAt": "2026-09-02",
+    "lastReviewedAt": "2026-09-02"
+  },
+  {
+    "id": "lever:jobgether:f196cae8-fb72-4204-9124-42afaf609e11",
+    "company": "Confidential via Jobgether",
+    "role": "Senior Maximo SME Technical Functional Application Developer",
+    "location": "Remote · Canada",
+    "sourceUrl": "https://jobs.lever.co/jobgether/f196cae8-fb72-4204-9124-42afaf609e11",
+    "sourceKind": "lever",
+    "sourceTenant": "jobgether",
+    "sourceJobId": "f196cae8-fb72-4204-9124-42afaf609e11",
+    "reason": "Part-time language is present but may only describe benefits or a different employment option",
+    "firstReviewedAt": "2026-09-02",
+    "lastReviewedAt": "2026-09-02"
+  },
+  {
+    "id": "lever:jobgether:f6487c8b-39cf-4af2-9388-08f5fdccb97b",
+    "company": "Confidential via Jobgether",
+    "role": "Senior Maximo SME Technical Functional Application Developer",
+    "location": "Remote · Saudi Arabia",
+    "sourceUrl": "https://jobs.lever.co/jobgether/f6487c8b-39cf-4af2-9388-08f5fdccb97b",
+    "sourceKind": "lever",
+    "sourceTenant": "jobgether",
+    "sourceJobId": "f6487c8b-39cf-4af2-9388-08f5fdccb97b",
+    "reason": "Part-time language is present but may only describe benefits or a different employment option",
+    "firstReviewedAt": "2026-09-02",
+    "lastReviewedAt": "2026-09-02"
+  },
+  {
+    "id": "lever:jobgether:fc0bc8a8-f167-4ac8-956f-0e432ff7dc04",
+    "company": "Confidential via Jobgether",
+    "role": "Senior Maximo SME Technical Functional Application Developer",
+    "location": "Remote · Brazil",
+    "sourceUrl": "https://jobs.lever.co/jobgether/fc0bc8a8-f167-4ac8-956f-0e432ff7dc04",
+    "sourceKind": "lever",
+    "sourceTenant": "jobgether",
+    "sourceJobId": "fc0bc8a8-f167-4ac8-956f-0e432ff7dc04",
+    "reason": "Part-time language is present but may only describe benefits or a different employment option",
+    "firstReviewedAt": "2026-09-02",
+    "lastReviewedAt": "2026-09-02"
   },
   {
     "id": "lever:jobgether:957beb67-921d-4262-a634-3464add68c98",
@@ -101,7 +413,7 @@
     "sourceJobId": "957beb67-921d-4262-a634-3464add68c98",
     "reason": "Part-time language is present but may only describe benefits or a different employment option",
     "firstReviewedAt": "2026-08-28",
-    "lastReviewedAt": "2026-09-01"
+    "lastReviewedAt": "2026-09-02"
   },
   {
     "id": "lever:jobgether:25c5ca40-cb40-4121-ae0c-2a4a22f76889",
@@ -114,7 +426,7 @@
     "sourceJobId": "25c5ca40-cb40-4121-ae0c-2a4a22f76889",
     "reason": "Part-time language is present but may only describe benefits or a different employment option",
     "firstReviewedAt": "2026-08-28",
-    "lastReviewedAt": "2026-09-01"
+    "lastReviewedAt": "2026-09-02"
   },
   {
     "id": "lever:jobgether:9fa80f7f-b3f2-4b24-bad2-4a93a6fefc88",
@@ -127,7 +439,7 @@
     "sourceJobId": "9fa80f7f-b3f2-4b24-bad2-4a93a6fefc88",
     "reason": "Part-time language is present but may only describe benefits or a different employment option",
     "firstReviewedAt": "2026-08-28",
-    "lastReviewedAt": "2026-09-01"
+    "lastReviewedAt": "2026-09-02"
   },
   {
     "id": "ashby:empirical:de21c1b5-e7ae-443b-af50-e9d5a9a99685",
@@ -140,7 +452,7 @@
     "sourceJobId": "de21c1b5-e7ae-443b-af50-e9d5a9a99685",
     "reason": "Part-time language is present but may only describe benefits or a different employment option",
     "firstReviewedAt": "2026-07-26",
-    "lastReviewedAt": "2026-09-01"
+    "lastReviewedAt": "2026-09-02"
   },
   {
     "id": "ashby:empirical:82dad602-c625-404c-84bd-db2470ca3d95",
@@ -153,7 +465,7 @@
     "sourceJobId": "82dad602-c625-404c-84bd-db2470ca3d95",
     "reason": "Part-time language is present but may only describe benefits or a different employment option",
     "firstReviewedAt": "2026-07-26",
-    "lastReviewedAt": "2026-09-01"
+    "lastReviewedAt": "2026-09-02"
   },
   {
     "id": "ashby:empirical:0fbd1dff-f10c-450f-964f-1052ba69accd",
@@ -166,6 +478,6 @@
     "sourceJobId": "0fbd1dff-f10c-450f-964f-1052ba69accd",
     "reason": "Part-time language is present but may only describe benefits or a different employment option",
     "firstReviewedAt": "2026-08-07",
-    "lastReviewedAt": "2026-09-01"
+    "lastReviewedAt": "2026-09-02"
   }
 ]

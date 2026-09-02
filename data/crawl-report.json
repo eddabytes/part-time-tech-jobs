@@ -1,7 +1,7 @@
 {
   "status": "partial",
-  "startedAt": "2026-09-01T15:07:36.628Z",
-  "completedAt": "2026-09-01T15:07:46.544Z",
+  "startedAt": "2026-09-02T14:39:27.013Z",
+  "completedAt": "2026-09-02T14:39:50.633Z",
   "sources": {
     "configured": 23,
     "succeeded": 22,
@@ -29,7 +29,7 @@
       },
       {
         "id": "greenhouse:parsleyhealth",
-        "rawJobs": 9,
+        "rawJobs": 10,
         "status": "success"
       },
       {
@@ -39,7 +39,7 @@
       },
       {
         "id": "greenhouse:xai",
-        "rawJobs": 254,
+        "rawJobs": 251,
         "status": "success"
       },
       {
@@ -114,19 +114,19 @@
       },
       {
         "id": "lever:jobgether",
-        "rawJobs": 4534,
+        "rawJobs": 4450,
         "status": "success"
       }
     ]
   },
   "counts": {
-    "rawJobs": 6433,
+    "rawJobs": 6347,
     "candidates": 59,
-    "published": 74,
-    "added": 28,
-    "updated": 1,
-    "closed": 9,
-    "review": 13
+    "published": 73,
+    "added": 0,
+    "updated": 0,
+    "closed": 1,
+    "review": 37
   },
   "failures": [
     {
