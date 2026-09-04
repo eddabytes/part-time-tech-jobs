@@ -1,7 +1,7 @@
 {
   "status": "partial",
-  "startedAt": "2026-09-03T14:42:22.545Z",
-  "completedAt": "2026-09-03T14:42:33.702Z",
+  "startedAt": "2026-09-04T14:30:38.530Z",
+  "completedAt": "2026-09-04T14:30:53.058Z",
   "sources": {
     "configured": 23,
     "succeeded": 22,
@@ -19,7 +19,7 @@
       },
       {
         "id": "greenhouse:carrotfertility",
-        "rawJobs": 18,
+        "rawJobs": 20,
         "status": "success"
       },
       {
@@ -39,7 +39,7 @@
       },
       {
         "id": "greenhouse:xai",
-        "rawJobs": 254,
+        "rawJobs": 256,
         "status": "success"
       },
       {
@@ -69,7 +69,7 @@
       },
       {
         "id": "ashby:maneuver-marketing",
-        "rawJobs": 10,
+        "rawJobs": 11,
         "status": "success"
       },
       {
@@ -104,28 +104,28 @@
       },
       {
         "id": "lever:3pillarglobal",
-        "rawJobs": 55,
+        "rawJobs": 56,
         "status": "success"
       },
       {
         "id": "lever:cgsfederal",
-        "rawJobs": 1427,
+        "rawJobs": 1428,
         "status": "success"
       },
       {
         "id": "lever:jobgether",
-        "rawJobs": 4481,
+        "rawJobs": 4774,
         "status": "success"
       }
     ]
   },
   "counts": {
-    "rawJobs": 6379,
+    "rawJobs": 6679,
     "candidates": 48,
-    "published": 74,
-    "added": 1,
-    "updated": 0,
-    "closed": 0,
+    "published": 62,
+    "added": 0,
+    "updated": 1,
+    "closed": 12,
     "review": 35
   },
   "failures": [
