@@ -1,44 +1,5 @@
 [
   {
-    "id": "lever:jobgether:1c92614d-b77b-495f-9abf-0dc590349ed5",
-    "company": "Confidential via Jobgether",
-    "role": "Senior Maximo SME Technical Functional Application Developer",
-    "location": "Remote · India",
-    "sourceUrl": "https://jobs.lever.co/jobgether/1c92614d-b77b-495f-9abf-0dc590349ed5",
-    "sourceKind": "lever",
-    "sourceTenant": "jobgether",
-    "sourceJobId": "1c92614d-b77b-495f-9abf-0dc590349ed5",
-    "reason": "Part-time language is present but may only describe benefits or a different employment option",
-    "firstReviewedAt": "2026-09-02",
-    "lastReviewedAt": "2026-09-09"
-  },
-  {
-    "id": "lever:jobgether:2a7cf6eb-679e-4f67-bc98-6d4f9b8fa47f",
-    "company": "Confidential via Jobgether",
-    "role": "Senior Maximo SME Technical Functional Application Developer",
-    "location": "Remote · United Arab Emirates",
-    "sourceUrl": "https://jobs.lever.co/jobgether/2a7cf6eb-679e-4f67-bc98-6d4f9b8fa47f",
-    "sourceKind": "lever",
-    "sourceTenant": "jobgether",
-    "sourceJobId": "2a7cf6eb-679e-4f67-bc98-6d4f9b8fa47f",
-    "reason": "Part-time language is present but may only describe benefits or a different employment option",
-    "firstReviewedAt": "2026-09-02",
-    "lastReviewedAt": "2026-09-09"
-  },
-  {
-    "id": "lever:jobgether:f6487c8b-39cf-4af2-9388-08f5fdccb97b",
-    "company": "Confidential via Jobgether",
-    "role": "Senior Maximo SME Technical Functional Application Developer",
-    "location": "Remote · Saudi Arabia",
-    "sourceUrl": "https://jobs.lever.co/jobgether/f6487c8b-39cf-4af2-9388-08f5fdccb97b",
-    "sourceKind": "lever",
-    "sourceTenant": "jobgether",
-    "sourceJobId": "f6487c8b-39cf-4af2-9388-08f5fdccb97b",
-    "reason": "Part-time language is present but may only describe benefits or a different employment option",
-    "firstReviewedAt": "2026-09-02",
-    "lastReviewedAt": "2026-09-09"
-  },
-  {
     "id": "lever:jobgether:3bf7e82f-8dba-4a81-80f7-88d2f906d72a",
     "company": "Confidential via Jobgether",
     "role": "Staff Software Engineer - Data",
@@ -49,7 +10,7 @@
     "sourceJobId": "3bf7e82f-8dba-4a81-80f7-88d2f906d72a",
     "reason": "Part-time language is present but may only describe benefits or a different employment option",
     "firstReviewedAt": "2026-09-09",
-    "lastReviewedAt": "2026-09-09"
+    "lastReviewedAt": "2026-09-10"
   },
   {
     "id": "lever:jobgether:44dc83f0-36a8-4d78-b3c1-6e0461b5778e",
@@ -62,7 +23,7 @@
     "sourceJobId": "44dc83f0-36a8-4d78-b3c1-6e0461b5778e",
     "reason": "Part-time language is present but may only describe benefits or a different employment option",
     "firstReviewedAt": "2026-09-09",
-    "lastReviewedAt": "2026-09-09"
+    "lastReviewedAt": "2026-09-10"
   },
   {
     "id": "lever:jobgether:51b052d3-5214-46c7-b1dc-6842a0d5925e",
@@ -75,7 +36,7 @@
     "sourceJobId": "51b052d3-5214-46c7-b1dc-6842a0d5925e",
     "reason": "Part-time language is present but may only describe benefits or a different employment option",
     "firstReviewedAt": "2026-09-09",
-    "lastReviewedAt": "2026-09-09"
+    "lastReviewedAt": "2026-09-10"
   },
   {
     "id": "lever:jobgether:8105b3c8-553f-4636-a25c-79a13ef6ca99",
@@ -88,7 +49,7 @@
     "sourceJobId": "8105b3c8-553f-4636-a25c-79a13ef6ca99",
     "reason": "Part-time language is present but may only describe benefits or a different employment option",
     "firstReviewedAt": "2026-09-09",
-    "lastReviewedAt": "2026-09-09"
+    "lastReviewedAt": "2026-09-10"
   },
   {
     "id": "lever:jobgether:8160ff4a-6c10-4c46-a31d-33a450b081ac",
@@ -101,7 +62,7 @@
     "sourceJobId": "8160ff4a-6c10-4c46-a31d-33a450b081ac",
     "reason": "Part-time language is present but may only describe benefits or a different employment option",
     "firstReviewedAt": "2026-09-09",
-    "lastReviewedAt": "2026-09-09"
+    "lastReviewedAt": "2026-09-10"
   },
   {
     "id": "lever:jobgether:96fdebc5-7567-42fa-9d8f-2b8fe1d63a58",
@@ -114,7 +75,7 @@
     "sourceJobId": "96fdebc5-7567-42fa-9d8f-2b8fe1d63a58",
     "reason": "Part-time language is present but may only describe benefits or a different employment option",
     "firstReviewedAt": "2026-09-09",
-    "lastReviewedAt": "2026-09-09"
+    "lastReviewedAt": "2026-09-10"
   },
   {
     "id": "lever:jobgether:a0b47994-7993-43ec-96c3-5f6fe771217c",
@@ -127,7 +88,7 @@
     "sourceJobId": "a0b47994-7993-43ec-96c3-5f6fe771217c",
     "reason": "Part-time language is present but may only describe benefits or a different employment option",
     "firstReviewedAt": "2026-09-09",
-    "lastReviewedAt": "2026-09-09"
+    "lastReviewedAt": "2026-09-10"
   },
   {
     "id": "lever:jobgether:d4f4300b-ad27-4656-9584-d7a722b3835b",
@@ -140,7 +101,7 @@
     "sourceJobId": "d4f4300b-ad27-4656-9584-d7a722b3835b",
     "reason": "Part-time language is present but may only describe benefits or a different employment option",
     "firstReviewedAt": "2026-09-09",
-    "lastReviewedAt": "2026-09-09"
+    "lastReviewedAt": "2026-09-10"
   },
   {
     "id": "lever:jobgether:e51ae3a1-50e5-4c81-9340-056d194c9f16",
@@ -153,7 +114,7 @@
     "sourceJobId": "e51ae3a1-50e5-4c81-9340-056d194c9f16",
     "reason": "Part-time language is present but may only describe benefits or a different employment option",
     "firstReviewedAt": "2026-09-09",
-    "lastReviewedAt": "2026-09-09"
+    "lastReviewedAt": "2026-09-10"
   },
   {
     "id": "lever:jobgether:f43996fa-c956-45a5-93aa-fec2063cb76a",
@@ -166,7 +127,7 @@
     "sourceJobId": "f43996fa-c956-45a5-93aa-fec2063cb76a",
     "reason": "Part-time language is present but may only describe benefits or a different employment option",
     "firstReviewedAt": "2026-09-09",
-    "lastReviewedAt": "2026-09-09"
+    "lastReviewedAt": "2026-09-10"
   },
   {
     "id": "ashby:empirical:82dad602-c625-404c-84bd-db2470ca3d95",
@@ -179,7 +140,20 @@
     "sourceJobId": "82dad602-c625-404c-84bd-db2470ca3d95",
     "reason": "Part-time language is present but may only describe benefits or a different employment option",
     "firstReviewedAt": "2026-07-26",
-    "lastReviewedAt": "2026-09-09"
+    "lastReviewedAt": "2026-09-10"
+  },
+  {
+    "id": "ashby:empirical:04d6119a-002c-49fa-8b93-52db930d7cca",
+    "company": "Empirical",
+    "role": "OB - Lead AI Engineer",
+    "location": "Remote · LATAM",
+    "sourceUrl": "https://jobs.ashbyhq.com/empirical/04d6119a-002c-49fa-8b93-52db930d7cca",
+    "sourceKind": "ashby",
+    "sourceTenant": "empirical",
+    "sourceJobId": "04d6119a-002c-49fa-8b93-52db930d7cca",
+    "reason": "Part-time language is present but may only describe benefits or a different employment option",
+    "firstReviewedAt": "2026-09-10",
+    "lastReviewedAt": "2026-09-10"
   },
   {
     "id": "ashby:empirical:0fbd1dff-f10c-450f-964f-1052ba69accd",
@@ -192,6 +166,6 @@
     "sourceJobId": "0fbd1dff-f10c-450f-964f-1052ba69accd",
     "reason": "Part-time language is present but may only describe benefits or a different employment option",
     "firstReviewedAt": "2026-08-07",
-    "lastReviewedAt": "2026-09-09"
+    "lastReviewedAt": "2026-09-10"
   }
 ]
