@@ -1,7 +1,7 @@
 {
   "status": "partial",
-  "startedAt": "2026-09-10T14:36:06.249Z",
-  "completedAt": "2026-09-10T14:36:20.673Z",
+  "startedAt": "2026-09-11T14:35:18.734Z",
+  "completedAt": "2026-09-11T14:35:30.149Z",
   "sources": {
     "configured": 23,
     "succeeded": 22,
@@ -19,7 +19,7 @@
       },
       {
         "id": "greenhouse:carrotfertility",
-        "rawJobs": 20,
+        "rawJobs": 16,
         "status": "success"
       },
       {
@@ -39,7 +39,7 @@
       },
       {
         "id": "greenhouse:xai",
-        "rawJobs": 254,
+        "rawJobs": 252,
         "status": "success"
       },
       {
@@ -59,7 +59,7 @@
       },
       {
         "id": "ashby:empirical",
-        "rawJobs": 11,
+        "rawJobs": 9,
         "status": "success"
       },
       {
@@ -79,7 +79,7 @@
       },
       {
         "id": "ashby:neurons-lab.com",
-        "rawJobs": 11,
+        "rawJobs": 12,
         "status": "success"
       },
       {
@@ -104,7 +104,7 @@
       },
       {
         "id": "lever:3pillarglobal",
-        "rawJobs": 44,
+        "rawJobs": 0,
         "status": "success"
       },
       {
@@ -114,18 +114,18 @@
       },
       {
         "id": "lever:jobgether",
-        "rawJobs": 4355,
+        "rawJobs": 4669,
         "status": "success"
       }
     ]
   },
   "counts": {
-    "rawJobs": 6247,
-    "candidates": 24,
+    "rawJobs": 6510,
+    "candidates": 25,
     "published": 39,
-    "added": 1,
+    "added": 0,
     "updated": 0,
-    "closed": 7,
+    "closed": 1,
     "review": 13
   },
   "failures": [
