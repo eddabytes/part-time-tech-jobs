@@ -1,7 +1,7 @@
 {
   "status": "partial",
-  "startedAt": "2026-09-11T14:35:18.734Z",
-  "completedAt": "2026-09-11T14:35:30.149Z",
+  "startedAt": "2026-09-12T13:42:36.970Z",
+  "completedAt": "2026-09-12T13:43:01.187Z",
   "sources": {
     "configured": 23,
     "succeeded": 22,
@@ -19,7 +19,7 @@
       },
       {
         "id": "greenhouse:carrotfertility",
-        "rawJobs": 16,
+        "rawJobs": 15,
         "status": "success"
       },
       {
@@ -39,7 +39,7 @@
       },
       {
         "id": "greenhouse:xai",
-        "rawJobs": 252,
+        "rawJobs": 255,
         "status": "success"
       },
       {
@@ -114,18 +114,18 @@
       },
       {
         "id": "lever:jobgether",
-        "rawJobs": 4669,
+        "rawJobs": 4128,
         "status": "success"
       }
     ]
   },
   "counts": {
-    "rawJobs": 6510,
+    "rawJobs": 5971,
     "candidates": 25,
     "published": 39,
     "added": 0,
     "updated": 0,
-    "closed": 1,
+    "closed": 0,
     "review": 13
   },
   "failures": [
