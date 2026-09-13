@@ -1,7 +1,7 @@
 {
   "status": "partial",
-  "startedAt": "2026-09-12T13:42:36.970Z",
-  "completedAt": "2026-09-12T13:43:01.187Z",
+  "startedAt": "2026-09-13T14:37:27.984Z",
+  "completedAt": "2026-09-13T14:37:51.635Z",
   "sources": {
     "configured": 23,
     "succeeded": 22,
@@ -39,7 +39,7 @@
       },
       {
         "id": "greenhouse:xai",
-        "rawJobs": 255,
+        "rawJobs": 254,
         "status": "success"
       },
       {
@@ -114,13 +114,13 @@
       },
       {
         "id": "lever:jobgether",
-        "rawJobs": 4128,
+        "rawJobs": 3845,
         "status": "success"
       }
     ]
   },
   "counts": {
-    "rawJobs": 5971,
+    "rawJobs": 5687,
     "candidates": 25,
     "published": 39,
     "added": 0,
