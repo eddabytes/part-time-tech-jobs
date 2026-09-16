@@ -10,7 +10,7 @@
     "sourceJobId": "7fb2b1c7-3636-4429-8635-12dd1e4b57b9",
     "reason": "Part-time language is present but may only describe benefits or a different employment option",
     "firstReviewedAt": "2026-09-14",
-    "lastReviewedAt": "2026-09-15"
+    "lastReviewedAt": "2026-09-16"
   },
   {
     "id": "lever:jobgether:fd4a32e2-061e-470d-ae36-9d843254d265",
@@ -23,7 +23,7 @@
     "sourceJobId": "fd4a32e2-061e-470d-ae36-9d843254d265",
     "reason": "Part-time language is present but may only describe benefits or a different employment option",
     "firstReviewedAt": "2026-09-14",
-    "lastReviewedAt": "2026-09-15"
+    "lastReviewedAt": "2026-09-16"
   },
   {
     "id": "lever:jobgether:44dc83f0-36a8-4d78-b3c1-6e0461b5778e",
@@ -36,7 +36,7 @@
     "sourceJobId": "44dc83f0-36a8-4d78-b3c1-6e0461b5778e",
     "reason": "Part-time language is present but may only describe benefits or a different employment option",
     "firstReviewedAt": "2026-09-09",
-    "lastReviewedAt": "2026-09-15"
+    "lastReviewedAt": "2026-09-16"
   },
   {
     "id": "ashby:empirical:82dad602-c625-404c-84bd-db2470ca3d95",
@@ -49,7 +49,7 @@
     "sourceJobId": "82dad602-c625-404c-84bd-db2470ca3d95",
     "reason": "Part-time language is present but may only describe benefits or a different employment option",
     "firstReviewedAt": "2026-07-26",
-    "lastReviewedAt": "2026-09-15"
+    "lastReviewedAt": "2026-09-16"
   },
   {
     "id": "ashby:empirical:04d6119a-002c-49fa-8b93-52db930d7cca",
@@ -62,7 +62,7 @@
     "sourceJobId": "04d6119a-002c-49fa-8b93-52db930d7cca",
     "reason": "Part-time language is present but may only describe benefits or a different employment option",
     "firstReviewedAt": "2026-09-10",
-    "lastReviewedAt": "2026-09-15"
+    "lastReviewedAt": "2026-09-16"
   },
   {
     "id": "ashby:empirical:0fbd1dff-f10c-450f-964f-1052ba69accd",
@@ -75,6 +75,6 @@
     "sourceJobId": "0fbd1dff-f10c-450f-964f-1052ba69accd",
     "reason": "Part-time language is present but may only describe benefits or a different employment option",
     "firstReviewedAt": "2026-08-07",
-    "lastReviewedAt": "2026-09-15"
+    "lastReviewedAt": "2026-09-16"
   }
 ]
