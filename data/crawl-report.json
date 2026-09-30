@@ -1,7 +1,7 @@
 {
   "status": "partial",
-  "startedAt": "2026-09-29T16:36:38.425Z",
-  "completedAt": "2026-09-29T16:37:07.734Z",
+  "startedAt": "2026-09-30T16:29:18.431Z",
+  "completedAt": "2026-09-30T16:29:27.560Z",
   "sources": {
     "configured": 23,
     "succeeded": 22,
@@ -39,7 +39,7 @@
       },
       {
         "id": "greenhouse:xai",
-        "rawJobs": 289,
+        "rawJobs": 291,
         "status": "success"
       },
       {
@@ -99,7 +99,7 @@
       },
       {
         "id": "ashby:widgetfactory",
-        "rawJobs": 2,
+        "rawJobs": 1,
         "status": "success"
       },
       {
@@ -114,19 +114,19 @@
       },
       {
         "id": "lever:jobgether",
-        "rawJobs": 4453,
+        "rawJobs": 4530,
         "status": "success"
       }
     ]
   },
   "counts": {
-    "rawJobs": 6331,
-    "candidates": 21,
-    "published": 35,
-    "added": 1,
+    "rawJobs": 6409,
+    "candidates": 30,
+    "published": 44,
+    "added": 9,
     "updated": 0,
-    "closed": 1,
-    "review": 14
+    "closed": 0,
+    "review": 15
   },
   "failures": [
     {
