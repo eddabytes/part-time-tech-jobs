@@ -10,7 +10,7 @@
     "sourceJobId": "09230d09-ceba-4f9c-a3de-bb472a7693c6",
     "reason": "Part-time language is present but may only describe benefits or a different employment option",
     "firstReviewedAt": "2026-09-28",
-    "lastReviewedAt": "2026-09-30"
+    "lastReviewedAt": "2026-10-01"
   },
   {
     "id": "lever:jobgether:a6a94bf2-03c3-4405-9f84-fce97ee64776",
@@ -23,7 +23,7 @@
     "sourceJobId": "a6a94bf2-03c3-4405-9f84-fce97ee64776",
     "reason": "Part-time language is present but may only describe benefits or a different employment option",
     "firstReviewedAt": "2026-09-28",
-    "lastReviewedAt": "2026-09-30"
+    "lastReviewedAt": "2026-10-01"
   },
   {
     "id": "lever:jobgether:aeab9407-8155-4b68-91c9-608d5aa88e32",
@@ -36,7 +36,7 @@
     "sourceJobId": "aeab9407-8155-4b68-91c9-608d5aa88e32",
     "reason": "Part-time language is present but may only describe benefits or a different employment option",
     "firstReviewedAt": "2026-09-28",
-    "lastReviewedAt": "2026-09-30"
+    "lastReviewedAt": "2026-10-01"
   },
   {
     "id": "lever:jobgether:b90230fa-30a8-42ad-bd87-94526b390a41",
@@ -49,46 +49,7 @@
     "sourceJobId": "b90230fa-30a8-42ad-bd87-94526b390a41",
     "reason": "Part-time language is present but may only describe benefits or a different employment option",
     "firstReviewedAt": "2026-09-28",
-    "lastReviewedAt": "2026-09-30"
-  },
-  {
-    "id": "lever:jobgether:be71f45c-69b5-4fad-90a2-40fefa180e3e",
-    "company": "Confidential via Jobgether",
-    "role": "Product Manager, Clearing Systems",
-    "location": "Remote · Brazil",
-    "sourceUrl": "https://jobs.lever.co/jobgether/be71f45c-69b5-4fad-90a2-40fefa180e3e",
-    "sourceKind": "lever",
-    "sourceTenant": "jobgether",
-    "sourceJobId": "be71f45c-69b5-4fad-90a2-40fefa180e3e",
-    "reason": "Part-time language is present but may only describe benefits or a different employment option",
-    "firstReviewedAt": "2026-09-25",
-    "lastReviewedAt": "2026-09-30"
-  },
-  {
-    "id": "lever:jobgether:e525e523-2fd9-41a4-afcb-52740f9e4d01",
-    "company": "Confidential via Jobgether",
-    "role": "Product Manager, Clearing Systems",
-    "location": "Remote · Canada",
-    "sourceUrl": "https://jobs.lever.co/jobgether/e525e523-2fd9-41a4-afcb-52740f9e4d01",
-    "sourceKind": "lever",
-    "sourceTenant": "jobgether",
-    "sourceJobId": "e525e523-2fd9-41a4-afcb-52740f9e4d01",
-    "reason": "Part-time language is present but may only describe benefits or a different employment option",
-    "firstReviewedAt": "2026-09-25",
-    "lastReviewedAt": "2026-09-30"
-  },
-  {
-    "id": "lever:jobgether:fde82677-773d-410d-b32d-26f33bcee77a",
-    "company": "Confidential via Jobgether",
-    "role": "Product Manager, Clearing Systems",
-    "location": "Remote · US",
-    "sourceUrl": "https://jobs.lever.co/jobgether/fde82677-773d-410d-b32d-26f33bcee77a",
-    "sourceKind": "lever",
-    "sourceTenant": "jobgether",
-    "sourceJobId": "fde82677-773d-410d-b32d-26f33bcee77a",
-    "reason": "Part-time language is present but may only describe benefits or a different employment option",
-    "firstReviewedAt": "2026-09-25",
-    "lastReviewedAt": "2026-09-30"
+    "lastReviewedAt": "2026-10-01"
   },
   {
     "id": "lever:jobgether:0d78b74e-f271-4431-872f-d2f5401e7c35",
@@ -101,7 +62,7 @@
     "sourceJobId": "0d78b74e-f271-4431-872f-d2f5401e7c35",
     "reason": "Part-time language is present but may only describe benefits or a different employment option",
     "firstReviewedAt": "2026-09-24",
-    "lastReviewedAt": "2026-09-30"
+    "lastReviewedAt": "2026-10-01"
   },
   {
     "id": "lever:jobgether:6395a6c5-98e2-4947-a341-e1c57e966cfa",
@@ -114,7 +75,7 @@
     "sourceJobId": "6395a6c5-98e2-4947-a341-e1c57e966cfa",
     "reason": "Part-time language is present but may only describe benefits or a different employment option",
     "firstReviewedAt": "2026-09-30",
-    "lastReviewedAt": "2026-09-30"
+    "lastReviewedAt": "2026-10-01"
   },
   {
     "id": "lever:jobgether:041d24ff-e897-491b-8f30-bed92c4ea006",
@@ -127,20 +88,7 @@
     "sourceJobId": "041d24ff-e897-491b-8f30-bed92c4ea006",
     "reason": "Part-time language is present but may only describe benefits or a different employment option",
     "firstReviewedAt": "2026-09-29",
-    "lastReviewedAt": "2026-09-30"
-  },
-  {
-    "id": "lever:jobgether:7d236362-acf0-4490-93a2-2a8d316877ac",
-    "company": "Confidential via Jobgether",
-    "role": "Staff Engineer (Modern Workplace)",
-    "location": "Remote · India",
-    "sourceUrl": "https://jobs.lever.co/jobgether/7d236362-acf0-4490-93a2-2a8d316877ac",
-    "sourceKind": "lever",
-    "sourceTenant": "jobgether",
-    "sourceJobId": "7d236362-acf0-4490-93a2-2a8d316877ac",
-    "reason": "Part-time language is present but may only describe benefits or a different employment option",
-    "firstReviewedAt": "2026-09-23",
-    "lastReviewedAt": "2026-09-30"
+    "lastReviewedAt": "2026-10-01"
   },
   {
     "id": "lever:jobgether:d346e007-9676-474a-8eac-ec6ec793353e",
@@ -153,7 +101,7 @@
     "sourceJobId": "d346e007-9676-474a-8eac-ec6ec793353e",
     "reason": "Part-time language is present but may only describe benefits or a different employment option",
     "firstReviewedAt": "2026-09-26",
-    "lastReviewedAt": "2026-09-30"
+    "lastReviewedAt": "2026-10-01"
   },
   {
     "id": "ashby:empirical:82dad602-c625-404c-84bd-db2470ca3d95",
@@ -166,7 +114,7 @@
     "sourceJobId": "82dad602-c625-404c-84bd-db2470ca3d95",
     "reason": "Part-time language is present but may only describe benefits or a different employment option",
     "firstReviewedAt": "2026-07-26",
-    "lastReviewedAt": "2026-09-30"
+    "lastReviewedAt": "2026-10-01"
   },
   {
     "id": "ashby:empirical:04d6119a-002c-49fa-8b93-52db930d7cca",
@@ -179,7 +127,7 @@
     "sourceJobId": "04d6119a-002c-49fa-8b93-52db930d7cca",
     "reason": "Part-time language is present but may only describe benefits or a different employment option",
     "firstReviewedAt": "2026-09-10",
-    "lastReviewedAt": "2026-09-30"
+    "lastReviewedAt": "2026-10-01"
   },
   {
     "id": "ashby:empirical:0fbd1dff-f10c-450f-964f-1052ba69accd",
@@ -192,6 +140,6 @@
     "sourceJobId": "0fbd1dff-f10c-450f-964f-1052ba69accd",
     "reason": "Part-time language is present but may only describe benefits or a different employment option",
     "firstReviewedAt": "2026-08-07",
-    "lastReviewedAt": "2026-09-30"
+    "lastReviewedAt": "2026-10-01"
   }
 ]

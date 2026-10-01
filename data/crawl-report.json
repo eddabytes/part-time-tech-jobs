@@ -1,7 +1,7 @@
 {
   "status": "partial",
-  "startedAt": "2026-09-30T16:29:18.431Z",
-  "completedAt": "2026-09-30T16:29:27.560Z",
+  "startedAt": "2026-10-01T17:07:15.796Z",
+  "completedAt": "2026-10-01T17:07:57.817Z",
   "sources": {
     "configured": 23,
     "succeeded": 22,
@@ -39,7 +39,7 @@
       },
       {
         "id": "greenhouse:xai",
-        "rawJobs": 291,
+        "rawJobs": 295,
         "status": "success"
       },
       {
@@ -54,7 +54,7 @@
       },
       {
         "id": "ashby:brainco",
-        "rawJobs": 33,
+        "rawJobs": 34,
         "status": "success"
       },
       {
@@ -114,19 +114,19 @@
       },
       {
         "id": "lever:jobgether",
-        "rawJobs": 4530,
+        "rawJobs": 4281,
         "status": "success"
       }
     ]
   },
   "counts": {
-    "rawJobs": 6409,
-    "candidates": 30,
-    "published": 44,
-    "added": 9,
+    "rawJobs": 6165,
+    "candidates": 31,
+    "published": 45,
+    "added": 1,
     "updated": 0,
     "closed": 0,
-    "review": 15
+    "review": 11
   },
   "failures": [
     {
