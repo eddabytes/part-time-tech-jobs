@@ -1,44 +1,5 @@
 [
   {
-    "id": "lever:jobgether:09230d09-ceba-4f9c-a3de-bb472a7693c6",
-    "company": "Confidential via Jobgether",
-    "role": "Finance Technology Data Solutions Engineer",
-    "location": "Remote · India",
-    "sourceUrl": "https://jobs.lever.co/jobgether/09230d09-ceba-4f9c-a3de-bb472a7693c6",
-    "sourceKind": "lever",
-    "sourceTenant": "jobgether",
-    "sourceJobId": "09230d09-ceba-4f9c-a3de-bb472a7693c6",
-    "reason": "Part-time language is present but may only describe benefits or a different employment option",
-    "firstReviewedAt": "2026-09-28",
-    "lastReviewedAt": "2026-10-05"
-  },
-  {
-    "id": "lever:jobgether:a6a94bf2-03c3-4405-9f84-fce97ee64776",
-    "company": "Confidential via Jobgether",
-    "role": "Finance Technology Data Solutions Engineer",
-    "location": "Remote · US",
-    "sourceUrl": "https://jobs.lever.co/jobgether/a6a94bf2-03c3-4405-9f84-fce97ee64776",
-    "sourceKind": "lever",
-    "sourceTenant": "jobgether",
-    "sourceJobId": "a6a94bf2-03c3-4405-9f84-fce97ee64776",
-    "reason": "Part-time language is present but may only describe benefits or a different employment option",
-    "firstReviewedAt": "2026-09-28",
-    "lastReviewedAt": "2026-10-05"
-  },
-  {
-    "id": "lever:jobgether:b90230fa-30a8-42ad-bd87-94526b390a41",
-    "company": "Confidential via Jobgether",
-    "role": "Finance Technology Data Solutions Engineer",
-    "location": "Remote · Canada",
-    "sourceUrl": "https://jobs.lever.co/jobgether/b90230fa-30a8-42ad-bd87-94526b390a41",
-    "sourceKind": "lever",
-    "sourceTenant": "jobgether",
-    "sourceJobId": "b90230fa-30a8-42ad-bd87-94526b390a41",
-    "reason": "Part-time language is present but may only describe benefits or a different employment option",
-    "firstReviewedAt": "2026-09-28",
-    "lastReviewedAt": "2026-10-05"
-  },
-  {
     "id": "lever:jobgether:11574432-d301-4ae7-9427-0d3944704f35",
     "company": "Confidential via Jobgether",
     "role": "Financial Management (FM) Palantir Data Analyst (Analyst and Manager Levels), Department of War (DoW), Secret Clearance",
@@ -49,7 +10,20 @@
     "sourceJobId": "11574432-d301-4ae7-9427-0d3944704f35",
     "reason": "Part-time language is present but may only describe benefits or a different employment option",
     "firstReviewedAt": "2026-10-05",
-    "lastReviewedAt": "2026-10-05"
+    "lastReviewedAt": "2026-10-06"
+  },
+  {
+    "id": "lever:jobgether:9c96b1ef-b44f-4a00-95d7-87b5fac32099",
+    "company": "Confidential via Jobgether",
+    "role": "Senior Energetics Facilities Engineer",
+    "location": "Remote · US",
+    "sourceUrl": "https://jobs.lever.co/jobgether/9c96b1ef-b44f-4a00-95d7-87b5fac32099",
+    "sourceKind": "lever",
+    "sourceTenant": "jobgether",
+    "sourceJobId": "9c96b1ef-b44f-4a00-95d7-87b5fac32099",
+    "reason": "Part-time language is present but may only describe benefits or a different employment option",
+    "firstReviewedAt": "2026-10-06",
+    "lastReviewedAt": "2026-10-06"
   },
   {
     "id": "lever:jobgether:6395a6c5-98e2-4947-a341-e1c57e966cfa",
@@ -62,7 +36,33 @@
     "sourceJobId": "6395a6c5-98e2-4947-a341-e1c57e966cfa",
     "reason": "Part-time language is present but may only describe benefits or a different employment option",
     "firstReviewedAt": "2026-09-30",
-    "lastReviewedAt": "2026-10-05"
+    "lastReviewedAt": "2026-10-06"
+  },
+  {
+    "id": "lever:jobgether:a2036e00-9719-431c-af2f-e79755d0e82e",
+    "company": "Confidential via Jobgether",
+    "role": "Senior Software Engineer – LLM Evaluation",
+    "location": "Remote · Canada",
+    "sourceUrl": "https://jobs.lever.co/jobgether/a2036e00-9719-431c-af2f-e79755d0e82e",
+    "sourceKind": "lever",
+    "sourceTenant": "jobgether",
+    "sourceJobId": "a2036e00-9719-431c-af2f-e79755d0e82e",
+    "reason": "Part-time language is present but may only describe benefits or a different employment option",
+    "firstReviewedAt": "2026-10-06",
+    "lastReviewedAt": "2026-10-06"
+  },
+  {
+    "id": "lever:jobgether:a2eddfe2-a2bb-49f1-9258-dabebbba5fbb",
+    "company": "Confidential via Jobgether",
+    "role": "Senior Software Engineer – LLM Evaluation",
+    "location": "Remote · US",
+    "sourceUrl": "https://jobs.lever.co/jobgether/a2eddfe2-a2bb-49f1-9258-dabebbba5fbb",
+    "sourceKind": "lever",
+    "sourceTenant": "jobgether",
+    "sourceJobId": "a2eddfe2-a2bb-49f1-9258-dabebbba5fbb",
+    "reason": "Part-time language is present but may only describe benefits or a different employment option",
+    "firstReviewedAt": "2026-10-06",
+    "lastReviewedAt": "2026-10-06"
   },
   {
     "id": "lever:jobgether:041d24ff-e897-491b-8f30-bed92c4ea006",
@@ -75,7 +75,33 @@
     "sourceJobId": "041d24ff-e897-491b-8f30-bed92c4ea006",
     "reason": "Part-time language is present but may only describe benefits or a different employment option",
     "firstReviewedAt": "2026-09-29",
-    "lastReviewedAt": "2026-10-05"
+    "lastReviewedAt": "2026-10-06"
+  },
+  {
+    "id": "lever:jobgether:3e046aa9-460b-4dfa-a73e-100837437f99",
+    "company": "Confidential via Jobgether",
+    "role": "Shopify UX Designer – Customizer Specialist",
+    "location": "Remote · US",
+    "sourceUrl": "https://jobs.lever.co/jobgether/3e046aa9-460b-4dfa-a73e-100837437f99",
+    "sourceKind": "lever",
+    "sourceTenant": "jobgether",
+    "sourceJobId": "3e046aa9-460b-4dfa-a73e-100837437f99",
+    "reason": "Part-time language is present but may only describe benefits or a different employment option",
+    "firstReviewedAt": "2026-10-06",
+    "lastReviewedAt": "2026-10-06"
+  },
+  {
+    "id": "lever:jobgether:6ccb8ab4-bb2b-4188-a604-1217fa90c3cf",
+    "company": "Confidential via Jobgether",
+    "role": "Shopify UX Designer – Customizer Specialist",
+    "location": "Remote · Brazil",
+    "sourceUrl": "https://jobs.lever.co/jobgether/6ccb8ab4-bb2b-4188-a604-1217fa90c3cf",
+    "sourceKind": "lever",
+    "sourceTenant": "jobgether",
+    "sourceJobId": "6ccb8ab4-bb2b-4188-a604-1217fa90c3cf",
+    "reason": "Part-time language is present but may only describe benefits or a different employment option",
+    "firstReviewedAt": "2026-10-06",
+    "lastReviewedAt": "2026-10-06"
   },
   {
     "id": "ashby:empirical:04d6119a-002c-49fa-8b93-52db930d7cca",
@@ -88,6 +114,6 @@
     "sourceJobId": "04d6119a-002c-49fa-8b93-52db930d7cca",
     "reason": "Part-time language is present but may only describe benefits or a different employment option",
     "firstReviewedAt": "2026-09-10",
-    "lastReviewedAt": "2026-10-05"
+    "lastReviewedAt": "2026-10-06"
   }
 ]
