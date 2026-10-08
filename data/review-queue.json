@@ -10,7 +10,7 @@
     "sourceJobId": "11574432-d301-4ae7-9427-0d3944704f35",
     "reason": "Part-time language is present but may only describe benefits or a different employment option",
     "firstReviewedAt": "2026-10-05",
-    "lastReviewedAt": "2026-10-07"
+    "lastReviewedAt": "2026-10-08"
   },
   {
     "id": "lever:jobgether:15acdb40-658a-43da-a5c4-2489997d953c",
@@ -23,7 +23,7 @@
     "sourceJobId": "15acdb40-658a-43da-a5c4-2489997d953c",
     "reason": "Part-time language is present but may only describe benefits or a different employment option",
     "firstReviewedAt": "2026-10-07",
-    "lastReviewedAt": "2026-10-07"
+    "lastReviewedAt": "2026-10-08"
   },
   {
     "id": "lever:jobgether:1f353713-33cb-47a2-b54a-bdac6bdd531a",
@@ -36,7 +36,7 @@
     "sourceJobId": "1f353713-33cb-47a2-b54a-bdac6bdd531a",
     "reason": "Part-time language is present but may only describe benefits or a different employment option",
     "firstReviewedAt": "2026-10-07",
-    "lastReviewedAt": "2026-10-07"
+    "lastReviewedAt": "2026-10-08"
   },
   {
     "id": "lever:jobgether:4fe472e2-bec8-4267-96ff-bfa35694873f",
@@ -49,7 +49,7 @@
     "sourceJobId": "4fe472e2-bec8-4267-96ff-bfa35694873f",
     "reason": "Part-time language is present but may only describe benefits or a different employment option",
     "firstReviewedAt": "2026-10-07",
-    "lastReviewedAt": "2026-10-07"
+    "lastReviewedAt": "2026-10-08"
   },
   {
     "id": "lever:jobgether:582793a9-007f-41ef-b87b-d21fb203cca1",
@@ -62,7 +62,7 @@
     "sourceJobId": "582793a9-007f-41ef-b87b-d21fb203cca1",
     "reason": "Part-time language is present but may only describe benefits or a different employment option",
     "firstReviewedAt": "2026-10-07",
-    "lastReviewedAt": "2026-10-07"
+    "lastReviewedAt": "2026-10-08"
   },
   {
     "id": "lever:jobgether:f74b3ca8-a178-461e-a017-ccab2b33d07b",
@@ -75,7 +75,7 @@
     "sourceJobId": "f74b3ca8-a178-461e-a017-ccab2b33d07b",
     "reason": "Part-time language is present but may only describe benefits or a different employment option",
     "firstReviewedAt": "2026-10-07",
-    "lastReviewedAt": "2026-10-07"
+    "lastReviewedAt": "2026-10-08"
   },
   {
     "id": "lever:jobgether:86772c8e-c893-4afd-9a3e-b711ad4ed447",
@@ -88,7 +88,7 @@
     "sourceJobId": "86772c8e-c893-4afd-9a3e-b711ad4ed447",
     "reason": "Part-time language is present but may only describe benefits or a different employment option",
     "firstReviewedAt": "2026-10-07",
-    "lastReviewedAt": "2026-10-07"
+    "lastReviewedAt": "2026-10-08"
   },
   {
     "id": "lever:jobgether:9c96b1ef-b44f-4a00-95d7-87b5fac32099",
@@ -101,20 +101,7 @@
     "sourceJobId": "9c96b1ef-b44f-4a00-95d7-87b5fac32099",
     "reason": "Part-time language is present but may only describe benefits or a different employment option",
     "firstReviewedAt": "2026-10-06",
-    "lastReviewedAt": "2026-10-07"
-  },
-  {
-    "id": "lever:jobgether:6395a6c5-98e2-4947-a341-e1c57e966cfa",
-    "company": "Confidential via Jobgether",
-    "role": "Senior Full Stack Developer",
-    "location": "Remote · US",
-    "sourceUrl": "https://jobs.lever.co/jobgether/6395a6c5-98e2-4947-a341-e1c57e966cfa",
-    "sourceKind": "lever",
-    "sourceTenant": "jobgether",
-    "sourceJobId": "6395a6c5-98e2-4947-a341-e1c57e966cfa",
-    "reason": "Part-time language is present but may only describe benefits or a different employment option",
-    "firstReviewedAt": "2026-09-30",
-    "lastReviewedAt": "2026-10-07"
+    "lastReviewedAt": "2026-10-08"
   },
   {
     "id": "lever:jobgether:a2036e00-9719-431c-af2f-e79755d0e82e",
@@ -127,7 +114,7 @@
     "sourceJobId": "a2036e00-9719-431c-af2f-e79755d0e82e",
     "reason": "Part-time language is present but may only describe benefits or a different employment option",
     "firstReviewedAt": "2026-10-06",
-    "lastReviewedAt": "2026-10-07"
+    "lastReviewedAt": "2026-10-08"
   },
   {
     "id": "lever:jobgether:a2eddfe2-a2bb-49f1-9258-dabebbba5fbb",
@@ -140,7 +127,7 @@
     "sourceJobId": "a2eddfe2-a2bb-49f1-9258-dabebbba5fbb",
     "reason": "Part-time language is present but may only describe benefits or a different employment option",
     "firstReviewedAt": "2026-10-06",
-    "lastReviewedAt": "2026-10-07"
+    "lastReviewedAt": "2026-10-08"
   },
   {
     "id": "lever:jobgether:3e046aa9-460b-4dfa-a73e-100837437f99",
@@ -153,7 +140,7 @@
     "sourceJobId": "3e046aa9-460b-4dfa-a73e-100837437f99",
     "reason": "Part-time language is present but may only describe benefits or a different employment option",
     "firstReviewedAt": "2026-10-06",
-    "lastReviewedAt": "2026-10-07"
+    "lastReviewedAt": "2026-10-08"
   },
   {
     "id": "lever:jobgether:6ccb8ab4-bb2b-4188-a604-1217fa90c3cf",
@@ -166,7 +153,7 @@
     "sourceJobId": "6ccb8ab4-bb2b-4188-a604-1217fa90c3cf",
     "reason": "Part-time language is present but may only describe benefits or a different employment option",
     "firstReviewedAt": "2026-10-06",
-    "lastReviewedAt": "2026-10-07"
+    "lastReviewedAt": "2026-10-08"
   },
   {
     "id": "ashby:empirical:04d6119a-002c-49fa-8b93-52db930d7cca",
@@ -179,6 +166,6 @@
     "sourceJobId": "04d6119a-002c-49fa-8b93-52db930d7cca",
     "reason": "Part-time language is present but may only describe benefits or a different employment option",
     "firstReviewedAt": "2026-09-10",
-    "lastReviewedAt": "2026-10-07"
+    "lastReviewedAt": "2026-10-08"
   }
 ]
