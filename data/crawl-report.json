@@ -1,7 +1,7 @@
 {
   "status": "partial",
-  "startedAt": "2026-10-08T17:33:49.457Z",
-  "completedAt": "2026-10-08T17:34:00.752Z",
+  "startedAt": "2026-10-09T17:09:26.960Z",
+  "completedAt": "2026-10-09T17:09:36.172Z",
   "sources": {
     "configured": 23,
     "succeeded": 22,
@@ -14,7 +14,7 @@
       },
       {
         "id": "greenhouse:aiedu",
-        "rawJobs": 3,
+        "rawJobs": 0,
         "status": "success"
       },
       {
@@ -39,7 +39,7 @@
       },
       {
         "id": "greenhouse:xai",
-        "rawJobs": 307,
+        "rawJobs": 305,
         "status": "success"
       },
       {
@@ -64,7 +64,7 @@
       },
       {
         "id": "ashby:foundry-for-good",
-        "rawJobs": 25,
+        "rawJobs": 19,
         "status": "success"
       },
       {
@@ -114,19 +114,19 @@
       },
       {
         "id": "lever:jobgether",
-        "rawJobs": 4035,
+        "rawJobs": 4506,
         "status": "success"
       }
     ]
   },
   "counts": {
-    "rawJobs": 5926,
-    "candidates": 31,
-    "published": 54,
+    "rawJobs": 6386,
+    "candidates": 30,
+    "published": 45,
     "added": 0,
     "updated": 0,
-    "closed": 2,
-    "review": 13
+    "closed": 9,
+    "review": 39
   },
   "failures": [
     {

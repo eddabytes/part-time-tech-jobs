@@ -1,5 +1,343 @@
 [
   {
+    "id": "lever:jobgether:25a6dccf-0fcc-4958-b1fe-f7a478d3a502",
+    "company": "Confidential via Jobgether",
+    "role": "Data Analytics Specialist",
+    "location": "Remote · India",
+    "sourceUrl": "https://jobs.lever.co/jobgether/25a6dccf-0fcc-4958-b1fe-f7a478d3a502",
+    "sourceKind": "lever",
+    "sourceTenant": "jobgether",
+    "sourceJobId": "25a6dccf-0fcc-4958-b1fe-f7a478d3a502",
+    "reason": "Part-time language is present but may only describe benefits or a different employment option",
+    "firstReviewedAt": "2026-10-09",
+    "lastReviewedAt": "2026-10-09"
+  },
+  {
+    "id": "lever:jobgether:44419601-f066-41f9-a8cb-a0ec519f82ff",
+    "company": "Confidential via Jobgether",
+    "role": "English to Ukrainian Review Lead for UI, Marketing & Product Content",
+    "location": "Remote · South Africa",
+    "sourceUrl": "https://jobs.lever.co/jobgether/44419601-f066-41f9-a8cb-a0ec519f82ff",
+    "sourceKind": "lever",
+    "sourceTenant": "jobgether",
+    "sourceJobId": "44419601-f066-41f9-a8cb-a0ec519f82ff",
+    "reason": "Part-time language is present but may only describe benefits or a different employment option",
+    "firstReviewedAt": "2026-10-09",
+    "lastReviewedAt": "2026-10-09"
+  },
+  {
+    "id": "lever:jobgether:46fe3e61-018a-44e4-9f04-39dc26804d2f",
+    "company": "Confidential via Jobgether",
+    "role": "English to Ukrainian Review Lead for UI, Marketing & Product Content",
+    "location": "Remote · Spain",
+    "sourceUrl": "https://jobs.lever.co/jobgether/46fe3e61-018a-44e4-9f04-39dc26804d2f",
+    "sourceKind": "lever",
+    "sourceTenant": "jobgether",
+    "sourceJobId": "46fe3e61-018a-44e4-9f04-39dc26804d2f",
+    "reason": "Part-time language is present but may only describe benefits or a different employment option",
+    "firstReviewedAt": "2026-10-09",
+    "lastReviewedAt": "2026-10-09"
+  },
+  {
+    "id": "lever:jobgether:50ee3e25-a12c-4a98-aec8-2f80f392136d",
+    "company": "Confidential via Jobgether",
+    "role": "English to Ukrainian Review Lead for UI, Marketing & Product Content",
+    "location": "Remote · Romania",
+    "sourceUrl": "https://jobs.lever.co/jobgether/50ee3e25-a12c-4a98-aec8-2f80f392136d",
+    "sourceKind": "lever",
+    "sourceTenant": "jobgether",
+    "sourceJobId": "50ee3e25-a12c-4a98-aec8-2f80f392136d",
+    "reason": "Part-time language is present but may only describe benefits or a different employment option",
+    "firstReviewedAt": "2026-10-09",
+    "lastReviewedAt": "2026-10-09"
+  },
+  {
+    "id": "lever:jobgether:5ab097e9-0767-428c-9e07-134eb6b82540",
+    "company": "Confidential via Jobgether",
+    "role": "English to Ukrainian Review Lead for UI, Marketing & Product Content",
+    "location": "Remote · Germany",
+    "sourceUrl": "https://jobs.lever.co/jobgether/5ab097e9-0767-428c-9e07-134eb6b82540",
+    "sourceKind": "lever",
+    "sourceTenant": "jobgether",
+    "sourceJobId": "5ab097e9-0767-428c-9e07-134eb6b82540",
+    "reason": "Part-time language is present but may only describe benefits or a different employment option",
+    "firstReviewedAt": "2026-10-09",
+    "lastReviewedAt": "2026-10-09"
+  },
+  {
+    "id": "lever:jobgether:6598c663-61ee-45ba-8ec6-59e2f90d3fa6",
+    "company": "Confidential via Jobgether",
+    "role": "English to Ukrainian Review Lead for UI, Marketing & Product Content",
+    "location": "Remote · Belgium",
+    "sourceUrl": "https://jobs.lever.co/jobgether/6598c663-61ee-45ba-8ec6-59e2f90d3fa6",
+    "sourceKind": "lever",
+    "sourceTenant": "jobgether",
+    "sourceJobId": "6598c663-61ee-45ba-8ec6-59e2f90d3fa6",
+    "reason": "Part-time language is present but may only describe benefits or a different employment option",
+    "firstReviewedAt": "2026-10-09",
+    "lastReviewedAt": "2026-10-09"
+  },
+  {
+    "id": "lever:jobgether:76072e94-2ef5-4d60-b66d-4d4af1528c9f",
+    "company": "Confidential via Jobgether",
+    "role": "English to Ukrainian Review Lead for UI, Marketing & Product Content",
+    "location": "Remote · Turkey",
+    "sourceUrl": "https://jobs.lever.co/jobgether/76072e94-2ef5-4d60-b66d-4d4af1528c9f",
+    "sourceKind": "lever",
+    "sourceTenant": "jobgether",
+    "sourceJobId": "76072e94-2ef5-4d60-b66d-4d4af1528c9f",
+    "reason": "Part-time language is present but may only describe benefits or a different employment option",
+    "firstReviewedAt": "2026-10-09",
+    "lastReviewedAt": "2026-10-09"
+  },
+  {
+    "id": "lever:jobgether:7bc5400c-e9a6-46a8-801a-87e557b695b7",
+    "company": "Confidential via Jobgether",
+    "role": "English to Ukrainian Review Lead for UI, Marketing & Product Content",
+    "location": "Remote · Netherlands",
+    "sourceUrl": "https://jobs.lever.co/jobgether/7bc5400c-e9a6-46a8-801a-87e557b695b7",
+    "sourceKind": "lever",
+    "sourceTenant": "jobgether",
+    "sourceJobId": "7bc5400c-e9a6-46a8-801a-87e557b695b7",
+    "reason": "Part-time language is present but may only describe benefits or a different employment option",
+    "firstReviewedAt": "2026-10-09",
+    "lastReviewedAt": "2026-10-09"
+  },
+  {
+    "id": "lever:jobgether:7dd64878-454b-4adb-a77c-9370b1c6b17b",
+    "company": "Confidential via Jobgether",
+    "role": "English to Ukrainian Review Lead for UI, Marketing & Product Content",
+    "location": "Remote · UK",
+    "sourceUrl": "https://jobs.lever.co/jobgether/7dd64878-454b-4adb-a77c-9370b1c6b17b",
+    "sourceKind": "lever",
+    "sourceTenant": "jobgether",
+    "sourceJobId": "7dd64878-454b-4adb-a77c-9370b1c6b17b",
+    "reason": "Part-time language is present but may only describe benefits or a different employment option",
+    "firstReviewedAt": "2026-10-09",
+    "lastReviewedAt": "2026-10-09"
+  },
+  {
+    "id": "lever:jobgether:9b2fe1ba-1e0b-4e4e-a0d9-996a753c10d9",
+    "company": "Confidential via Jobgether",
+    "role": "English to Ukrainian Review Lead for UI, Marketing & Product Content",
+    "location": "Remote · Austria",
+    "sourceUrl": "https://jobs.lever.co/jobgether/9b2fe1ba-1e0b-4e4e-a0d9-996a753c10d9",
+    "sourceKind": "lever",
+    "sourceTenant": "jobgether",
+    "sourceJobId": "9b2fe1ba-1e0b-4e4e-a0d9-996a753c10d9",
+    "reason": "Part-time language is present but may only describe benefits or a different employment option",
+    "firstReviewedAt": "2026-10-09",
+    "lastReviewedAt": "2026-10-09"
+  },
+  {
+    "id": "lever:jobgether:9ef0bdd1-35b5-46bf-b4fd-7f0c23d6f852",
+    "company": "Confidential via Jobgether",
+    "role": "English to Ukrainian Review Lead for UI, Marketing & Product Content",
+    "location": "Remote · US",
+    "sourceUrl": "https://jobs.lever.co/jobgether/9ef0bdd1-35b5-46bf-b4fd-7f0c23d6f852",
+    "sourceKind": "lever",
+    "sourceTenant": "jobgether",
+    "sourceJobId": "9ef0bdd1-35b5-46bf-b4fd-7f0c23d6f852",
+    "reason": "Part-time language is present but may only describe benefits or a different employment option",
+    "firstReviewedAt": "2026-10-09",
+    "lastReviewedAt": "2026-10-09"
+  },
+  {
+    "id": "lever:jobgether:a98c7358-b982-4829-8314-a0f61021e8e9",
+    "company": "Confidential via Jobgether",
+    "role": "English to Ukrainian Review Lead for UI, Marketing & Product Content",
+    "location": "Remote · Brazil",
+    "sourceUrl": "https://jobs.lever.co/jobgether/a98c7358-b982-4829-8314-a0f61021e8e9",
+    "sourceKind": "lever",
+    "sourceTenant": "jobgether",
+    "sourceJobId": "a98c7358-b982-4829-8314-a0f61021e8e9",
+    "reason": "Part-time language is present but may only describe benefits or a different employment option",
+    "firstReviewedAt": "2026-10-09",
+    "lastReviewedAt": "2026-10-09"
+  },
+  {
+    "id": "lever:jobgether:afd927a4-a3f6-4931-b4b5-2c81584c56f5",
+    "company": "Confidential via Jobgether",
+    "role": "English to Ukrainian Review Lead for UI, Marketing & Product Content",
+    "location": "Remote · Sweden",
+    "sourceUrl": "https://jobs.lever.co/jobgether/afd927a4-a3f6-4931-b4b5-2c81584c56f5",
+    "sourceKind": "lever",
+    "sourceTenant": "jobgether",
+    "sourceJobId": "afd927a4-a3f6-4931-b4b5-2c81584c56f5",
+    "reason": "Part-time language is present but may only describe benefits or a different employment option",
+    "firstReviewedAt": "2026-10-09",
+    "lastReviewedAt": "2026-10-09"
+  },
+  {
+    "id": "lever:jobgether:b42065df-2e1a-4b3e-a1cf-5dde63f3f9d5",
+    "company": "Confidential via Jobgether",
+    "role": "English to Ukrainian Review Lead for UI, Marketing & Product Content",
+    "location": "Remote · France",
+    "sourceUrl": "https://jobs.lever.co/jobgether/b42065df-2e1a-4b3e-a1cf-5dde63f3f9d5",
+    "sourceKind": "lever",
+    "sourceTenant": "jobgether",
+    "sourceJobId": "b42065df-2e1a-4b3e-a1cf-5dde63f3f9d5",
+    "reason": "Part-time language is present but may only describe benefits or a different employment option",
+    "firstReviewedAt": "2026-10-09",
+    "lastReviewedAt": "2026-10-09"
+  },
+  {
+    "id": "lever:jobgether:b6a9c623-708e-4657-930e-96b6ff53194d",
+    "company": "Confidential via Jobgether",
+    "role": "English to Ukrainian Review Lead for UI, Marketing & Product Content",
+    "location": "Remote · Italy",
+    "sourceUrl": "https://jobs.lever.co/jobgether/b6a9c623-708e-4657-930e-96b6ff53194d",
+    "sourceKind": "lever",
+    "sourceTenant": "jobgether",
+    "sourceJobId": "b6a9c623-708e-4657-930e-96b6ff53194d",
+    "reason": "Part-time language is present but may only describe benefits or a different employment option",
+    "firstReviewedAt": "2026-10-09",
+    "lastReviewedAt": "2026-10-09"
+  },
+  {
+    "id": "lever:jobgether:b9ecfa40-77dd-45cb-af1f-c35b9ce19e0f",
+    "company": "Confidential via Jobgether",
+    "role": "English to Ukrainian Review Lead for UI, Marketing & Product Content",
+    "location": "Remote · Canada",
+    "sourceUrl": "https://jobs.lever.co/jobgether/b9ecfa40-77dd-45cb-af1f-c35b9ce19e0f",
+    "sourceKind": "lever",
+    "sourceTenant": "jobgether",
+    "sourceJobId": "b9ecfa40-77dd-45cb-af1f-c35b9ce19e0f",
+    "reason": "Part-time language is present but may only describe benefits or a different employment option",
+    "firstReviewedAt": "2026-10-09",
+    "lastReviewedAt": "2026-10-09"
+  },
+  {
+    "id": "lever:jobgether:bf32baf4-b863-4cfd-9592-f23b0ee539d1",
+    "company": "Confidential via Jobgether",
+    "role": "English to Ukrainian Review Lead for UI, Marketing & Product Content",
+    "location": "Remote · Mexico",
+    "sourceUrl": "https://jobs.lever.co/jobgether/bf32baf4-b863-4cfd-9592-f23b0ee539d1",
+    "sourceKind": "lever",
+    "sourceTenant": "jobgether",
+    "sourceJobId": "bf32baf4-b863-4cfd-9592-f23b0ee539d1",
+    "reason": "Part-time language is present but may only describe benefits or a different employment option",
+    "firstReviewedAt": "2026-10-09",
+    "lastReviewedAt": "2026-10-09"
+  },
+  {
+    "id": "lever:jobgether:bf4f2024-4a69-4a96-b2ad-fa0edd815deb",
+    "company": "Confidential via Jobgether",
+    "role": "English to Ukrainian Review Lead for UI, Marketing & Product Content",
+    "location": "Remote · Australia",
+    "sourceUrl": "https://jobs.lever.co/jobgether/bf4f2024-4a69-4a96-b2ad-fa0edd815deb",
+    "sourceKind": "lever",
+    "sourceTenant": "jobgether",
+    "sourceJobId": "bf4f2024-4a69-4a96-b2ad-fa0edd815deb",
+    "reason": "Part-time language is present but may only describe benefits or a different employment option",
+    "firstReviewedAt": "2026-10-09",
+    "lastReviewedAt": "2026-10-09"
+  },
+  {
+    "id": "lever:jobgether:c4bd5374-ecbc-4f31-a271-43b21fb6c89c",
+    "company": "Confidential via Jobgether",
+    "role": "English to Ukrainian Review Lead for UI, Marketing & Product Content",
+    "location": "Remote · Saudi Arabia",
+    "sourceUrl": "https://jobs.lever.co/jobgether/c4bd5374-ecbc-4f31-a271-43b21fb6c89c",
+    "sourceKind": "lever",
+    "sourceTenant": "jobgether",
+    "sourceJobId": "c4bd5374-ecbc-4f31-a271-43b21fb6c89c",
+    "reason": "Part-time language is present but may only describe benefits or a different employment option",
+    "firstReviewedAt": "2026-10-09",
+    "lastReviewedAt": "2026-10-09"
+  },
+  {
+    "id": "lever:jobgether:c9917c61-818d-4af9-a942-07379db53ee5",
+    "company": "Confidential via Jobgether",
+    "role": "English to Ukrainian Review Lead for UI, Marketing & Product Content",
+    "location": "Remote · United Arab Emirates",
+    "sourceUrl": "https://jobs.lever.co/jobgether/c9917c61-818d-4af9-a942-07379db53ee5",
+    "sourceKind": "lever",
+    "sourceTenant": "jobgether",
+    "sourceJobId": "c9917c61-818d-4af9-a942-07379db53ee5",
+    "reason": "Part-time language is present but may only describe benefits or a different employment option",
+    "firstReviewedAt": "2026-10-09",
+    "lastReviewedAt": "2026-10-09"
+  },
+  {
+    "id": "lever:jobgether:d18d4522-bc54-4e19-99ec-714ae8372597",
+    "company": "Confidential via Jobgether",
+    "role": "English to Ukrainian Review Lead for UI, Marketing & Product Content",
+    "location": "Remote · Poland",
+    "sourceUrl": "https://jobs.lever.co/jobgether/d18d4522-bc54-4e19-99ec-714ae8372597",
+    "sourceKind": "lever",
+    "sourceTenant": "jobgether",
+    "sourceJobId": "d18d4522-bc54-4e19-99ec-714ae8372597",
+    "reason": "Part-time language is present but may only describe benefits or a different employment option",
+    "firstReviewedAt": "2026-10-09",
+    "lastReviewedAt": "2026-10-09"
+  },
+  {
+    "id": "lever:jobgether:e353d055-061a-4ad1-aa79-2e7fdab3ab3c",
+    "company": "Confidential via Jobgether",
+    "role": "English to Ukrainian Review Lead for UI, Marketing & Product Content",
+    "location": "Remote · Switzerland",
+    "sourceUrl": "https://jobs.lever.co/jobgether/e353d055-061a-4ad1-aa79-2e7fdab3ab3c",
+    "sourceKind": "lever",
+    "sourceTenant": "jobgether",
+    "sourceJobId": "e353d055-061a-4ad1-aa79-2e7fdab3ab3c",
+    "reason": "Part-time language is present but may only describe benefits or a different employment option",
+    "firstReviewedAt": "2026-10-09",
+    "lastReviewedAt": "2026-10-09"
+  },
+  {
+    "id": "lever:jobgether:e77a8c93-91e6-46a9-8083-2925b54d075d",
+    "company": "Confidential via Jobgether",
+    "role": "English to Ukrainian Review Lead for UI, Marketing & Product Content",
+    "location": "Remote · Ireland",
+    "sourceUrl": "https://jobs.lever.co/jobgether/e77a8c93-91e6-46a9-8083-2925b54d075d",
+    "sourceKind": "lever",
+    "sourceTenant": "jobgether",
+    "sourceJobId": "e77a8c93-91e6-46a9-8083-2925b54d075d",
+    "reason": "Part-time language is present but may only describe benefits or a different employment option",
+    "firstReviewedAt": "2026-10-09",
+    "lastReviewedAt": "2026-10-09"
+  },
+  {
+    "id": "lever:jobgether:eb4169d2-0d4d-4c1d-b30f-10df5631b446",
+    "company": "Confidential via Jobgether",
+    "role": "English to Ukrainian Review Lead for UI, Marketing & Product Content",
+    "location": "Remote · Israel",
+    "sourceUrl": "https://jobs.lever.co/jobgether/eb4169d2-0d4d-4c1d-b30f-10df5631b446",
+    "sourceKind": "lever",
+    "sourceTenant": "jobgether",
+    "sourceJobId": "eb4169d2-0d4d-4c1d-b30f-10df5631b446",
+    "reason": "Part-time language is present but may only describe benefits or a different employment option",
+    "firstReviewedAt": "2026-10-09",
+    "lastReviewedAt": "2026-10-09"
+  },
+  {
+    "id": "lever:jobgether:ed3695ff-d95e-4e3b-b6a1-6b474d51828f",
+    "company": "Confidential via Jobgether",
+    "role": "English to Ukrainian Review Lead for UI, Marketing & Product Content",
+    "location": "Remote · Portugal",
+    "sourceUrl": "https://jobs.lever.co/jobgether/ed3695ff-d95e-4e3b-b6a1-6b474d51828f",
+    "sourceKind": "lever",
+    "sourceTenant": "jobgether",
+    "sourceJobId": "ed3695ff-d95e-4e3b-b6a1-6b474d51828f",
+    "reason": "Part-time language is present but may only describe benefits or a different employment option",
+    "firstReviewedAt": "2026-10-09",
+    "lastReviewedAt": "2026-10-09"
+  },
+  {
+    "id": "lever:jobgether:f41fbadf-f7c2-440b-a01b-0e75f4312254",
+    "company": "Confidential via Jobgether",
+    "role": "English to Ukrainian Review Lead for UI, Marketing & Product Content",
+    "location": "Remote · India",
+    "sourceUrl": "https://jobs.lever.co/jobgether/f41fbadf-f7c2-440b-a01b-0e75f4312254",
+    "sourceKind": "lever",
+    "sourceTenant": "jobgether",
+    "sourceJobId": "f41fbadf-f7c2-440b-a01b-0e75f4312254",
+    "reason": "Part-time language is present but may only describe benefits or a different employment option",
+    "firstReviewedAt": "2026-10-09",
+    "lastReviewedAt": "2026-10-09"
+  },
+  {
     "id": "lever:jobgether:11574432-d301-4ae7-9427-0d3944704f35",
     "company": "Confidential via Jobgether",
     "role": "Financial Management (FM) Palantir Data Analyst (Analyst and Manager Levels), Department of War (DoW), Secret Clearance",
@@ -10,7 +348,7 @@
     "sourceJobId": "11574432-d301-4ae7-9427-0d3944704f35",
     "reason": "Part-time language is present but may only describe benefits or a different employment option",
     "firstReviewedAt": "2026-10-05",
-    "lastReviewedAt": "2026-10-08"
+    "lastReviewedAt": "2026-10-09"
   },
   {
     "id": "lever:jobgether:15acdb40-658a-43da-a5c4-2489997d953c",
@@ -23,7 +361,7 @@
     "sourceJobId": "15acdb40-658a-43da-a5c4-2489997d953c",
     "reason": "Part-time language is present but may only describe benefits or a different employment option",
     "firstReviewedAt": "2026-10-07",
-    "lastReviewedAt": "2026-10-08"
+    "lastReviewedAt": "2026-10-09"
   },
   {
     "id": "lever:jobgether:1f353713-33cb-47a2-b54a-bdac6bdd531a",
@@ -36,7 +374,7 @@
     "sourceJobId": "1f353713-33cb-47a2-b54a-bdac6bdd531a",
     "reason": "Part-time language is present but may only describe benefits or a different employment option",
     "firstReviewedAt": "2026-10-07",
-    "lastReviewedAt": "2026-10-08"
+    "lastReviewedAt": "2026-10-09"
   },
   {
     "id": "lever:jobgether:4fe472e2-bec8-4267-96ff-bfa35694873f",
@@ -49,7 +387,7 @@
     "sourceJobId": "4fe472e2-bec8-4267-96ff-bfa35694873f",
     "reason": "Part-time language is present but may only describe benefits or a different employment option",
     "firstReviewedAt": "2026-10-07",
-    "lastReviewedAt": "2026-10-08"
+    "lastReviewedAt": "2026-10-09"
   },
   {
     "id": "lever:jobgether:582793a9-007f-41ef-b87b-d21fb203cca1",
@@ -62,7 +400,7 @@
     "sourceJobId": "582793a9-007f-41ef-b87b-d21fb203cca1",
     "reason": "Part-time language is present but may only describe benefits or a different employment option",
     "firstReviewedAt": "2026-10-07",
-    "lastReviewedAt": "2026-10-08"
+    "lastReviewedAt": "2026-10-09"
   },
   {
     "id": "lever:jobgether:f74b3ca8-a178-461e-a017-ccab2b33d07b",
@@ -75,7 +413,7 @@
     "sourceJobId": "f74b3ca8-a178-461e-a017-ccab2b33d07b",
     "reason": "Part-time language is present but may only describe benefits or a different employment option",
     "firstReviewedAt": "2026-10-07",
-    "lastReviewedAt": "2026-10-08"
+    "lastReviewedAt": "2026-10-09"
   },
   {
     "id": "lever:jobgether:86772c8e-c893-4afd-9a3e-b711ad4ed447",
@@ -88,7 +426,7 @@
     "sourceJobId": "86772c8e-c893-4afd-9a3e-b711ad4ed447",
     "reason": "Part-time language is present but may only describe benefits or a different employment option",
     "firstReviewedAt": "2026-10-07",
-    "lastReviewedAt": "2026-10-08"
+    "lastReviewedAt": "2026-10-09"
   },
   {
     "id": "lever:jobgether:9c96b1ef-b44f-4a00-95d7-87b5fac32099",
@@ -101,7 +439,7 @@
     "sourceJobId": "9c96b1ef-b44f-4a00-95d7-87b5fac32099",
     "reason": "Part-time language is present but may only describe benefits or a different employment option",
     "firstReviewedAt": "2026-10-06",
-    "lastReviewedAt": "2026-10-08"
+    "lastReviewedAt": "2026-10-09"
   },
   {
     "id": "lever:jobgether:a2036e00-9719-431c-af2f-e79755d0e82e",
@@ -114,7 +452,7 @@
     "sourceJobId": "a2036e00-9719-431c-af2f-e79755d0e82e",
     "reason": "Part-time language is present but may only describe benefits or a different employment option",
     "firstReviewedAt": "2026-10-06",
-    "lastReviewedAt": "2026-10-08"
+    "lastReviewedAt": "2026-10-09"
   },
   {
     "id": "lever:jobgether:a2eddfe2-a2bb-49f1-9258-dabebbba5fbb",
@@ -127,7 +465,7 @@
     "sourceJobId": "a2eddfe2-a2bb-49f1-9258-dabebbba5fbb",
     "reason": "Part-time language is present but may only describe benefits or a different employment option",
     "firstReviewedAt": "2026-10-06",
-    "lastReviewedAt": "2026-10-08"
+    "lastReviewedAt": "2026-10-09"
   },
   {
     "id": "lever:jobgether:3e046aa9-460b-4dfa-a73e-100837437f99",
@@ -140,7 +478,7 @@
     "sourceJobId": "3e046aa9-460b-4dfa-a73e-100837437f99",
     "reason": "Part-time language is present but may only describe benefits or a different employment option",
     "firstReviewedAt": "2026-10-06",
-    "lastReviewedAt": "2026-10-08"
+    "lastReviewedAt": "2026-10-09"
   },
   {
     "id": "lever:jobgether:6ccb8ab4-bb2b-4188-a604-1217fa90c3cf",
@@ -153,7 +491,7 @@
     "sourceJobId": "6ccb8ab4-bb2b-4188-a604-1217fa90c3cf",
     "reason": "Part-time language is present but may only describe benefits or a different employment option",
     "firstReviewedAt": "2026-10-06",
-    "lastReviewedAt": "2026-10-08"
+    "lastReviewedAt": "2026-10-09"
   },
   {
     "id": "ashby:empirical:04d6119a-002c-49fa-8b93-52db930d7cca",
@@ -166,6 +504,6 @@
     "sourceJobId": "04d6119a-002c-49fa-8b93-52db930d7cca",
     "reason": "Part-time language is present but may only describe benefits or a different employment option",
     "firstReviewedAt": "2026-09-10",
-    "lastReviewedAt": "2026-10-08"
+    "lastReviewedAt": "2026-10-09"
   }
 ]
