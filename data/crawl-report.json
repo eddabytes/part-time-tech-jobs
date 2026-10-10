@@ -1,7 +1,7 @@
 {
   "status": "partial",
-  "startedAt": "2026-10-09T17:09:26.960Z",
-  "completedAt": "2026-10-09T17:09:36.172Z",
+  "startedAt": "2026-10-10T15:56:25.777Z",
+  "completedAt": "2026-10-10T15:56:34.461Z",
   "sources": {
     "configured": 23,
     "succeeded": 22,
@@ -114,18 +114,18 @@
       },
       {
         "id": "lever:jobgether",
-        "rawJobs": 4506,
+        "rawJobs": 3933,
         "status": "success"
       }
     ]
   },
   "counts": {
-    "rawJobs": 6386,
+    "rawJobs": 5813,
     "candidates": 30,
-    "published": 45,
+    "published": 44,
     "added": 0,
     "updated": 0,
-    "closed": 9,
+    "closed": 1,
     "review": 39
   },
   "failures": [
