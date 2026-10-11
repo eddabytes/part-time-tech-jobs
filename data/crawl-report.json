@@ -1,7 +1,7 @@
 {
   "status": "partial",
-  "startedAt": "2026-10-10T15:56:25.777Z",
-  "completedAt": "2026-10-10T15:56:34.461Z",
+  "startedAt": "2026-10-11T16:24:17.284Z",
+  "completedAt": "2026-10-11T16:24:40.290Z",
   "sources": {
     "configured": 23,
     "succeeded": 22,
@@ -24,7 +24,7 @@
       },
       {
         "id": "greenhouse:nadiacare",
-        "rawJobs": 18,
+        "rawJobs": 19,
         "status": "success"
       },
       {
@@ -114,18 +114,18 @@
       },
       {
         "id": "lever:jobgether",
-        "rawJobs": 3933,
+        "rawJobs": 3762,
         "status": "success"
       }
     ]
   },
   "counts": {
-    "rawJobs": 5813,
+    "rawJobs": 5643,
     "candidates": 30,
     "published": 44,
     "added": 0,
     "updated": 0,
-    "closed": 1,
+    "closed": 0,
     "review": 39
   },
   "failures": [
