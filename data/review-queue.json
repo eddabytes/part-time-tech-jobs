@@ -10,7 +10,7 @@
     "sourceJobId": "12cddb06-c29c-4ae2-b356-c02ea84b5957",
     "reason": "Part-time language is present but may only describe benefits or a different employment option",
     "firstReviewedAt": "2026-10-14",
-    "lastReviewedAt": "2026-10-15"
+    "lastReviewedAt": "2026-10-16"
   },
   {
     "id": "lever:jobgether:25a6dccf-0fcc-4958-b1fe-f7a478d3a502",
@@ -23,7 +23,33 @@
     "sourceJobId": "25a6dccf-0fcc-4958-b1fe-f7a478d3a502",
     "reason": "Part-time language is present but may only describe benefits or a different employment option",
     "firstReviewedAt": "2026-10-09",
-    "lastReviewedAt": "2026-10-15"
+    "lastReviewedAt": "2026-10-16"
+  },
+  {
+    "id": "lever:jobgether:0ccd34f9-f0bf-46df-9cdf-9f5974f78b2f",
+    "company": "Confidential via Jobgether",
+    "role": "Senior MLOps Engineer",
+    "location": "Remote · US",
+    "sourceUrl": "https://jobs.lever.co/jobgether/0ccd34f9-f0bf-46df-9cdf-9f5974f78b2f",
+    "sourceKind": "lever",
+    "sourceTenant": "jobgether",
+    "sourceJobId": "0ccd34f9-f0bf-46df-9cdf-9f5974f78b2f",
+    "reason": "Part-time language is present but may only describe benefits or a different employment option",
+    "firstReviewedAt": "2026-10-16",
+    "lastReviewedAt": "2026-10-16"
+  },
+  {
+    "id": "lever:jobgether:d6c1becc-2503-4404-a7bc-647f4bded41d",
+    "company": "Confidential via Jobgether",
+    "role": "Senior MLOps Engineer",
+    "location": "Remote · Canada",
+    "sourceUrl": "https://jobs.lever.co/jobgether/d6c1becc-2503-4404-a7bc-647f4bded41d",
+    "sourceKind": "lever",
+    "sourceTenant": "jobgether",
+    "sourceJobId": "d6c1becc-2503-4404-a7bc-647f4bded41d",
+    "reason": "Part-time language is present but may only describe benefits or a different employment option",
+    "firstReviewedAt": "2026-10-16",
+    "lastReviewedAt": "2026-10-16"
   },
   {
     "id": "lever:jobgether:db7cd82b-9e4e-4df7-b57a-a60f74de1b84",
@@ -36,7 +62,7 @@
     "sourceJobId": "db7cd82b-9e4e-4df7-b57a-a60f74de1b84",
     "reason": "Part-time language is present but may only describe benefits or a different employment option",
     "firstReviewedAt": "2026-10-14",
-    "lastReviewedAt": "2026-10-15"
+    "lastReviewedAt": "2026-10-16"
   },
   {
     "id": "ashby:empirical:04d6119a-002c-49fa-8b93-52db930d7cca",
@@ -49,6 +75,6 @@
     "sourceJobId": "04d6119a-002c-49fa-8b93-52db930d7cca",
     "reason": "Part-time language is present but may only describe benefits or a different employment option",
     "firstReviewedAt": "2026-09-10",
-    "lastReviewedAt": "2026-10-15"
+    "lastReviewedAt": "2026-10-16"
   }
 ]
