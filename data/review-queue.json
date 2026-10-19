@@ -10,7 +10,7 @@
     "sourceJobId": "12cddb06-c29c-4ae2-b356-c02ea84b5957",
     "reason": "Part-time language is present but may only describe benefits or a different employment option",
     "firstReviewedAt": "2026-10-14",
-    "lastReviewedAt": "2026-10-18"
+    "lastReviewedAt": "2026-10-19"
   },
   {
     "id": "lever:jobgether:0ccd34f9-f0bf-46df-9cdf-9f5974f78b2f",
@@ -23,7 +23,7 @@
     "sourceJobId": "0ccd34f9-f0bf-46df-9cdf-9f5974f78b2f",
     "reason": "Part-time language is present but may only describe benefits or a different employment option",
     "firstReviewedAt": "2026-10-16",
-    "lastReviewedAt": "2026-10-18"
+    "lastReviewedAt": "2026-10-19"
   },
   {
     "id": "lever:jobgether:d6c1becc-2503-4404-a7bc-647f4bded41d",
@@ -36,7 +36,7 @@
     "sourceJobId": "d6c1becc-2503-4404-a7bc-647f4bded41d",
     "reason": "Part-time language is present but may only describe benefits or a different employment option",
     "firstReviewedAt": "2026-10-16",
-    "lastReviewedAt": "2026-10-18"
+    "lastReviewedAt": "2026-10-19"
   },
   {
     "id": "lever:jobgether:db7cd82b-9e4e-4df7-b57a-a60f74de1b84",
@@ -49,7 +49,20 @@
     "sourceJobId": "db7cd82b-9e4e-4df7-b57a-a60f74de1b84",
     "reason": "Part-time language is present but may only describe benefits or a different employment option",
     "firstReviewedAt": "2026-10-14",
-    "lastReviewedAt": "2026-10-18"
+    "lastReviewedAt": "2026-10-19"
+  },
+  {
+    "id": "ashby:empirical:4e0bf598-d3ff-4785-9bc8-02974bacb893",
+    "company": "Empirical",
+    "role": "EXP - AI Software Engineer",
+    "location": "LATAM",
+    "sourceUrl": "https://jobs.ashbyhq.com/empirical/4e0bf598-d3ff-4785-9bc8-02974bacb893",
+    "sourceKind": "ashby",
+    "sourceTenant": "empirical",
+    "sourceJobId": "4e0bf598-d3ff-4785-9bc8-02974bacb893",
+    "reason": "Part-time language is present but may only describe benefits or a different employment option",
+    "firstReviewedAt": "2026-10-19",
+    "lastReviewedAt": "2026-10-19"
   },
   {
     "id": "ashby:empirical:04d6119a-002c-49fa-8b93-52db930d7cca",
@@ -62,6 +75,6 @@
     "sourceJobId": "04d6119a-002c-49fa-8b93-52db930d7cca",
     "reason": "Part-time language is present but may only describe benefits or a different employment option",
     "firstReviewedAt": "2026-09-10",
-    "lastReviewedAt": "2026-10-18"
+    "lastReviewedAt": "2026-10-19"
   }
 ]
