@@ -1,7 +1,7 @@
 {
   "status": "partial",
-  "startedAt": "2026-10-20T15:20:17.981Z",
-  "completedAt": "2026-10-20T15:20:56.109Z",
+  "startedAt": "2026-10-21T15:32:20.263Z",
+  "completedAt": "2026-10-21T15:32:32.884Z",
   "sources": {
     "configured": 23,
     "succeeded": 21,
@@ -24,7 +24,7 @@
       },
       {
         "id": "greenhouse:nadiacare",
-        "rawJobs": 19,
+        "rawJobs": 18,
         "status": "success"
       },
       {
@@ -39,7 +39,7 @@
       },
       {
         "id": "greenhouse:xai",
-        "rawJobs": 306,
+        "rawJobs": 302,
         "status": "success"
       },
       {
@@ -49,12 +49,12 @@
       },
       {
         "id": "ashby:brainco",
-        "rawJobs": 38,
+        "rawJobs": 41,
         "status": "success"
       },
       {
         "id": "ashby:empirical",
-        "rawJobs": 7,
+        "rawJobs": 8,
         "status": "success"
       },
       {
@@ -74,7 +74,7 @@
       },
       {
         "id": "ashby:neurons-lab.com",
-        "rawJobs": 6,
+        "rawJobs": 7,
         "status": "success"
       },
       {
@@ -109,19 +109,19 @@
       },
       {
         "id": "lever:jobgether",
-        "rawJobs": 4268,
+        "rawJobs": 4495,
         "status": "success"
       }
     ]
   },
   "counts": {
-    "rawJobs": 6157,
-    "candidates": 29,
-    "published": 48,
-    "added": 13,
+    "rawJobs": 6384,
+    "candidates": 54,
+    "published": 67,
+    "added": 25,
     "updated": 0,
-    "closed": 1,
-    "review": 30
+    "closed": 6,
+    "review": 32
   },
   "failures": [
     {
