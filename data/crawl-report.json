@@ -1,7 +1,7 @@
 {
   "status": "partial",
-  "startedAt": "2026-10-23T15:24:46.573Z",
-  "completedAt": "2026-10-23T15:25:30.667Z",
+  "startedAt": "2026-10-24T14:05:50.609Z",
+  "completedAt": "2026-10-24T14:06:15.241Z",
   "sources": {
     "configured": 23,
     "succeeded": 21,
@@ -19,12 +19,12 @@
       },
       {
         "id": "greenhouse:carrotfertility",
-        "rawJobs": 13,
+        "rawJobs": 14,
         "status": "success"
       },
       {
         "id": "greenhouse:nadiacare",
-        "rawJobs": 19,
+        "rawJobs": 20,
         "status": "success"
       },
       {
@@ -49,7 +49,7 @@
       },
       {
         "id": "ashby:brainco",
-        "rawJobs": 41,
+        "rawJobs": 40,
         "status": "success"
       },
       {
@@ -109,19 +109,19 @@
       },
       {
         "id": "lever:jobgether",
-        "rawJobs": 4664,
+        "rawJobs": 4147,
         "status": "success"
       }
     ]
   },
   "counts": {
-    "rawJobs": 6548,
-    "candidates": 76,
+    "rawJobs": 6032,
+    "candidates": 74,
     "published": 89,
-    "added": 1,
+    "added": 0,
     "updated": 0,
-    "closed": 1,
-    "review": 30
+    "closed": 0,
+    "review": 28
   },
   "failures": [
     {
