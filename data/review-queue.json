@@ -1,16 +1,237 @@
 [
   {
-    "id": "lever:jobgether:bf4b0910-0321-46ff-bb3f-cbf81c26543e",
+    "id": "lever:jobgether:000dab3a-6c3d-4526-b27d-cc9bf3b9d351",
     "company": "Confidential via Jobgether",
-    "role": "AI Business Analyst / Product Manager",
-    "location": "Remote · US",
-    "sourceUrl": "https://jobs.lever.co/jobgether/bf4b0910-0321-46ff-bb3f-cbf81c26543e",
+    "role": "AI Research Scientist – Scientific Evaluation (ML/AI)",
+    "location": "Remote · Romania",
+    "sourceUrl": "https://jobs.lever.co/jobgether/000dab3a-6c3d-4526-b27d-cc9bf3b9d351",
     "sourceKind": "lever",
     "sourceTenant": "jobgether",
-    "sourceJobId": "bf4b0910-0321-46ff-bb3f-cbf81c26543e",
+    "sourceJobId": "000dab3a-6c3d-4526-b27d-cc9bf3b9d351",
     "reason": "Part-time language is present but may only describe benefits or a different employment option",
-    "firstReviewedAt": "2026-10-21",
-    "lastReviewedAt": "2026-10-28"
+    "firstReviewedAt": "2026-10-29",
+    "lastReviewedAt": "2026-10-29"
+  },
+  {
+    "id": "lever:jobgether:0f17b0b0-fda8-4acb-9950-a2d14fd27654",
+    "company": "Confidential via Jobgether",
+    "role": "AI Research Scientist – Scientific Evaluation (ML/AI)",
+    "location": "Remote · US",
+    "sourceUrl": "https://jobs.lever.co/jobgether/0f17b0b0-fda8-4acb-9950-a2d14fd27654",
+    "sourceKind": "lever",
+    "sourceTenant": "jobgether",
+    "sourceJobId": "0f17b0b0-fda8-4acb-9950-a2d14fd27654",
+    "reason": "Part-time language is present but may only describe benefits or a different employment option",
+    "firstReviewedAt": "2026-10-29",
+    "lastReviewedAt": "2026-10-29"
+  },
+  {
+    "id": "lever:jobgether:1bc6c0a6-e3e6-443e-8867-eeb057780d7b",
+    "company": "Confidential via Jobgether",
+    "role": "AI Research Scientist – Scientific Evaluation (ML/AI)",
+    "location": "Remote · UK",
+    "sourceUrl": "https://jobs.lever.co/jobgether/1bc6c0a6-e3e6-443e-8867-eeb057780d7b",
+    "sourceKind": "lever",
+    "sourceTenant": "jobgether",
+    "sourceJobId": "1bc6c0a6-e3e6-443e-8867-eeb057780d7b",
+    "reason": "Part-time language is present but may only describe benefits or a different employment option",
+    "firstReviewedAt": "2026-10-29",
+    "lastReviewedAt": "2026-10-29"
+  },
+  {
+    "id": "lever:jobgether:3aa9f06b-c3cb-4337-a71d-733b98bdb6f0",
+    "company": "Confidential via Jobgether",
+    "role": "AI Research Scientist – Scientific Evaluation (ML/AI)",
+    "location": "Remote · Switzerland",
+    "sourceUrl": "https://jobs.lever.co/jobgether/3aa9f06b-c3cb-4337-a71d-733b98bdb6f0",
+    "sourceKind": "lever",
+    "sourceTenant": "jobgether",
+    "sourceJobId": "3aa9f06b-c3cb-4337-a71d-733b98bdb6f0",
+    "reason": "Part-time language is present but may only describe benefits or a different employment option",
+    "firstReviewedAt": "2026-10-29",
+    "lastReviewedAt": "2026-10-29"
+  },
+  {
+    "id": "lever:jobgether:52a8eb1e-ac4a-41d7-89b1-2d1e5484f1af",
+    "company": "Confidential via Jobgether",
+    "role": "AI Research Scientist – Scientific Evaluation (ML/AI)",
+    "location": "Remote · Ireland",
+    "sourceUrl": "https://jobs.lever.co/jobgether/52a8eb1e-ac4a-41d7-89b1-2d1e5484f1af",
+    "sourceKind": "lever",
+    "sourceTenant": "jobgether",
+    "sourceJobId": "52a8eb1e-ac4a-41d7-89b1-2d1e5484f1af",
+    "reason": "Part-time language is present but may only describe benefits or a different employment option",
+    "firstReviewedAt": "2026-10-29",
+    "lastReviewedAt": "2026-10-29"
+  },
+  {
+    "id": "lever:jobgether:5650466a-6629-4266-8cd2-f330dba109bf",
+    "company": "Confidential via Jobgether",
+    "role": "AI Research Scientist – Scientific Evaluation (ML/AI)",
+    "location": "Remote · Italy",
+    "sourceUrl": "https://jobs.lever.co/jobgether/5650466a-6629-4266-8cd2-f330dba109bf",
+    "sourceKind": "lever",
+    "sourceTenant": "jobgether",
+    "sourceJobId": "5650466a-6629-4266-8cd2-f330dba109bf",
+    "reason": "Part-time language is present but may only describe benefits or a different employment option",
+    "firstReviewedAt": "2026-10-29",
+    "lastReviewedAt": "2026-10-29"
+  },
+  {
+    "id": "lever:jobgether:571e82db-8b0b-47b8-a1c6-96be61080f1f",
+    "company": "Confidential via Jobgether",
+    "role": "AI Research Scientist – Scientific Evaluation (ML/AI)",
+    "location": "Remote · South Africa",
+    "sourceUrl": "https://jobs.lever.co/jobgether/571e82db-8b0b-47b8-a1c6-96be61080f1f",
+    "sourceKind": "lever",
+    "sourceTenant": "jobgether",
+    "sourceJobId": "571e82db-8b0b-47b8-a1c6-96be61080f1f",
+    "reason": "Part-time language is present but may only describe benefits or a different employment option",
+    "firstReviewedAt": "2026-10-29",
+    "lastReviewedAt": "2026-10-29"
+  },
+  {
+    "id": "lever:jobgether:59011eb4-d923-48f3-a3ad-e4a9f9108b6f",
+    "company": "Confidential via Jobgether",
+    "role": "AI Research Scientist – Scientific Evaluation (ML/AI)",
+    "location": "Remote · Germany",
+    "sourceUrl": "https://jobs.lever.co/jobgether/59011eb4-d923-48f3-a3ad-e4a9f9108b6f",
+    "sourceKind": "lever",
+    "sourceTenant": "jobgether",
+    "sourceJobId": "59011eb4-d923-48f3-a3ad-e4a9f9108b6f",
+    "reason": "Part-time language is present but may only describe benefits or a different employment option",
+    "firstReviewedAt": "2026-10-29",
+    "lastReviewedAt": "2026-10-29"
+  },
+  {
+    "id": "lever:jobgether:5c708789-9007-4eed-9915-e0ab45102960",
+    "company": "Confidential via Jobgether",
+    "role": "AI Research Scientist – Scientific Evaluation (ML/AI)",
+    "location": "Remote · Portugal",
+    "sourceUrl": "https://jobs.lever.co/jobgether/5c708789-9007-4eed-9915-e0ab45102960",
+    "sourceKind": "lever",
+    "sourceTenant": "jobgether",
+    "sourceJobId": "5c708789-9007-4eed-9915-e0ab45102960",
+    "reason": "Part-time language is present but may only describe benefits or a different employment option",
+    "firstReviewedAt": "2026-10-29",
+    "lastReviewedAt": "2026-10-29"
+  },
+  {
+    "id": "lever:jobgether:618831a9-67be-4c94-8a55-c208509cf1df",
+    "company": "Confidential via Jobgether",
+    "role": "AI Research Scientist – Scientific Evaluation (ML/AI)",
+    "location": "Remote · Mexico",
+    "sourceUrl": "https://jobs.lever.co/jobgether/618831a9-67be-4c94-8a55-c208509cf1df",
+    "sourceKind": "lever",
+    "sourceTenant": "jobgether",
+    "sourceJobId": "618831a9-67be-4c94-8a55-c208509cf1df",
+    "reason": "Part-time language is present but may only describe benefits or a different employment option",
+    "firstReviewedAt": "2026-10-29",
+    "lastReviewedAt": "2026-10-29"
+  },
+  {
+    "id": "lever:jobgether:721b021a-3a3c-451a-bb2a-3b371cd1cf72",
+    "company": "Confidential via Jobgether",
+    "role": "AI Research Scientist – Scientific Evaluation (ML/AI)",
+    "location": "Remote · Brazil",
+    "sourceUrl": "https://jobs.lever.co/jobgether/721b021a-3a3c-451a-bb2a-3b371cd1cf72",
+    "sourceKind": "lever",
+    "sourceTenant": "jobgether",
+    "sourceJobId": "721b021a-3a3c-451a-bb2a-3b371cd1cf72",
+    "reason": "Part-time language is present but may only describe benefits or a different employment option",
+    "firstReviewedAt": "2026-10-29",
+    "lastReviewedAt": "2026-10-29"
+  },
+  {
+    "id": "lever:jobgether:9df190d2-2be2-4615-b625-c8f1d9ed6f8f",
+    "company": "Confidential via Jobgether",
+    "role": "AI Research Scientist – Scientific Evaluation (ML/AI)",
+    "location": "Remote · Australia",
+    "sourceUrl": "https://jobs.lever.co/jobgether/9df190d2-2be2-4615-b625-c8f1d9ed6f8f",
+    "sourceKind": "lever",
+    "sourceTenant": "jobgether",
+    "sourceJobId": "9df190d2-2be2-4615-b625-c8f1d9ed6f8f",
+    "reason": "Part-time language is present but may only describe benefits or a different employment option",
+    "firstReviewedAt": "2026-10-29",
+    "lastReviewedAt": "2026-10-29"
+  },
+  {
+    "id": "lever:jobgether:be92ed73-4f03-4c69-9fb2-4f5e9cb72175",
+    "company": "Confidential via Jobgether",
+    "role": "AI Research Scientist – Scientific Evaluation (ML/AI)",
+    "location": "Remote · Canada",
+    "sourceUrl": "https://jobs.lever.co/jobgether/be92ed73-4f03-4c69-9fb2-4f5e9cb72175",
+    "sourceKind": "lever",
+    "sourceTenant": "jobgether",
+    "sourceJobId": "be92ed73-4f03-4c69-9fb2-4f5e9cb72175",
+    "reason": "Part-time language is present but may only describe benefits or a different employment option",
+    "firstReviewedAt": "2026-10-29",
+    "lastReviewedAt": "2026-10-29"
+  },
+  {
+    "id": "lever:jobgether:bf771b92-1e4c-4194-a69c-cc8b825ffe7f",
+    "company": "Confidential via Jobgether",
+    "role": "AI Research Scientist – Scientific Evaluation (ML/AI)",
+    "location": "Remote · Netherlands",
+    "sourceUrl": "https://jobs.lever.co/jobgether/bf771b92-1e4c-4194-a69c-cc8b825ffe7f",
+    "sourceKind": "lever",
+    "sourceTenant": "jobgether",
+    "sourceJobId": "bf771b92-1e4c-4194-a69c-cc8b825ffe7f",
+    "reason": "Part-time language is present but may only describe benefits or a different employment option",
+    "firstReviewedAt": "2026-10-29",
+    "lastReviewedAt": "2026-10-29"
+  },
+  {
+    "id": "lever:jobgether:d531c702-d4cf-4abe-b31e-eee0b0984bac",
+    "company": "Confidential via Jobgether",
+    "role": "AI Research Scientist – Scientific Evaluation (ML/AI)",
+    "location": "Remote · India",
+    "sourceUrl": "https://jobs.lever.co/jobgether/d531c702-d4cf-4abe-b31e-eee0b0984bac",
+    "sourceKind": "lever",
+    "sourceTenant": "jobgether",
+    "sourceJobId": "d531c702-d4cf-4abe-b31e-eee0b0984bac",
+    "reason": "Part-time language is present but may only describe benefits or a different employment option",
+    "firstReviewedAt": "2026-10-29",
+    "lastReviewedAt": "2026-10-29"
+  },
+  {
+    "id": "lever:jobgether:e4b0f61e-4dd4-4b69-bcc4-20b146a4702f",
+    "company": "Confidential via Jobgether",
+    "role": "AI Research Scientist – Scientific Evaluation (ML/AI)",
+    "location": "Remote · Spain",
+    "sourceUrl": "https://jobs.lever.co/jobgether/e4b0f61e-4dd4-4b69-bcc4-20b146a4702f",
+    "sourceKind": "lever",
+    "sourceTenant": "jobgether",
+    "sourceJobId": "e4b0f61e-4dd4-4b69-bcc4-20b146a4702f",
+    "reason": "Part-time language is present but may only describe benefits or a different employment option",
+    "firstReviewedAt": "2026-10-29",
+    "lastReviewedAt": "2026-10-29"
+  },
+  {
+    "id": "lever:jobgether:f04ea201-8af9-4fdc-a3da-2bb4f8df8dce",
+    "company": "Confidential via Jobgether",
+    "role": "AI Research Scientist – Scientific Evaluation (ML/AI)",
+    "location": "Remote · France",
+    "sourceUrl": "https://jobs.lever.co/jobgether/f04ea201-8af9-4fdc-a3da-2bb4f8df8dce",
+    "sourceKind": "lever",
+    "sourceTenant": "jobgether",
+    "sourceJobId": "f04ea201-8af9-4fdc-a3da-2bb4f8df8dce",
+    "reason": "Part-time language is present but may only describe benefits or a different employment option",
+    "firstReviewedAt": "2026-10-29",
+    "lastReviewedAt": "2026-10-29"
+  },
+  {
+    "id": "lever:jobgether:c2bf8481-d15b-4515-b5fb-bfba4d006a24",
+    "company": "Confidential via Jobgether",
+    "role": "Backend Developer (Python) – GenAI & LLM Applications",
+    "location": "Remote · India",
+    "sourceUrl": "https://jobs.lever.co/jobgether/c2bf8481-d15b-4515-b5fb-bfba4d006a24",
+    "sourceKind": "lever",
+    "sourceTenant": "jobgether",
+    "sourceJobId": "c2bf8481-d15b-4515-b5fb-bfba4d006a24",
+    "reason": "Part-time language is present but may only describe benefits or a different employment option",
+    "firstReviewedAt": "2026-10-29",
+    "lastReviewedAt": "2026-10-29"
   },
   {
     "id": "lever:jobgether:ca53d856-8954-416f-96fc-a977d8766714",
@@ -23,7 +244,7 @@
     "sourceJobId": "ca53d856-8954-416f-96fc-a977d8766714",
     "reason": "Part-time language is present but may only describe benefits or a different employment option",
     "firstReviewedAt": "2026-10-27",
-    "lastReviewedAt": "2026-10-28"
+    "lastReviewedAt": "2026-10-29"
   },
   {
     "id": "lever:jobgether:2162da06-3199-412c-aaf4-959d66ac00c2",
@@ -36,7 +257,7 @@
     "sourceJobId": "2162da06-3199-412c-aaf4-959d66ac00c2",
     "reason": "Part-time language is present but may only describe benefits or a different employment option",
     "firstReviewedAt": "2026-10-27",
-    "lastReviewedAt": "2026-10-28"
+    "lastReviewedAt": "2026-10-29"
   },
   {
     "id": "lever:jobgether:4917bb1c-f379-4a19-9bcc-ab19f98c1b74",
@@ -49,7 +270,7 @@
     "sourceJobId": "4917bb1c-f379-4a19-9bcc-ab19f98c1b74",
     "reason": "Part-time language is present but may only describe benefits or a different employment option",
     "firstReviewedAt": "2026-10-27",
-    "lastReviewedAt": "2026-10-28"
+    "lastReviewedAt": "2026-10-29"
   },
   {
     "id": "ashby:empirical:4e0bf598-d3ff-4785-9bc8-02974bacb893",
@@ -62,7 +283,7 @@
     "sourceJobId": "4e0bf598-d3ff-4785-9bc8-02974bacb893",
     "reason": "Part-time language is present but may only describe benefits or a different employment option",
     "firstReviewedAt": "2026-10-19",
-    "lastReviewedAt": "2026-10-28"
+    "lastReviewedAt": "2026-10-29"
   },
   {
     "id": "ashby:empirical:04d6119a-002c-49fa-8b93-52db930d7cca",
@@ -75,6 +296,6 @@
     "sourceJobId": "04d6119a-002c-49fa-8b93-52db930d7cca",
     "reason": "Part-time language is present but may only describe benefits or a different employment option",
     "firstReviewedAt": "2026-09-10",
-    "lastReviewedAt": "2026-10-28"
+    "lastReviewedAt": "2026-10-29"
   }
 ]
