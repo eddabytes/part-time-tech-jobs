@@ -1,7 +1,7 @@
 {
   "status": "partial",
-  "startedAt": "2026-11-02T20:51:43.678Z",
-  "completedAt": "2026-11-02T20:51:55.366Z",
+  "startedAt": "2026-11-03T18:38:15.536Z",
+  "completedAt": "2026-11-03T18:38:31.112Z",
   "sources": {
     "configured": 23,
     "succeeded": 20,
@@ -19,7 +19,7 @@
       },
       {
         "id": "greenhouse:carrotfertility",
-        "rawJobs": 11,
+        "rawJobs": 10,
         "status": "success"
       },
       {
@@ -34,7 +34,7 @@
       },
       {
         "id": "greenhouse:xai",
-        "rawJobs": 312,
+        "rawJobs": 299,
         "status": "success"
       },
       {
@@ -44,7 +44,7 @@
       },
       {
         "id": "ashby:brainco",
-        "rawJobs": 50,
+        "rawJobs": 52,
         "status": "success"
       },
       {
@@ -99,24 +99,24 @@
       },
       {
         "id": "lever:cgsfederal",
-        "rawJobs": 1429,
+        "rawJobs": 1430,
         "status": "success"
       },
       {
         "id": "lever:jobgether",
-        "rawJobs": 3693,
+        "rawJobs": 4610,
         "status": "success"
       }
     ]
   },
   "counts": {
-    "rawJobs": 5600,
-    "candidates": 74,
-    "published": 114,
-    "added": 1,
+    "rawJobs": 6506,
+    "candidates": 117,
+    "published": 128,
+    "added": 43,
     "updated": 0,
-    "closed": 0,
-    "review": 25
+    "closed": 29,
+    "review": 27
   },
   "failures": [
     {
