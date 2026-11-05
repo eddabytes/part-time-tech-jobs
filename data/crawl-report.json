@@ -1,7 +1,7 @@
 {
   "status": "partial",
-  "startedAt": "2026-11-04T18:48:55.769Z",
-  "completedAt": "2026-11-04T18:49:12.091Z",
+  "startedAt": "2026-11-05T18:55:20.081Z",
+  "completedAt": "2026-11-05T18:56:04.275Z",
   "sources": {
     "configured": 23,
     "succeeded": 20,
@@ -44,7 +44,7 @@
       },
       {
         "id": "ashby:brainco",
-        "rawJobs": 52,
+        "rawJobs": 53,
         "status": "success"
       },
       {
@@ -104,19 +104,19 @@
       },
       {
         "id": "lever:jobgether",
-        "rawJobs": 4640,
+        "rawJobs": 4710,
         "status": "success"
       }
     ]
   },
   "counts": {
-    "rawJobs": 6542,
-    "candidates": 94,
-    "published": 131,
+    "rawJobs": 6613,
+    "candidates": 96,
+    "published": 108,
     "added": 3,
     "updated": 0,
-    "closed": 0,
-    "review": 9
+    "closed": 26,
+    "review": 10
   },
   "failures": [
     {
