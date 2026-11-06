@@ -1,7 +1,7 @@
 {
   "status": "partial",
-  "startedAt": "2026-11-05T18:55:20.081Z",
-  "completedAt": "2026-11-05T18:56:04.275Z",
+  "startedAt": "2026-11-06T18:20:23.539Z",
+  "completedAt": "2026-11-06T18:20:37.378Z",
   "sources": {
     "configured": 23,
     "succeeded": 20,
@@ -19,22 +19,22 @@
       },
       {
         "id": "greenhouse:carrotfertility",
-        "rawJobs": 10,
+        "rawJobs": 11,
         "status": "success"
       },
       {
         "id": "greenhouse:nadiacare",
-        "rawJobs": 20,
+        "rawJobs": 18,
         "status": "success"
       },
       {
         "id": "greenhouse:parsleyhealth",
-        "rawJobs": 8,
+        "rawJobs": 9,
         "status": "success"
       },
       {
         "id": "greenhouse:xai",
-        "rawJobs": 305,
+        "rawJobs": 300,
         "status": "success"
       },
       {
@@ -44,7 +44,7 @@
       },
       {
         "id": "ashby:brainco",
-        "rawJobs": 53,
+        "rawJobs": 54,
         "status": "success"
       },
       {
@@ -59,7 +59,7 @@
       },
       {
         "id": "ashby:maneuver-marketing",
-        "rawJobs": 11,
+        "rawJobs": 10,
         "status": "success"
       },
       {
@@ -104,19 +104,19 @@
       },
       {
         "id": "lever:jobgether",
-        "rawJobs": 4710,
+        "rawJobs": 4903,
         "status": "success"
       }
     ]
   },
   "counts": {
-    "rawJobs": 6613,
-    "candidates": 96,
-    "published": 108,
-    "added": 3,
+    "rawJobs": 6801,
+    "candidates": 72,
+    "published": 111,
+    "added": 4,
     "updated": 0,
-    "closed": 26,
-    "review": 10
+    "closed": 1,
+    "review": 11
   },
   "failures": [
     {
