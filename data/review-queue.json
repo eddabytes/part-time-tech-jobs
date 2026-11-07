@@ -10,7 +10,7 @@
     "sourceJobId": "f98b3bce-513f-4d5a-8adf-6a69d1454623",
     "reason": "Part-time language is present but may only describe benefits or a different employment option",
     "firstReviewedAt": "2026-11-05",
-    "lastReviewedAt": "2026-11-06"
+    "lastReviewedAt": "2026-11-07"
   },
   {
     "id": "lever:jobgether:feb0044f-fe56-4af6-875f-ba57840ace7b",
@@ -23,7 +23,7 @@
     "sourceJobId": "feb0044f-fe56-4af6-875f-ba57840ace7b",
     "reason": "Part-time language is present but may only describe benefits or a different employment option",
     "firstReviewedAt": "2026-11-03",
-    "lastReviewedAt": "2026-11-06"
+    "lastReviewedAt": "2026-11-07"
   },
   {
     "id": "lever:jobgether:3354cb09-5396-4ae7-aebe-0c9aed08a3e9",
@@ -36,7 +36,7 @@
     "sourceJobId": "3354cb09-5396-4ae7-aebe-0c9aed08a3e9",
     "reason": "Part-time language is present but may only describe benefits or a different employment option",
     "firstReviewedAt": "2026-11-02",
-    "lastReviewedAt": "2026-11-06"
+    "lastReviewedAt": "2026-11-07"
   },
   {
     "id": "lever:jobgether:8fc51e55-30b3-40e1-9c3d-992310e543b6",
@@ -49,7 +49,7 @@
     "sourceJobId": "8fc51e55-30b3-40e1-9c3d-992310e543b6",
     "reason": "Part-time language is present but may only describe benefits or a different employment option",
     "firstReviewedAt": "2026-11-03",
-    "lastReviewedAt": "2026-11-06"
+    "lastReviewedAt": "2026-11-07"
   },
   {
     "id": "lever:jobgether:64186cdd-c498-4dfd-9177-559014bd70b8",
@@ -62,20 +62,7 @@
     "sourceJobId": "64186cdd-c498-4dfd-9177-559014bd70b8",
     "reason": "Part-time language is present but may only describe benefits or a different employment option",
     "firstReviewedAt": "2026-11-02",
-    "lastReviewedAt": "2026-11-06"
-  },
-  {
-    "id": "lever:jobgether:33f83288-d2f2-49b4-b2c1-843036c34230",
-    "company": "Confidential via Jobgether",
-    "role": "SQL Developer - Data Migration Specialist",
-    "location": "Remote · Brazil",
-    "sourceUrl": "https://jobs.lever.co/jobgether/33f83288-d2f2-49b4-b2c1-843036c34230",
-    "sourceKind": "lever",
-    "sourceTenant": "jobgether",
-    "sourceJobId": "33f83288-d2f2-49b4-b2c1-843036c34230",
-    "reason": "Part-time language is present but may only describe benefits or a different employment option",
-    "firstReviewedAt": "2026-10-30",
-    "lastReviewedAt": "2026-11-06"
+    "lastReviewedAt": "2026-11-07"
   },
   {
     "id": "lever:jobgether:032e8604-b94b-4739-a5a5-d80e09fa7892",
@@ -88,7 +75,7 @@
     "sourceJobId": "032e8604-b94b-4739-a5a5-d80e09fa7892",
     "reason": "Part-time language is present but may only describe benefits or a different employment option",
     "firstReviewedAt": "2026-11-06",
-    "lastReviewedAt": "2026-11-06"
+    "lastReviewedAt": "2026-11-07"
   },
   {
     "id": "lever:jobgether:b759d5e7-9458-4fc7-85ea-4d5d7cd006d1",
@@ -101,7 +88,7 @@
     "sourceJobId": "b759d5e7-9458-4fc7-85ea-4d5d7cd006d1",
     "reason": "Part-time language is present but may only describe benefits or a different employment option",
     "firstReviewedAt": "2026-11-06",
-    "lastReviewedAt": "2026-11-06"
+    "lastReviewedAt": "2026-11-07"
   },
   {
     "id": "lever:jobgether:dc6e375e-2f5a-44eb-86da-5b44983414ca",
@@ -114,7 +101,7 @@
     "sourceJobId": "dc6e375e-2f5a-44eb-86da-5b44983414ca",
     "reason": "Part-time language is present but may only describe benefits or a different employment option",
     "firstReviewedAt": "2026-11-06",
-    "lastReviewedAt": "2026-11-06"
+    "lastReviewedAt": "2026-11-07"
   },
   {
     "id": "ashby:empirical:4e0bf598-d3ff-4785-9bc8-02974bacb893",
@@ -127,7 +114,7 @@
     "sourceJobId": "4e0bf598-d3ff-4785-9bc8-02974bacb893",
     "reason": "Part-time language is present but may only describe benefits or a different employment option",
     "firstReviewedAt": "2026-10-19",
-    "lastReviewedAt": "2026-11-06"
+    "lastReviewedAt": "2026-11-07"
   },
   {
     "id": "ashby:empirical:04d6119a-002c-49fa-8b93-52db930d7cca",
@@ -140,6 +127,6 @@
     "sourceJobId": "04d6119a-002c-49fa-8b93-52db930d7cca",
     "reason": "Part-time language is present but may only describe benefits or a different employment option",
     "firstReviewedAt": "2026-09-10",
-    "lastReviewedAt": "2026-11-06"
+    "lastReviewedAt": "2026-11-07"
   }
 ]
